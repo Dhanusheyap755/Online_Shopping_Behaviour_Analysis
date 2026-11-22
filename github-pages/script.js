@@ -438,7 +438,14 @@ function runDataCleaningPipeline() {
       if (typeof newRow[dateCol] === "number" && newRow[dateCol] > 20000 && newRow[dateCol] < 60000) {
         dt = new Date(Math.round((newRow[dateCol] - 25569) * 86400 * 1000));
       } else {
-        dt = new Date(newRow[dateCol]);
+        let strVal = String(newRow[dateCol]).trim();
+        if (strVal.includes(" ") && !strVal.includes("T")) {
+          strVal = strVal.replace(" ", "T");
+        }
+        dt = new Date(strVal);
+        if (isNaN(dt.getTime())) {
+          dt = new Date(newRow[dateCol]);
+        }
       }
 
       if (!isNaN(dt.getTime())) {
@@ -695,6 +702,10 @@ function showView(viewId) {
   if (target) {
     target.classList.add("active");
     renderCurrentView();
+    // Trigger responsive Plotly chart resize on newly visible view
+    setTimeout(() => {
+      window.dispatchEvent(new Event("resize"));
+    }, 60);
   }
   // Close sidebar on mobile
   const sidebar = document.querySelector("aside.sidebar");

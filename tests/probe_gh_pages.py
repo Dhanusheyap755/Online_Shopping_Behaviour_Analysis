@@ -28,6 +28,7 @@ time.sleep(1)
 print(f"HTTP server listening on port {PORT}...")
 
 urls_to_test = [
+    f"http://localhost:{PORT}/index.html",
     f"http://localhost:{PORT}/github-pages/index.html",
     f"http://localhost:{PORT}/docs/index.html",
     f"http://localhost:{PORT}/docs/style.css",
@@ -41,7 +42,18 @@ for url in urls_to_test:
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
         with urllib.request.urlopen(req, timeout=5) as resp:
             status = resp.status
-            size = len(resp.read())
+            content = resp.read()
+            size = len(content)
+            
+            # Verify that docs/index.html contains dashboard DOM elements, not README markdown
+            if "docs/index.html" in url:
+                text = content.decode('utf-8', errors='ignore')
+                assert "<title>Online Shopping Behaviour & Purchase Trend Analysis</title>" in text
+                assert "app-container" in text
+                assert "Executive Overview" in text
+                assert "# ONLINE SHOPPING" not in text  # Ensure not raw README markdown!
+                print(f"VERIFIED {url} -> Content is the REAL INTERACTIVE DASHBOARD (not README markdown)!")
+
             print(f"PROBE {url} -> Status: {status}, Size: {size:,} bytes [OK]")
     except Exception as e:
         print(f"PROBE FAILED {url} -> {e}")
