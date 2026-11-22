@@ -1,0 +1,1159 @@
+Invoice_Number,User_Code,Transaction_Timestamp,Department,Item_Description,Units_Purchased,Item_Rate,Markdown_Percentage,Settlement_Channel,State_Province,Net_Sales_Value
+ORD-10706,CUST-1401,2023-10-13 19:02:00,Clothing & Apparel,Breathable Athletic Running Shorts,1,36.53,0.0,UPI,Texas,36.53
+ORD-10083,CUST-1229,2023-05-09 13:49:00,Electronics,Mechanical Gaming Keyboard,4,86.71,0.1,Debit Card,New York,312.16
+ORD-10275,CUST-1559,2023-07-08 13:00:00,Books & Media,Psychology of Money,1,20.86,0.05,Credit Card,Illinois,19.82
+ORD-10354,CUST-1331,2023-12-20 19:07:00,Home & Kitchen,Programmable Drip Coffee Maker,1,78.08,0.0,Credit Card,New York,78.08
+ORD-10104,CUST-1172,2023-04-25 23:13:00,Books & Media,Data Science and Machine Learning Handbook,2,54.14,0.05,PayPal,Texas,102.87
+ORD-10470,CUST-1415,2023-07-29 17:45:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,28.99,0.1,Cash on Delivery,Florida,26.09
+ORD-10987,CUST-1142,2023-07-16 15:18:00,Books & Media,Data Science and Machine Learning Handbook,2,44.08,0.05,PayPal,Georgia,83.75
+ORD-10284,CUST-1254,2023-10-26 10:10:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,2,119.11,0.0,Debit Card,California,238.22
+ORD-10555,CUST-1076,2023-04-18 15:16:00,Clothing & Apparel,Merino Wool Knit Sweater,2,108.0,0.25,Credit Card,Illinois,162.0
+ORD-10978,CUST-1329,2023-06-02 23:43:00,Clothing & Apparel,Breathable Athletic Running Shorts,1,44.23,0.0,UPI,Washington,44.23
+ORD-10430,CUST-1018,2023-05-26 13:52:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,24.24,0.1,Credit Card,California,21.82
+ORD-10100,CUST-1534,2023-11-07 09:32:00,Clothing & Apparel,Breathable Athletic Running Shorts,1,43.68,0.05,Debit Card,Georgia,41.5
+ORD-10376,CUST-1540,2023-04-29 19:55:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,50.33,0.25,Credit Card,California,37.75
+ORD-10295,CUST-1519,2023-11-02 11:50:00,Beauty & Personal Care,Organic Argan Hair Care Set,8,31.66,0.05,UPI,Washington,240.62
+ORD-10463,CUST-1450,2023-09-30 11:53:00,Clothing & Apparel,Merino Wool Knit Sweater,3,100.43,0.0,Credit Card,Colorado,301.29
+ORD-10395,CUST-1005,2023-06-15 09:21:00,Electronics,Mechanical Gaming Keyboard,1,76.55,0.1,Credit Card,Texas,68.89
+ORD-10884,CUST-1015,2023-10-04 11:56:00,Home & Kitchen,Robotic Vacuum Cleaner,1,333.27,0.1,Debit Card,New York,299.94
+ORD-10848,CUST-1304,2023-08-10 13:47:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,2,55.27,0.0,Debit Card,New York,110.54
+ORD-10540,CUST-1637,2023-09-24 13:44:00,Electronics,USB-C Fast Charging Hub,4,34.56,0.05,Credit Card,Texas,131.33
+ORD-10038,CUST-1470,2023-08-20 12:59:00,Beauty & Personal Care,Sonic Electric Toothbrush,1,59.98,0.1,PayPal,Texas,53.98
+ORD-11156,CUST-1087,2023-04-26 13:57:00,Electronics,Mechanical Gaming Keyboard,3,86.69,0.0,Credit Card,New York,260.07
+ORD-10069,CUST-1540,2023-02-12 14:07:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,1,21.09,0.0,PayPal,California,21.09
+ORD-10927,CUST-1371,2023-07-05 08:10:00,Home & Kitchen,Programmable Drip Coffee Maker,1,92.66,0.05,Credit Card,New York,88.03
+ORD-10488,CUST-1603,2023-03-21 23:43:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,94.2,0.05,Debit Card,Florida,89.49
+ORD-10520,CUST-1476,2023-08-27 16:39:00,Electronics,Bluetooth Portable Speaker,2,62.28,0.25,Debit Card,New York,93.42
+ORD-10146,CUST-1557,2023-07-06 11:04:00,Electronics,Bluetooth Portable Speaker,2,91.92,0.0,Cash on Delivery,Colorado,183.84
+ORD-10559,CUST-1432,2023-04-16 16:23:00,Electronics,Mechanical Gaming Keyboard,1,130.01,0.05,Credit Card,Illinois,123.51
+ORD-10969,CUST-1007,2023-05-24 22:50:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,3,150.8,0.1,Credit Card,California,407.16
+ORD-10357,CUST-1577,2023-08-18 09:33:00,Beauty & Personal Care,Sonic Electric Toothbrush,3,63.55,0.05,Credit Card,Texas,181.12
+ORD-10911,CUST-1123,2023-10-24 20:54:00,Electronics,USB-C Fast Charging Hub,1,24.15,0.1,UPI,Illinois,21.73
+ORD-11043,CUST-1324,2023-03-16 15:47:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,34.33,0.0,PayPal,Illinois,34.33
+ORD-10467,CUST-1030,2023-10-27 20:45:00,Clothing & Apparel,Insulated Winter Puffer Jacket,8,174.99,0.15,Debit Card,California,1189.93
+ORD-10251,CUST-1126,2023-10-03 09:52:00,Electronics,Smart Fitness Watch,1,191.58,0.1,Cash on Delivery,Florida,172.42
+ORD-10952,CUST-1012,2023-11-05 19:26:00,Electronics,Smart Fitness Watch,1,107.26,0.05,PayPal,New York,101.9
+ORD-10364,CUST-1384,2023-09-29 13:45:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,2,103.07,0.0,UPI,New York,206.14
+ORD-10944,CUST-1191,2023-08-15 17:11:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,397.46,0.0,Credit Card,Florida,397.46
+ORD-10013,CUST-1515,2023-06-18 13:47:00,Home & Kitchen,Robotic Vacuum Cleaner,1,290.99,0.0,Credit Card,Florida,290.99
+ORD-10224,CUST-1264,2023-08-23 14:45:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,19.52,0.1,PayPal,Florida,17.57
+ORD-11049,CUST-1129,2023-10-18 20:07:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,1,67.95,0.05,Credit Card,New York,64.55
+ORD-10998,CUST-1519,2023-07-31 16:13:00,Electronics,Mechanical Gaming Keyboard,2,136.87,0.15,Credit Card,Washington,232.68
+ORD-10575,CUST-1593,2023-05-07 21:21:00,Electronics,Smart Fitness Watch,1,87.57,0.1,Debit Card,California,78.81
+ORD-10515,CUST-1302,2023-12-24 19:23:00,Electronics,Mechanical Gaming Keyboard,3,70.82,0.0,Debit Card,New York,212.46
+ORD-11153,CUST-1339,2023-10-26 21:13:00,Electronics,Mechanical Gaming Keyboard,3,81.61,0.0,Credit Card,New York,244.83
+ORD-10055,CUST-1620,2023-10-20 18:08:00,Beauty & Personal Care,Organic Argan Hair Care Set,3,54.76,0.0,Credit Card,California,164.28
+ORD-10179,CUST-1642,2023-08-08 20:23:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,1,22.98,0.0,Credit Card,Florida,22.98
+ORD-10403,CUST-1422,2023-05-18 15:47:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,2,17.83,0.05,Cash on Delivery,California,33.88
+ORD-10611,CUST-1523,2023-07-01 18:24:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,2,17.57,0.0,UPI,Colorado,35.14
+ORD-10049,CUST-1540,2023-08-26 16:47:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,6,114.78,0.05,UPI,California,654.25
+ORD-10505,CUST-1092,2023-04-08 23:55:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,2,16.67,0.15,UPI,California,28.34
+ORD-10905,CUST-1629,2023-05-12 23:45:00,Electronics,USB-C Fast Charging Hub,2,42.48,0.05,Cash on Delivery,New York,80.71
+ORD-10331,CUST-1001,2023-10-28 09:11:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,2,67.36,0.05,PayPal,Texas,127.98
+ORD-10501,CUST-1015,2023-08-01 19:55:00,Books & Media,Data Science and Machine Learning Handbook,1,50.72,0.0,UPI,New York,50.72
+ORD-10904,CUST-1148,2023-10-13 17:09:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,4,53.4,0.1,Debit Card,California,192.24
+ORD-10103,CUST-1374,2023-09-21 10:23:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,1,16.24,0.05,Credit Card,New York,15.43
+ORD-11120,CUST-1605,2023-12-07 20:23:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,4,38.28,0.0,Credit Card,Texas,153.12
+ORD-10404,CUST-1471,2023-09-14 15:56:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,23.72,0.0,Credit Card,California,23.72
+ORD-10170,CUST-1097,2023-04-11 19:35:00,Books & Media,Deep Work: Focused Success in a Distracted World,6,24.74,0.1,Cash on Delivery,New York,133.6
+ORD-10239,CUST-1424,2023-02-18 08:24:00,Home & Kitchen,Robotic Vacuum Cleaner,1,355.51,0.2,UPI,Florida,284.41
+ORD-10715,CUST-1140,2023-01-22 11:58:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,334.48,0.15,Credit Card,Florida,284.31
+ORD-11095,CUST-1221,2023-05-13 12:45:00,Books & Media,Atomic Habits Hardcover Edition,1,17.47,0.2,Credit Card,California,13.98
+ORD-10716,CUST-1303,2023-05-17 17:42:00,Clothing & Apparel,Insulated Winter Puffer Jacket,3,176.82,0.15,Debit Card,Washington,450.89
+ORD-10798,CUST-1076,2023-03-31 16:07:00,Electronics,Smart Fitness Watch,1,167.02,0.1,UPI,Illinois,150.32
+ORD-10926,CUST-1348,2023-08-16 20:05:00,Electronics,Smart Fitness Watch,1,109.1,0.1,Debit Card,Texas,98.19
+ORD-10044,CUST-1615,2023-08-22 13:50:00,Sports & Outdoors,Thermal Insulated Stainless Water Bottle,2,29.17,0.0,Credit Card,Florida,58.34
+ORD-10494,CUST-1151,2023-07-23 14:36:00,Beauty & Personal Care,Sonic Electric Toothbrush,2,56.17,0.0,Credit Card,California,112.34
+ORD-10671,CUST-1603,2023-12-02 08:03:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,1,41.38,0.2,UPI,Florida,33.1
+ORD-10570,CUST-1202,2023-08-10 15:01:00,Books & Media,Deep Work: Focused Success in a Distracted World,1,24.61,0.05,PayPal,Illinois,23.38
+ORD-10252,CUST-1596,2023-02-27 20:58:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,56.55,0.2,Credit Card,California,45.24
+ORD-10672,CUST-1369,2023-03-08 16:50:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,3,22.5,0.0,Debit Card,Texas,67.5
+ORD-10022,CUST-1130,2023-08-18 12:38:00,Home & Kitchen,Robotic Vacuum Cleaner,1,187.36,0.0,Debit Card,Florida,187.36
+ORD-11061,CUST-1364,2023-12-10 20:06:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,528.33,0.0,Credit Card,California,528.33
+ORD-10309,CUST-1571,2023-10-05 16:23:00,Electronics,Smart Fitness Watch,1,212.84,0.0,Credit Card,Illinois,212.84
+ORD-10914,CUST-1526,2023-08-10 12:15:00,Clothing & Apparel,Breathable Athletic Running Shorts,2,39.71,0.2,Credit Card,New York,63.54
+ORD-10210,CUST-1405,2023-03-01 10:24:00,Clothing & Apparel,Breathable Athletic Running Shorts,1,39.13,0.1,Debit Card,California,35.22
+ORD-10374,CUST-1272,2023-05-02 12:27:00,Clothing & Apparel,Merino Wool Knit Sweater,2,60.55,0.0,UPI,Colorado,121.1
+ORD-10601,CUST-1441,2023-01-09 11:43:00,Books & Media,Deep Work: Focused Success in a Distracted World,5,18.84,0.1,Credit Card,Colorado,84.78
+ORD-10392,CUST-1144,2023-02-06 20:45:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,2,21.17,0.1,Credit Card,Georgia,38.11
+ORD-10620,CUST-1300,2023-07-25 10:51:00,Clothing & Apparel,Merino Wool Knit Sweater,1,97.9,0.05,Debit Card,New York,93.0
+ORD-10922,CUST-1471,2023-12-29 20:35:00,Electronics,Bluetooth Portable Speaker,3,88.19,0.15,UPI,California,224.88
+ORD-10898,CUST-1346,2023-08-08 15:21:00,Clothing & Apparel,Breathable Athletic Running Shorts,1,40.28,0.1,Credit Card,Florida,36.25
+ORD-10098,CUST-1266,2023-12-20 09:56:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,102.41,0.05,Debit Card,California,97.29
+ORD-10604,CUST-1162,2023-05-23 21:02:00,Electronics,Mechanical Gaming Keyboard,1,113.81,0.05,PayPal,Florida,108.12
+ORD-10258,CUST-1486,2023-11-25 19:44:00,Books & Media,Data Science and Machine Learning Handbook,2,44.47,0.05,PayPal,Washington,84.49
+ORD-10418,CUST-1202,2023-06-19 14:49:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,1,33.62,0.0,Credit Card,Illinois,33.62
+ORD-10751,CUST-1241,2023-03-21 23:27:00,Home & Kitchen,Ergonomic Memory Foam Pillow,2,31.92,0.1,Credit Card,Florida,57.46
+ORD-11194,CUST-1375,2023-09-29 08:59:00,Electronics,Smart Fitness Watch,1,175.77,0.15,Credit Card,New York,149.4
+ORD-10528,CUST-1552,2023-02-19 18:52:00,Electronics,Ultra-Wide 4K Gaming Monitor,2,547.88,0.0,Cash on Delivery,California,1095.76
+ORD-10344,CUST-1613,2023-09-05 14:31:00,Clothing & Apparel,Merino Wool Knit Sweater,1,104.07,0.05,UPI,New York,98.87
+ORD-10937,CUST-1263,2023-07-06 13:39:00,Clothing & Apparel,Breathable Athletic Running Shorts,4,38.93,0.05,Credit Card,California,147.93
+ORD-10521,CUST-1108,2023-04-12 22:37:00,Sports & Outdoors,Speed Jump Rope with Ball Bearings,2,22.1,0.2,Debit Card,Texas,35.36
+ORD-10653,CUST-1604,2023-03-25 09:15:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,1,30.49,0.0,Credit Card,Illinois,30.49
+ORD-11041,CUST-1589,2023-03-24 22:03:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,437.68,0.05,Credit Card,New York,415.8
+ORD-10908,CUST-1342,2023-07-13 16:23:00,Home & Kitchen,Robotic Vacuum Cleaner,3,164.12,0.0,UPI,California,492.36
+ORD-10863,CUST-1489,2023-09-10 18:15:00,Electronics,Smart Fitness Watch,2,87.46,0.0,Credit Card,New York,174.92
+ORD-10890,CUST-1454,2023-08-10 19:28:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,1,14.08,0.0,Cash on Delivery,New York,14.08
+ORD-11008,CUST-1469,2023-09-28 11:16:00,Beauty & Personal Care,Organic Argan Hair Care Set,2,29.37,0.05,Credit Card,Texas,55.8
+ORD-10828,CUST-1277,2023-10-13 21:18:00,Electronics,USB-C Fast Charging Hub,1,43.57,0.15,Debit Card,New York,37.03
+ORD-10088,CUST-1397,2023-08-06 10:02:00,Clothing & Apparel,Insulated Winter Puffer Jacket,2,100.58,0.1,PayPal,California,181.04
+ORD-10409,CUST-1415,2023-05-12 21:08:00,Electronics,Bluetooth Portable Speaker,2,59.15,0.0,UPI,Florida,118.3
+ORD-10164,CUST-1495,2023-10-18 18:32:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,2,36.62,0.0,Credit Card,Colorado,73.24
+ORD-10647,CUST-1046,2023-07-06 23:59:00,Books & Media,Data Science and Machine Learning Handbook,1,63.28,0.05,PayPal,New York,60.12
+ORD-11016,CUST-1402,2023-08-22 21:12:00,Electronics,Bluetooth Portable Speaker,1,41.17,0.05,Debit Card,Illinois,39.11
+ORD-10203,CUST-1359,2023-09-22 17:03:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,1,44.66,0.0,Debit Card,Texas,44.66
+ORD-10578,CUST-1522,2023-03-27 11:31:00,Electronics,Smart Fitness Watch,1,157.41,0.0,PayPal,California,157.41
+ORD-10761,CUST-1434,2023-12-25 18:26:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,1,68.72,0.0,Credit Card,Colorado,68.72
+ORD-10007,CUST-1474,2023-10-03 18:05:00,Clothing & Apparel,Merino Wool Knit Sweater,2,104.03,0.05,UPI,New York,197.66
+ORD-10471,CUST-1324,2023-08-06 13:34:00,Home & Kitchen,Robotic Vacuum Cleaner,5,246.82,0.0,Debit Card,Illinois,1234.1
+ORD-10227,CUST-1491,2023-08-11 15:21:00,Electronics,Wireless Noise-Canceling Headphones,2,153.03,0.0,Credit Card,New York,306.06
+ORD-10486,CUST-1249,2023-04-14 15:44:00,Electronics,Smart Fitness Watch,1,207.21,0.0,PayPal,California,207.21
+ORD-10158,CUST-1247,2023-06-07 10:27:00,Electronics,Mechanical Gaming Keyboard,1,64.07,0.2,Credit Card,New York,51.26
+ORD-10421,CUST-1531,2023-03-22 08:35:00,Clothing & Apparel,Breathable Athletic Running Shorts,3,36.26,0.1,PayPal,California,97.9
+ORD-10148,CUST-1384,2023-08-20 11:02:00,Books & Media,Psychology of Money,1,22.28,0.05,UPI,New York,21.17
+ORD-10397,CUST-1301,2023-12-04 12:37:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,19.2,0.1,PayPal,Colorado,17.28
+ORD-10228,CUST-1003,2023-12-20 09:05:00,Home & Kitchen,Robotic Vacuum Cleaner,1,243.55,0.1,Credit Card,California,219.2
+ORD-10631,CUST-1266,2023-04-18 19:55:00,Beauty & Personal Care,Sonic Electric Toothbrush,1,74.27,0.1,Credit Card,California,66.84
+ORD-10701,CUST-1075,2023-09-11 17:23:00,Sports & Outdoors,Adjustable Quick-Select Dumbbell Pair,2,155.1,0.15,Credit Card,Florida,263.67
+ORD-10970,CUST-1195,2023-09-06 15:00:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,3,53.43,0.0,Credit Card,Illinois,160.29
+ORD-10866,CUST-1590,2023-04-24 23:46:00,Electronics,Mechanical Gaming Keyboard,3,85.83,0.15,Debit Card,Washington,218.87
+ORD-10208,CUST-1240,2023-07-05 19:34:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,3,70.65,0.05,Credit Card,Washington,201.35
+ORD-10136,CUST-1129,2023-07-13 14:04:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,529.83,0.15,Credit Card,New York,450.36
+ORD-11165,CUST-1166,2023-01-29 16:11:00,Beauty & Personal Care,Sonic Electric Toothbrush,2,62.53,0.0,PayPal,Texas,125.06
+ORD-10457,CUST-1194,2023-09-10 13:29:00,Books & Media,Data Science and Machine Learning Handbook,1,42.13,0.1,Credit Card,Texas,37.92
+ORD-10967,CUST-1043,2023-08-03 11:23:00,Electronics,USB-C Fast Charging Hub,1,24.62,0.1,Cash on Delivery,Florida,22.16
+ORD-10368,CUST-1334,2023-04-18 12:40:00,Home & Kitchen,Programmable Drip Coffee Maker,6,46.49,0.25,Debit Card,Illinois,209.2
+ORD-10308,CUST-1358,2023-04-22 09:04:00,Sports & Outdoors,Speed Jump Rope with Ball Bearings,4,14.37,0.2,Credit Card,Texas,45.98
+ORD-10782,CUST-1206,2023-03-17 18:36:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,2,44.36,0.1,PayPal,Washington,79.85
+ORD-10493,CUST-1175,2023-09-05 22:59:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,32.36,0.05,Credit Card,Texas,30.74
+ORD-10060,CUST-1382,2023-10-20 23:42:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,2,84.16,0.05,Credit Card,New York,159.9
+ORD-10405,CUST-1378,2023-07-29 09:00:00,Electronics,USB-C Fast Charging Hub,6,24.13,0.0,Debit Card,Washington,144.78
+ORD-10015,CUST-1406,2023-10-30 08:10:00,Home & Kitchen,Robotic Vacuum Cleaner,1,310.45,0.0,PayPal,California,310.45
+ORD-10568,CUST-1246,2023-05-21 10:37:00,Electronics,Ultra-Wide 4K Gaming Monitor,3,484.09,0.05,UPI,California,1379.66
+ORD-11019,CUST-1259,2023-07-12 20:16:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,1,102.92,0.05,PayPal,Washington,97.77
+ORD-10875,CUST-1019,2023-08-18 22:42:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,83.62,0.15,Credit Card,Illinois,71.08
+ORD-10818,CUST-1550,2023-07-08 14:25:00,Home & Kitchen,Robotic Vacuum Cleaner,1,379.84,0.05,Cash on Delivery,California,360.85
+ORD-11001,CUST-1245,2023-07-24 16:14:00,Clothing & Apparel,Merino Wool Knit Sweater,2,121.91,0.0,PayPal,New York,243.82
+ORD-10573,CUST-1197,2023-09-19 13:39:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,2,27.21,0.1,PayPal,Texas,48.98
+ORD-11066,CUST-1517,2023-07-01 17:38:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,307.72,0.0,Cash on Delivery,Texas,307.72
+ORD-11050,CUST-1154,2023-03-06 08:07:00,Electronics,USB-C Fast Charging Hub,1,38.59,0.0,Credit Card,Illinois,38.59
+ORD-11062,CUST-1165,2023-05-27 14:01:00,Electronics,Bluetooth Portable Speaker,2,90.98,0.1,Credit Card,California,163.76
+ORD-10733,CUST-1538,2023-04-02 15:35:00,Clothing & Apparel,Insulated Winter Puffer Jacket,2,159.06,0.0,Cash on Delivery,California,318.12
+ORD-10264,CUST-1602,2023-05-07 20:55:00,Beauty & Personal Care,Sonic Electric Toothbrush,2,87.82,0.05,Credit Card,California,166.86
+ORD-10268,CUST-1409,2023-07-30 13:10:00,Books & Media,Psychology of Money,1,21.84,0.0,Debit Card,New York,21.84
+ORD-10176,CUST-1627,2023-10-24 17:02:00,Electronics,USB-C Fast Charging Hub,4,45.61,0.05,Credit Card,Washington,173.32
+ORD-10432,CUST-1233,2023-07-04 19:40:00,Books & Media,Atomic Habits Hardcover Edition,2,19.46,0.05,UPI,New York,36.97
+ORD-10679,CUST-1434,2023-11-27 17:18:00,Electronics,Wireless Noise-Canceling Headphones,1,272.01,0.0,PayPal,Colorado,272.01
+ORD-10491,CUST-1036,2023-12-17 10:29:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,64.83,0.2,UPI,Washington,51.86
+ORD-10347,CUST-1457,2023-11-26 21:30:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,1,111.69,0.2,PayPal,Florida,89.35
+ORD-10916,CUST-1157,2023-07-25 19:16:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,2,30.61,0.1,Credit Card,New York,55.1
+ORD-10881,CUST-1504,2023-10-19 19:51:00,Books & Media,Atomic Habits Hardcover Edition,1,20.72,0.0,Credit Card,California,20.72
+ORD-10600,CUST-1163,2023-10-16 10:56:00,Home & Kitchen,Robotic Vacuum Cleaner,1,298.75,0.0,Credit Card,Florida,298.75
+ORD-10334,CUST-1351,2023-11-25 17:51:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,3,19.42,0.2,Credit Card,California,46.61
+ORD-10895,CUST-1203,2023-06-22 14:26:00,Sports & Outdoors,Thermal Insulated Stainless Water Bottle,2,33.7,0.0,Credit Card,Florida,67.4
+ORD-10393,CUST-1071,2023-11-20 23:38:00,Books & Media,Atomic Habits Hardcover Edition,1,18.39,0.0,Credit Card,California,18.39
+ORD-11069,CUST-1103,2023-11-24 20:24:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,74.79,0.05,Cash on Delivery,New York,71.05
+ORD-10630,CUST-1521,2023-02-10 14:07:00,Clothing & Apparel,Merino Wool Knit Sweater,1,121.86,0.05,Credit Card,California,115.77
+ORD-10795,CUST-1143,2023-11-19 08:20:00,Electronics,Bluetooth Portable Speaker,1,59.59,0.1,Cash on Delivery,California,53.63
+ORD-10144,CUST-1365,2023-09-05 17:11:00,Clothing & Apparel,Breathable Athletic Running Shorts,2,26.2,0.2,Debit Card,Florida,41.92
+ORD-10262,CUST-1629,2023-12-07 10:05:00,Electronics,USB-C Fast Charging Hub,1,34.53,0.0,Credit Card,New York,34.53
+ORD-10171,CUST-1258,2023-11-26 17:01:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,3,43.18,0.0,Credit Card,Florida,129.54
+ORD-10840,CUST-1262,2023-03-29 09:50:00,Electronics,Bluetooth Portable Speaker,2,62.04,0.1,Debit Card,Florida,111.67
+ORD-10903,CUST-1373,2023-11-25 09:58:00,Home & Kitchen,Robotic Vacuum Cleaner,2,369.19,0.05,Debit Card,Florida,701.46
+ORD-10915,CUST-1571,2023-08-24 22:49:00,Electronics,Smart Fitness Watch,1,88.59,0.1,Credit Card,Illinois,79.73
+ORD-10137,CUST-1513,2023-08-01 22:47:00,Home & Kitchen,Robotic Vacuum Cleaner,1,234.47,0.05,Credit Card,Texas,222.75
+ORD-10462,CUST-1288,2023-08-22 09:03:00,Clothing & Apparel,Merino Wool Knit Sweater,1,120.42,0.0,Debit Card,Illinois,120.42
+ORD-10406,CUST-1142,2023-08-10 09:58:00,Clothing & Apparel,Breathable Athletic Running Shorts,1,27.83,0.1,Credit Card,Georgia,25.05
+ORD-11010,CUST-1378,2023-02-02 19:12:00,Beauty & Personal Care,Organic Argan Hair Care Set,2,56.57,0.0,Credit Card,Washington,113.14
+ORD-10546,CUST-1498,2023-01-10 13:46:00,Clothing & Apparel,Merino Wool Knit Sweater,1,84.35,0.05,Debit Card,Florida,80.13
+ORD-11163,CUST-1162,2023-06-23 10:18:00,Beauty & Personal Care,Sonic Electric Toothbrush,2,58.4,0.0,Debit Card,Florida,116.8
+ORD-10729,CUST-1203,2023-08-15 23:15:00,Electronics,Bluetooth Portable Speaker,3,69.78,0.1,PayPal,Florida,188.41
+ORD-10350,CUST-1452,2023-03-19 19:44:00,Electronics,Wireless Noise-Canceling Headphones,1,224.69,0.0,Debit Card,Illinois,224.69
+ORD-10938,CUST-1254,2023-07-08 15:44:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,2,140.97,0.0,Credit Card,California,281.94
+ORD-10658,CUST-1353,2023-05-30 08:11:00,Electronics,USB-C Fast Charging Hub,2,40.61,0.05,Debit Card,New York,77.16
+ORD-10894,CUST-1457,2023-09-14 10:03:00,Electronics,Ultra-Wide 4K Gaming Monitor,3,476.08,0.0,Credit Card,Florida,1428.24
+ORD-10879,CUST-1173,2023-07-05 15:56:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,1,43.37,0.05,Debit Card,Florida,41.2
+ORD-11134,CUST-1363,2023-02-23 21:22:00,Electronics,Mechanical Gaming Keyboard,4,69.46,0.1,PayPal,California,250.06
+ORD-10279,CUST-1064,2023-01-28 14:28:00,Home & Kitchen,Programmable Drip Coffee Maker,2,107.21,0.15,PayPal,Florida,182.26
+ORD-11183,CUST-1443,2023-08-13 16:23:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,1,26.19,0.05,Credit Card,Illinois,24.88
+ORD-10101,CUST-1271,2023-09-23 22:04:00,Home & Kitchen,Programmable Drip Coffee Maker,1,86.18,0.2,Debit Card,New York,68.94
+ORD-10379,CUST-1363,2023-12-23 19:25:00,Electronics,Wireless Noise-Canceling Headphones,1,178.53,0.0,Debit Card,California,178.53
+ORD-10217,CUST-1615,2023-11-03 22:29:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,55.23,0.15,PayPal,Florida,46.95
+ORD-10781,CUST-1406,2023-09-09 12:33:00,Home & Kitchen,Ergonomic Memory Foam Pillow,3,49.11,0.1,PayPal,California,132.6
+ORD-11052,CUST-1213,2023-07-30 19:52:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,476.8,0.05,Debit Card,Colorado,452.96
+ORD-10261,CUST-1266,2023-11-02 15:42:00,Electronics,Bluetooth Portable Speaker,1,85.11,0.1,Credit Card,California,76.6
+ORD-10415,CUST-1142,2023-10-04 17:19:00,Electronics,Bluetooth Portable Speaker,3,56.49,0.1,Debit Card,Georgia,152.52
+ORD-10560,CUST-1044,2023-10-06 16:55:00,Electronics,USB-C Fast Charging Hub,2,31.28,0.1,Cash on Delivery,Illinois,56.3
+ORD-10497,CUST-1205,2023-11-29 15:46:00,Home & Kitchen,Robotic Vacuum Cleaner,2,348.66,0.0,UPI,Georgia,697.32
+ORD-10727,CUST-1026,2023-06-23 23:36:00,Sports & Outdoors,Adjustable Quick-Select Dumbbell Pair,1,163.45,0.1,PayPal,Florida,147.1
+ORD-10152,CUST-1275,2023-04-16 16:40:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,61.76,0.0,UPI,Texas,61.76
+ORD-10019,CUST-1199,2023-03-21 09:40:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,3,61.05,0.1,PayPal,New York,164.83
+ORD-10167,CUST-1120,2023-06-23 18:44:00,Sports & Outdoors,Speed Jump Rope with Ball Bearings,1,23.32,0.0,Credit Card,Washington,23.32
+ORD-11044,CUST-1506,2023-12-28 22:29:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,1,24.59,0.0,Credit Card,Texas,24.59
+ORD-10522,CUST-1076,2023-04-16 17:13:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,2,27.77,0.15,Debit Card,Illinois,47.21
+ORD-10586,CUST-1174,2023-10-18 19:19:00,Clothing & Apparel,Breathable Athletic Running Shorts,2,44.41,0.1,Credit Card,New York,79.94
+ORD-11160,CUST-1554,2023-07-22 14:19:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,1,27.43,0.05,PayPal,Florida,26.06
+ORD-11174,CUST-1636,2023-08-09 11:19:00,Beauty & Personal Care,Sonic Electric Toothbrush,1,44.6,0.05,UPI,Texas,42.37
+ORD-10071,CUST-1078,2023-06-06 14:49:00,Electronics,Ultra-Wide 4K Gaming Monitor,3,326.88,0.1,PayPal,California,882.58
+ORD-10802,CUST-1286,2023-11-27 13:43:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,3,24.05,0.15,UPI,New York,61.33
+ORD-10899,CUST-1280,2023-09-27 09:00:00,Home & Kitchen,Programmable Drip Coffee Maker,2,89.26,0.2,UPI,Illinois,142.82
+ORD-10913,CUST-1002,2023-01-22 17:44:00,Electronics,Wireless Noise-Canceling Headphones,1,130.22,0.0,UPI,Illinois,130.22
+ORD-10623,CUST-1455,2023-08-26 09:58:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,1,58.37,0.0,Credit Card,New York,58.37
+ORD-10670,CUST-1548,2023-11-18 15:27:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,4,27.69,0.0,Credit Card,California,110.76
+ORD-10954,CUST-1560,2023-09-06 23:20:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,3,30.4,0.0,Credit Card,California,91.2
+ORD-10558,CUST-1628,2023-07-07 21:35:00,Sports & Outdoors,Adjustable Quick-Select Dumbbell Pair,2,180.29,0.0,Debit Card,Illinois,360.58
+ORD-10510,CUST-1626,2023-11-22 21:29:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,3,53.39,0.05,Credit Card,Washington,152.16
+ORD-11079,CUST-1092,2023-11-21 22:02:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,2,18.73,0.05,Credit Card,California,35.59
+ORD-11063,CUST-1373,2023-07-20 17:22:00,Home & Kitchen,Programmable Drip Coffee Maker,1,95.48,0.0,Debit Card,Florida,95.48
+ORD-10119,CUST-1175,2023-07-23 18:56:00,Electronics,Mechanical Gaming Keyboard,2,75.82,0.05,UPI,Texas,144.06
+ORD-11117,CUST-1597,2023-10-21 08:33:00,Books & Media,Psychology of Money,1,23.08,0.0,Credit Card,California,23.08
+ORD-10583,CUST-1391,2023-07-19 21:27:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,174.34,0.05,UPI,Texas,165.62
+ORD-10868,CUST-1347,2023-10-15 13:48:00,Clothing & Apparel,Breathable Athletic Running Shorts,5,33.5,0.05,PayPal,Florida,159.12
+ORD-11033,CUST-1525,2023-04-25 18:50:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,1,16.34,0.0,UPI,Illinois,16.34
+ORD-10530,CUST-1452,2023-08-13 11:16:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,6,82.33,0.05,Credit Card,Illinois,469.28
+ORD-11137,CUST-1007,2023-06-05 17:11:00,Beauty & Personal Care,Sonic Electric Toothbrush,2,49.38,0.15,Credit Card,California,83.95
+ORD-10314,CUST-1059,2023-03-05 12:30:00,Books & Media,Atomic Habits Hardcover Edition,3,22.13,0.05,PayPal,California,63.07
+ORD-10692,CUST-1608,2023-09-01 18:36:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,2,29.67,0.2,Credit Card,California,47.47
+ORD-11013,CUST-1235,2023-04-24 18:11:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,371.95,0.0,Credit Card,Georgia,371.95
+ORD-11012,CUST-1341,2023-03-11 14:50:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,2,51.75,0.05,PayPal,Florida,98.32
+ORD-11058,CUST-1322,2023-08-12 18:34:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,33.32,0.05,Credit Card,Illinois,31.65
+ORD-11006,CUST-1071,2023-10-27 22:29:00,Books & Media,Psychology of Money,2,17.78,0.1,UPI,California,32.0
+ORD-10909,CUST-1005,2023-12-28 10:37:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,2,29.86,0.05,Debit Card,Texas,56.73
+ORD-10256,CUST-1248,2023-03-06 08:16:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,1,33.31,0.05,Cash on Delivery,Texas,31.64
+ORD-10594,CUST-1164,2023-10-22 14:08:00,Beauty & Personal Care,Sonic Electric Toothbrush,1,86.25,0.1,Credit Card,California,77.62
+ORD-10272,CUST-1021,2023-09-06 16:15:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,172.95,0.0,Credit Card,Texas,172.95
+ORD-10816,CUST-1128,2023-05-31 17:54:00,Home & Kitchen,Programmable Drip Coffee Maker,2,88.22,0.1,Debit Card,Florida,158.8
+ORD-11099,CUST-1240,2023-09-19 11:39:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,2,33.31,0.1,UPI,Washington,59.96
+ORD-10476,CUST-1155,2023-07-27 15:38:00,Clothing & Apparel,Breathable Athletic Running Shorts,3,36.7,0.0,Debit Card,Illinois,110.1
+ORD-10847,CUST-1049,2023-06-17 14:00:00,Beauty & Personal Care,Sonic Electric Toothbrush,4,56.6,0.05,Credit Card,New York,215.08
+ORD-10796,CUST-1088,2023-09-30 19:02:00,Home & Kitchen,Robotic Vacuum Cleaner,1,263.52,0.05,Credit Card,Illinois,250.34
+ORD-10531,CUST-1031,2023-09-20 08:12:00,Clothing & Apparel,Merino Wool Knit Sweater,1,110.8,0.15,Debit Card,California,94.18
+ORD-10693,CUST-1328,2023-07-07 18:56:00,Clothing & Apparel,Merino Wool Knit Sweater,3,60.2,0.05,Debit Card,Florida,171.57
+ORD-10757,CUST-1228,2023-10-14 09:26:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,3,23.45,0.0,Credit Card,California,70.35
+ORD-11179,CUST-1569,2023-05-30 19:29:00,Home & Kitchen,Robotic Vacuum Cleaner,1,263.78,0.0,PayPal,California,263.78
+ORD-10451,CUST-1509,2023-05-09 20:36:00,Electronics,Wireless Noise-Canceling Headphones,1,177.78,0.1,Credit Card,New York,160.0
+ORD-11039,CUST-1451,2023-03-30 22:32:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,158.83,0.05,PayPal,Texas,150.89
+ORD-11119,CUST-1507,2023-09-13 18:40:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,2,74.0,0.0,UPI,California,148.0
+ORD-10860,CUST-1408,2023-08-24 16:57:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,1,40.43,0.1,Debit Card,Illinois,36.39
+ORD-10851,CUST-1550,2023-02-13 15:50:00,Books & Media,Psychology of Money,2,20.4,0.05,Debit Card,California,38.76
+ORD-10192,CUST-1649,2023-02-10 23:56:00,Electronics,Bluetooth Portable Speaker,8,49.5,0.0,Credit Card,New York,396.0
+ORD-10079,CUST-1365,2023-03-24 11:09:00,Electronics,Mechanical Gaming Keyboard,2,109.65,0.1,PayPal,Florida,197.37
+ORD-10302,CUST-1371,2023-04-28 23:48:00,Home & Kitchen,Programmable Drip Coffee Maker,2,100.5,0.1,Cash on Delivery,New York,180.9
+ORD-10345,CUST-1532,2023-03-18 08:28:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,2,120.18,0.15,Debit Card,Texas,204.31
+ORD-10265,CUST-1225,2023-07-23 15:03:00,Home & Kitchen,Programmable Drip Coffee Maker,1,83.73,0.0,Credit Card,New York,83.73
+ORD-10603,CUST-1516,2023-01-20 17:35:00,Books & Media,Deep Work: Focused Success in a Distracted World,2,23.43,0.1,PayPal,Georgia,42.17
+ORD-10206,CUST-1514,2023-08-13 19:44:00,Home & Kitchen,Programmable Drip Coffee Maker,2,93.4,0.25,Credit Card,California,140.1
+ORD-10120,CUST-1203,2023-10-23 12:49:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,18.37,0.0,Credit Card,Florida,18.37
+ORD-10319,CUST-1632,2023-05-29 16:35:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,20.36,0.05,UPI,California,19.34
+ORD-10242,CUST-1334,2023-08-26 21:34:00,Books & Media,Data Science and Machine Learning Handbook,3,42.18,0.25,Credit Card,Illinois,94.91
+ORD-10709,CUST-1270,2023-06-08 19:07:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,3,103.23,0.25,PayPal,Washington,232.27
+ORD-10961,CUST-1194,2023-09-19 17:56:00,Sports & Outdoors,Speed Jump Rope with Ball Bearings,4,17.35,0.0,Debit Card,Texas,69.4
+ORD-10874,CUST-1357,2023-10-05 22:37:00,Home & Kitchen,Robotic Vacuum Cleaner,2,294.41,0.05,Debit Card,Texas,559.38
+ORD-10614,CUST-1160,2023-08-29 21:36:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,30.0,0.15,Debit Card,Florida,25.5
+ORD-11060,CUST-1282,2023-03-26 19:01:00,Beauty & Personal Care,Sonic Electric Toothbrush,1,56.75,0.0,PayPal,Texas,56.75
+ORD-10561,CUST-1276,2023-09-15 12:12:00,Electronics,Smart Fitness Watch,4,213.89,0.05,Credit Card,California,812.78
+ORD-11149,CUST-1327,2023-01-27 14:34:00,Clothing & Apparel,Breathable Athletic Running Shorts,2,41.65,0.2,Credit Card,Texas,66.64
+ORD-10976,CUST-1590,2023-06-12 21:31:00,Clothing & Apparel,Merino Wool Knit Sweater,1,97.39,0.0,Credit Card,Washington,97.39
+ORD-10363,CUST-1003,2023-06-14 10:31:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,321.47,0.0,Credit Card,California,321.47
+ORD-10484,CUST-1183,2023-07-24 14:31:00,Clothing & Apparel,Insulated Winter Puffer Jacket,2,108.16,0.15,Credit Card,New York,183.87
+ORD-10201,CUST-1014,2023-08-19 12:55:00,Books & Media,Psychology of Money,2,18.58,0.0,UPI,Georgia,37.16
+ORD-11009,CUST-1634,2023-05-06 11:21:00,Sports & Outdoors,Speed Jump Rope with Ball Bearings,8,17.97,0.0,Cash on Delivery,Washington,143.76
+ORD-10785,CUST-1326,2023-05-29 17:47:00,Home & Kitchen,Programmable Drip Coffee Maker,2,114.85,0.05,Credit Card,California,218.21
+ORD-10640,CUST-1421,2023-09-13 19:51:00,Electronics,Ultra-Wide 4K Gaming Monitor,3,282.91,0.0,Credit Card,Florida,848.73
+ORD-11190,CUST-1575,2023-06-12 22:16:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,58.19,0.05,PayPal,Florida,55.28
+ORD-11170,CUST-1038,2023-10-02 14:59:00,Clothing & Apparel,Breathable Athletic Running Shorts,1,29.77,0.0,Cash on Delivery,California,29.77
+ORD-10921,CUST-1219,2023-12-13 08:27:00,Beauty & Personal Care,Sonic Electric Toothbrush,2,39.05,0.05,PayPal,Washington,74.19
+ORD-10639,CUST-1563,2023-08-03 08:28:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,2,19.23,0.05,Credit Card,Texas,36.54
+ORD-10564,CUST-1531,2023-07-29 22:18:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,1,41.91,0.0,Debit Card,California,41.91
+ORD-10765,CUST-1636,2023-05-10 17:45:00,Clothing & Apparel,Merino Wool Knit Sweater,1,84.2,0.1,Debit Card,Texas,75.78
+ORD-10773,CUST-1357,2023-06-08 22:27:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,90.04,0.05,PayPal,Texas,85.54
+ORD-10174,CUST-1184,2023-01-28 17:53:00,Electronics,Bluetooth Portable Speaker,1,45.38,0.05,Credit Card,Illinois,43.11
+ORD-10821,CUST-1115,2023-07-28 19:57:00,Electronics,Bluetooth Portable Speaker,1,50.18,0.1,Debit Card,Illinois,45.16
+ORD-10143,CUST-1192,2023-04-07 17:11:00,Electronics,Smart Fitness Watch,1,194.47,0.0,Credit Card,Washington,194.47
+ORD-10683,CUST-1145,2023-11-01 21:10:00,Books & Media,Data Science and Machine Learning Handbook,2,61.93,0.1,Debit Card,California,111.47
+ORD-10817,CUST-1196,2023-05-30 16:55:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,2,147.79,0.05,Credit Card,Texas,280.8
+ORD-10076,CUST-1375,2023-11-14 15:39:00,Clothing & Apparel,Merino Wool Knit Sweater,1,109.44,0.2,UPI,New York,87.55
+ORD-10687,CUST-1019,2023-01-15 10:51:00,Electronics,Bluetooth Portable Speaker,8,94.23,0.15,UPI,Illinois,640.76
+ORD-10943,CUST-1233,2023-07-22 12:07:00,Clothing & Apparel,Merino Wool Knit Sweater,3,109.6,0.05,Credit Card,New York,312.36
+ORD-10712,CUST-1026,2023-08-17 22:17:00,Books & Media,Atomic Habits Hardcover Edition,1,16.39,0.05,UPI,Florida,15.57
+ORD-10599,CUST-1065,2023-04-14 16:36:00,Clothing & Apparel,Breathable Athletic Running Shorts,4,39.96,0.05,Cash on Delivery,California,151.85
+ORD-10535,CUST-1525,2023-03-09 20:01:00,Electronics,Mechanical Gaming Keyboard,2,62.14,0.25,PayPal,Illinois,93.21
+ORD-11132,CUST-1156,2023-04-14 23:10:00,Home & Kitchen,Programmable Drip Coffee Maker,2,52.17,0.1,Credit Card,Georgia,93.91
+ORD-10885,CUST-1097,2023-11-04 18:01:00,Electronics,Bluetooth Portable Speaker,1,72.52,0.05,Credit Card,New York,68.89
+ORD-10349,CUST-1542,2023-08-12 13:08:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,3,55.46,0.25,Credit Card,Illinois,124.78
+ORD-11110,CUST-1216,2023-04-11 08:11:00,Electronics,Ultra-Wide 4K Gaming Monitor,2,280.58,0.0,PayPal,Colorado,561.16
+ORD-10362,CUST-1452,2023-07-22 20:02:00,Electronics,Smart Fitness Watch,3,163.31,0.05,PayPal,Illinois,465.43
+ORD-10644,CUST-1622,2023-10-23 12:04:00,Electronics,Mechanical Gaming Keyboard,2,132.24,0.1,Credit Card,Texas,238.03
+ORD-11042,CUST-1273,2023-01-30 18:50:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,3,35.58,0.1,Credit Card,California,96.07
+ORD-10292,CUST-1118,2023-04-17 18:47:00,Sports & Outdoors,Adjustable Quick-Select Dumbbell Pair,1,171.53,0.0,PayPal,California,171.53
+ORD-10001,CUST-1220,2023-02-11 20:24:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,44.78,0.0,PayPal,California,44.78
+ORD-10820,CUST-1475,2023-10-06 20:03:00,Clothing & Apparel,Insulated Winter Puffer Jacket,2,137.01,0.05,Credit Card,Illinois,260.32
+ORD-10741,CUST-1623,2023-11-15 11:24:00,Sports & Outdoors,Thermal Insulated Stainless Water Bottle,2,18.16,0.2,Debit Card,California,29.06
+ORD-10429,CUST-1586,2023-02-22 14:45:00,Home & Kitchen,Ergonomic Memory Foam Pillow,6,33.56,0.05,Credit Card,California,191.29
+ORD-10043,CUST-1125,2023-07-23 17:54:00,Home & Kitchen,Programmable Drip Coffee Maker,1,107.39,0.1,Credit Card,Texas,96.65
+ORD-10455,CUST-1182,2023-02-07 12:22:00,Sports & Outdoors,Speed Jump Rope with Ball Bearings,1,20.28,0.0,Credit Card,California,20.28
+ORD-10725,CUST-1058,2023-04-10 10:11:00,Electronics,USB-C Fast Charging Hub,1,29.3,0.1,Credit Card,Washington,26.37
+ORD-10506,CUST-1312,2023-07-15 17:48:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,3,18.91,0.1,Credit Card,Washington,51.06
+ORD-10619,CUST-1278,2023-10-26 12:52:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,2,188.17,0.25,Debit Card,Texas,282.25
+ORD-10959,CUST-1023,2023-03-16 22:09:00,Electronics,Mechanical Gaming Keyboard,1,71.32,0.05,Debit Card,Illinois,67.75
+ORD-10775,CUST-1087,2023-08-10 23:14:00,Books & Media,Psychology of Money,8,18.1,0.0,Credit Card,New York,144.8
+ORD-10762,CUST-1463,2023-07-16 19:20:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,3,33.95,0.0,Debit Card,Washington,101.85
+ORD-10673,CUST-1061,2023-02-18 10:10:00,Clothing & Apparel,Breathable Athletic Running Shorts,4,34.59,0.0,Debit Card,Florida,138.36
+ORD-11051,CUST-1342,2023-07-27 22:48:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,57.19,0.2,Credit Card,California,45.75
+ORD-10696,CUST-1637,2023-10-10 23:45:00,Home & Kitchen,Programmable Drip Coffee Maker,1,92.99,0.05,Credit Card,Texas,88.34
+ORD-10423,CUST-1459,2023-11-06 23:33:00,Beauty & Personal Care,Organic Argan Hair Care Set,2,44.57,0.05,Credit Card,New York,84.68
+ORD-10437,CUST-1089,2023-11-27 21:29:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,30.43,0.1,PayPal,Texas,27.39
+ORD-10738,CUST-1267,2023-06-08 11:04:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,2,31.26,0.2,Debit Card,California,50.02
+ORD-10585,CUST-1355,2023-07-23 11:14:00,Electronics,Ultra-Wide 4K Gaming Monitor,2,443.2,0.05,PayPal,California,842.08
+ORD-10837,CUST-1220,2023-11-04 20:09:00,Electronics,Smart Fitness Watch,2,174.88,0.05,Debit Card,California,332.27
+ORD-10627,CUST-1354,2023-12-19 11:42:00,Home & Kitchen,Programmable Drip Coffee Maker,1,90.76,0.25,Debit Card,California,68.07
+ORD-11105,CUST-1172,2023-06-11 13:31:00,Electronics,USB-C Fast Charging Hub,2,41.16,0.15,Credit Card,Texas,69.97
+ORD-10602,CUST-1411,2023-02-17 17:46:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,427.46,0.1,PayPal,Texas,384.71
+ORD-10177,CUST-1464,2023-04-14 21:12:00,Home & Kitchen,Programmable Drip Coffee Maker,2,47.82,0.05,Credit Card,California,90.86
+ORD-10074,CUST-1008,2023-11-22 12:34:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,2,93.0,0.05,PayPal,Colorado,176.7
+ORD-11196,CUST-1633,2023-06-11 16:53:00,Clothing & Apparel,Insulated Winter Puffer Jacket,2,107.03,0.05,Debit Card,California,203.36
+ORD-10328,CUST-1202,2023-07-16 14:51:00,Sports & Outdoors,Adjustable Quick-Select Dumbbell Pair,3,165.78,0.25,Debit Card,Illinois,373.0
+ORD-11057,CUST-1017,2023-05-02 19:44:00,Electronics,Bluetooth Portable Speaker,3,67.72,0.0,Credit Card,Texas,203.16
+ORD-10836,CUST-1629,2023-08-30 12:23:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,34.56,0.2,Debit Card,New York,27.65
+ORD-10628,CUST-1230,2023-10-16 11:44:00,Electronics,Wireless Noise-Canceling Headphones,1,245.4,0.0,Credit Card,California,245.4
+ORD-10930,CUST-1367,2023-07-08 22:57:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,2,41.51,0.0,Credit Card,Texas,83.02
+ORD-10735,CUST-1008,2023-08-16 14:11:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,2,107.99,0.05,Credit Card,Colorado,205.18
+ORD-10278,CUST-1241,2023-06-23 22:17:00,Electronics,Mechanical Gaming Keyboard,2,136.88,0.1,PayPal,Florida,246.38
+ORD-10464,CUST-1310,2023-08-31 08:59:00,Electronics,Wireless Noise-Canceling Headphones,2,147.44,0.2,Credit Card,Colorado,235.9
+ORD-10980,CUST-1393,2023-04-18 17:16:00,Beauty & Personal Care,Sonic Electric Toothbrush,1,49.95,0.0,Debit Card,California,49.95
+ORD-10456,CUST-1617,2023-08-19 08:28:00,Clothing & Apparel,Breathable Athletic Running Shorts,2,36.34,0.05,UPI,Texas,69.05
+ORD-11047,CUST-1532,2023-08-01 17:18:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,22.66,0.1,Debit Card,Texas,20.39
+ORD-10260,CUST-1055,2023-06-29 16:20:00,Home & Kitchen,Ergonomic Memory Foam Pillow,3,42.43,0.0,Credit Card,Illinois,127.29
+ORD-10443,CUST-1575,2023-03-05 17:02:00,Electronics,Wireless Noise-Canceling Headphones,2,295.86,0.0,Credit Card,Florida,591.72
+ORD-11169,CUST-1337,2023-06-26 23:46:00,Electronics,Mechanical Gaming Keyboard,3,68.1,0.0,Debit Card,New York,204.3
+ORD-10480,CUST-1080,2023-04-05 11:41:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,43.47,0.0,Debit Card,Texas,43.47
+ORD-10562,CUST-1480,2023-05-23 20:35:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,3,73.01,0.15,UPI,California,186.18
+ORD-10755,CUST-1344,2023-11-14 14:49:00,Books & Media,Data Science and Machine Learning Handbook,1,67.31,0.1,PayPal,Florida,60.58
+ORD-10318,CUST-1114,2023-10-26 20:48:00,Sports & Outdoors,Adjustable Quick-Select Dumbbell Pair,1,172.73,0.15,Credit Card,Florida,146.82
+ORD-10950,CUST-1441,2023-11-19 22:29:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,24.97,0.2,PayPal,Colorado,19.98
+ORD-10588,CUST-1220,2023-10-17 23:29:00,Home & Kitchen,Ergonomic Memory Foam Pillow,2,29.31,0.05,Debit Card,California,55.69
+ORD-10869,CUST-1436,2023-08-26 23:50:00,Electronics,Smart Fitness Watch,2,174.28,0.0,UPI,Florida,348.56
+ORD-10870,CUST-1028,2023-07-11 12:35:00,Books & Media,Atomic Habits Hardcover Edition,2,22.72,0.0,PayPal,New York,45.44
+ORD-10280,CUST-1584,2023-03-20 17:33:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,2,46.45,0.0,Debit Card,California,92.9
+ORD-11186,CUST-1131,2023-06-15 10:45:00,Beauty & Personal Care,Organic Argan Hair Care Set,2,27.9,0.05,Debit Card,Florida,53.01
+ORD-10744,CUST-1349,2023-10-05 11:17:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,98.9,0.0,Cash on Delivery,Florida,98.9
+ORD-10340,CUST-1296,2023-07-14 18:46:00,Sports & Outdoors,Adjustable Quick-Select Dumbbell Pair,8,151.07,0.05,Credit Card,Texas,1148.13
+ORD-10454,CUST-1500,2023-06-02 16:45:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,19.03,0.15,Debit Card,Texas,16.18
+ORD-10126,CUST-1576,2023-08-17 16:20:00,Clothing & Apparel,Insulated Winter Puffer Jacket,4,161.8,0.05,Credit Card,California,614.84
+ORD-10468,CUST-1517,2023-11-26 14:58:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,131.04,0.05,PayPal,Texas,124.49
+ORD-10458,CUST-1523,2023-08-05 20:17:00,Electronics,Smart Fitness Watch,1,184.11,0.0,PayPal,Colorado,184.11
+ORD-11130,CUST-1342,2023-02-06 18:11:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,47.72,0.05,Debit Card,California,45.33
+ORD-10270,CUST-1159,2023-10-24 17:22:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,4,20.61,0.1,Credit Card,Florida,74.2
+ORD-10005,CUST-1007,2023-10-22 14:50:00,Electronics,Bluetooth Portable Speaker,8,84.34,0.25,PayPal,California,506.04
+ORD-10637,CUST-1263,2023-02-21 22:17:00,Electronics,Wireless Noise-Canceling Headphones,4,198.0,0.0,Credit Card,California,792.0
+ORD-10017,CUST-1453,2023-08-02 12:19:00,Electronics,Ultra-Wide 4K Gaming Monitor,3,281.53,0.0,Credit Card,Illinois,844.59
+ORD-11022,CUST-1457,2023-07-07 15:35:00,Electronics,Bluetooth Portable Speaker,1,84.96,0.0,Debit Card,Florida,84.96
+ORD-10373,CUST-1534,2023-07-25 12:20:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,3,18.0,0.1,Debit Card,Georgia,48.6
+ORD-10650,CUST-1072,2023-02-27 16:33:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,1,72.5,0.05,Debit Card,New York,68.88
+ORD-10534,CUST-1197,2023-02-03 08:34:00,Electronics,Wireless Noise-Canceling Headphones,2,181.28,0.1,Debit Card,Texas,326.3
+ORD-10984,CUST-1175,2023-05-13 15:39:00,Clothing & Apparel,Merino Wool Knit Sweater,2,102.54,0.1,Debit Card,Texas,184.57
+ORD-10924,CUST-1490,2023-10-04 13:00:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,4,28.8,0.15,Credit Card,California,97.92
+ORD-10728,CUST-1499,2023-08-18 11:12:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,1,27.27,0.1,Debit Card,Colorado,24.54
+ORD-10483,CUST-1603,2023-07-14 14:03:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,60.45,0.05,PayPal,Florida,57.43
+ORD-11178,CUST-1485,2023-04-08 16:11:00,Clothing & Apparel,Merino Wool Knit Sweater,1,101.78,0.05,Credit Card,Georgia,96.69
+ORD-11031,CUST-1599,2023-07-22 12:21:00,Books & Media,Data Science and Machine Learning Handbook,1,45.27,0.2,Credit Card,Illinois,36.22
+ORD-10172,CUST-1225,2023-11-20 19:09:00,Beauty & Personal Care,Organic Argan Hair Care Set,2,39.39,0.15,Credit Card,New York,66.96
+ORD-10147,CUST-1305,2023-06-21 17:16:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,49.85,0.1,Cash on Delivery,New York,44.87
+ORD-10057,CUST-1492,2023-06-02 13:23:00,Electronics,Bluetooth Portable Speaker,5,47.46,0.0,Debit Card,California,237.3
+ORD-10091,CUST-1044,2023-05-03 12:44:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,5,181.41,0.1,Credit Card,Illinois,816.35
+ORD-10070,CUST-1223,2023-06-27 16:42:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,91.71,0.15,Cash on Delivery,Colorado,77.95
+ORD-10064,CUST-1084,2023-09-06 08:37:00,Electronics,Bluetooth Portable Speaker,5,59.84,0.15,Credit Card,California,254.32
+ORD-10977,CUST-1203,2023-09-06 23:47:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,2,28.6,0.15,Credit Card,Florida,48.62
+ORD-10533,CUST-1449,2023-02-21 09:42:00,Electronics,Smart Fitness Watch,1,92.11,0.0,PayPal,Texas,92.11
+ORD-10681,CUST-1279,2023-09-11 19:04:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,1,23.02,0.0,Credit Card,Illinois,23.02
+ORD-11074,CUST-1044,2023-07-16 13:23:00,Electronics,Bluetooth Portable Speaker,2,36.89,0.0,Credit Card,Illinois,73.78
+ORD-10920,CUST-1452,2023-09-17 20:17:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,48.66,0.1,Debit Card,Illinois,43.79
+ORD-10813,CUST-1276,2023-10-30 19:25:00,Home & Kitchen,Programmable Drip Coffee Maker,1,112.16,0.0,Credit Card,California,112.16
+ORD-11059,CUST-1367,2023-11-16 19:53:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,24.96,0.15,Credit Card,Texas,21.22
+ORD-10999,CUST-1499,2023-10-08 19:26:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,510.43,0.05,PayPal,Colorado,484.91
+ORD-11193,CUST-1504,2023-07-13 10:51:00,Clothing & Apparel,Insulated Winter Puffer Jacket,2,153.45,0.1,PayPal,California,276.21
+ORD-11185,CUST-1528,2023-09-11 09:10:00,Books & Media,Atomic Habits Hardcover Edition,1,25.8,0.1,Cash on Delivery,California,23.22
+ORD-10705,CUST-1149,2023-03-18 10:49:00,Home & Kitchen,Robotic Vacuum Cleaner,3,221.32,0.05,Credit Card,Illinois,630.76
+ORD-10886,CUST-1505,2023-04-16 15:46:00,Sports & Outdoors,Thermal Insulated Stainless Water Bottle,2,20.92,0.2,Credit Card,Georgia,33.47
+ORD-10108,CUST-1183,2023-09-21 21:25:00,Clothing & Apparel,Merino Wool Knit Sweater,6,96.49,0.2,Credit Card,New York,463.15
+ORD-10689,CUST-1335,2023-04-29 16:12:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,2,76.5,0.1,Credit Card,New York,137.7
+ORD-10337,CUST-1226,2023-10-22 10:25:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,64.04,0.15,Credit Card,Washington,54.43
+ORD-10389,CUST-1532,2023-02-26 11:38:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,1,108.55,0.05,Debit Card,Texas,103.12
+ORD-10067,CUST-1565,2023-08-07 15:35:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,100.06,0.0,Credit Card,California,100.06
+ORD-10093,CUST-1505,2023-11-02 15:11:00,Books & Media,Psychology of Money,1,18.06,0.0,Cash on Delivery,Georgia,18.06
+ORD-10504,CUST-1124,2023-03-12 21:10:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,1,29.76,0.1,Credit Card,Illinois,26.78
+ORD-10553,CUST-1631,2023-08-24 22:34:00,Electronics,Bluetooth Portable Speaker,2,75.61,0.1,Credit Card,Texas,136.1
+ORD-10169,CUST-1150,2023-10-21 21:45:00,Home & Kitchen,Robotic Vacuum Cleaner,2,371.32,0.0,PayPal,California,742.64
+ORD-10752,CUST-1092,2023-10-04 14:38:00,Books & Media,Atomic Habits Hardcover Edition,2,21.46,0.0,Credit Card,California,42.92
+ORD-10410,CUST-1519,2023-04-11 22:19:00,Clothing & Apparel,Breathable Athletic Running Shorts,1,33.59,0.0,PayPal,Washington,33.59
+ORD-10018,CUST-1403,2023-05-27 18:08:00,Sports & Outdoors,Speed Jump Rope with Ball Bearings,1,16.86,0.0,Credit Card,Illinois,16.86
+ORD-10662,CUST-1088,2023-05-22 09:55:00,Electronics,Bluetooth Portable Speaker,1,74.44,0.05,PayPal,Illinois,70.72
+ORD-10195,CUST-1015,2023-11-14 12:41:00,Sports & Outdoors,Thermal Insulated Stainless Water Bottle,3,31.19,0.15,UPI,New York,79.53
+ORD-10112,CUST-1514,2023-01-19 14:59:00,Electronics,Wireless Noise-Canceling Headphones,1,238.68,0.1,Credit Card,California,214.81
+ORD-10304,CUST-1065,2023-07-22 10:10:00,Books & Media,Psychology of Money,1,16.36,0.0,Debit Card,California,16.36
+ORD-10023,CUST-1565,2023-10-06 11:09:00,Clothing & Apparel,Insulated Winter Puffer Jacket,2,101.54,0.15,Credit Card,California,172.62
+ORD-11048,CUST-1624,2023-07-17 21:45:00,Books & Media,Deep Work: Focused Success in a Distracted World,2,16.95,0.15,PayPal,Florida,28.81
+ORD-10958,CUST-1478,2023-09-16 18:44:00,Electronics,Ultra-Wide 4K Gaming Monitor,2,368.12,0.0,Debit Card,Texas,736.24
+ORD-10166,CUST-1061,2023-09-04 14:22:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,3,43.85,0.0,UPI,Florida,131.55
+ORD-10191,CUST-1366,2023-08-15 23:14:00,Clothing & Apparel,Breathable Athletic Running Shorts,5,37.68,0.0,Credit Card,New York,188.4
+ORD-10259,CUST-1447,2023-09-15 19:23:00,Electronics,Ultra-Wide 4K Gaming Monitor,3,371.55,0.0,UPI,California,1114.65
+ORD-10200,CUST-1612,2023-12-10 12:40:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,3,90.68,0.2,PayPal,Texas,217.63
+ORD-10207,CUST-1543,2023-12-01 09:50:00,Clothing & Apparel,Insulated Winter Puffer Jacket,2,139.72,0.0,UPI,New York,279.44
+ORD-10439,CUST-1640,2023-10-21 22:39:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,1,21.39,0.1,Debit Card,Texas,19.25
+ORD-11136,CUST-1288,2023-01-14 15:27:00,Books & Media,Data Science and Machine Learning Handbook,3,48.6,0.0,Credit Card,Illinois,145.8
+ORD-11142,CUST-1354,2023-12-05 11:14:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,174.69,0.25,Credit Card,California,131.02
+ORD-10495,CUST-1452,2023-09-14 11:05:00,Sports & Outdoors,Adjustable Quick-Select Dumbbell Pair,1,136.08,0.05,Credit Card,Illinois,129.28
+ORD-10532,CUST-1494,2023-06-02 12:05:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,163.67,0.05,Credit Card,California,155.49
+ORD-11188,CUST-1637,2023-07-08 17:24:00,Beauty & Personal Care,Sonic Electric Toothbrush,1,81.71,0.0,Debit Card,Texas,81.71
+ORD-11123,CUST-1353,2023-10-30 14:09:00,Electronics,USB-C Fast Charging Hub,2,28.25,0.2,Debit Card,New York,45.2
+ORD-11046,CUST-1443,2023-11-09 21:09:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,27.48,0.15,Debit Card,Illinois,23.36
+ORD-11014,CUST-1074,2023-06-05 15:53:00,Electronics,Wireless Noise-Canceling Headphones,2,175.74,0.05,Credit Card,Washington,333.91
+ORD-11035,CUST-1586,2023-07-17 13:35:00,Clothing & Apparel,Breathable Athletic Running Shorts,1,33.31,0.15,PayPal,California,28.31
+ORD-10232,CUST-1094,2023-01-30 16:47:00,Sports & Outdoors,Adjustable Quick-Select Dumbbell Pair,1,172.87,0.05,Debit Card,California,164.23
+ORD-10511,CUST-1539,2023-11-13 18:00:00,Home & Kitchen,Programmable Drip Coffee Maker,2,101.18,0.05,Credit Card,Texas,192.24
+ORD-10398,CUST-1080,2023-12-05 18:36:00,Beauty & Personal Care,Organic Argan Hair Care Set,2,30.99,0.0,Credit Card,Texas,61.98
+ORD-11018,CUST-1170,2023-10-26 19:02:00,Beauty & Personal Care,Organic Argan Hair Care Set,2,30.33,0.05,Credit Card,California,57.63
+ORD-10237,CUST-1296,2023-11-19 11:30:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,1,53.95,0.15,Debit Card,Texas,45.86
+ORD-10690,CUST-1160,2023-07-04 21:10:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,2,82.69,0.05,UPI,Florida,157.11
+ORD-10257,CUST-1073,2023-12-07 18:06:00,Electronics,Wireless Noise-Canceling Headphones,3,290.41,0.15,PayPal,California,740.55
+ORD-10625,CUST-1474,2023-09-06 13:55:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,2,24.97,0.0,Credit Card,New York,49.94
+ORD-10655,CUST-1459,2023-09-04 10:47:00,Clothing & Apparel,Merino Wool Knit Sweater,3,70.38,0.0,PayPal,New York,211.14
+ORD-10567,CUST-1198,2023-09-12 23:07:00,Electronics,Ultra-Wide 4K Gaming Monitor,4,327.24,0.0,Credit Card,New York,1308.96
+ORD-10419,CUST-1092,2023-04-18 11:25:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,58.8,0.15,Credit Card,California,49.98
+ORD-10142,CUST-1649,2023-11-30 11:00:00,Electronics,Mechanical Gaming Keyboard,1,125.58,0.0,UPI,New York,125.58
+ORD-10460,CUST-1033,2023-11-13 19:54:00,Books & Media,Atomic Habits Hardcover Edition,2,15.3,0.1,Credit Card,California,27.54
+ORD-10703,CUST-1195,2023-01-30 22:31:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,1,24.77,0.0,Debit Card,Illinois,24.77
+ORD-10075,CUST-1525,2023-08-08 20:10:00,Sports & Outdoors,Thermal Insulated Stainless Water Bottle,1,32.8,0.0,Credit Card,Illinois,32.8
+ORD-10299,CUST-1288,2023-07-18 22:39:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,55.53,0.0,Debit Card,Illinois,55.53
+ORD-10883,CUST-1218,2023-08-07 20:55:00,Electronics,Wireless Noise-Canceling Headphones,3,124.67,0.0,PayPal,New York,374.01
+ORD-10287,CUST-1135,2023-05-06 13:28:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,2,71.98,0.2,Credit Card,California,115.17
+ORD-10175,CUST-1174,2023-08-19 18:44:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,2,30.35,0.05,Debit Card,New York,57.66
+ORD-10127,CUST-1139,2023-07-04 16:33:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,27.13,0.05,PayPal,California,25.77
+ORD-10838,CUST-1176,2023-11-03 13:46:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,2,26.91,0.1,PayPal,Florida,48.44
+ORD-10791,CUST-1162,2023-06-29 14:15:00,Electronics,Wireless Noise-Canceling Headphones,2,174.95,0.05,Credit Card,Florida,332.4
+ORD-10012,CUST-1090,2023-10-20 19:08:00,Electronics,Smart Fitness Watch,3,213.29,0.05,UPI,Florida,607.88
+ORD-10085,CUST-1122,2023-09-30 08:19:00,Beauty & Personal Care,Organic Argan Hair Care Set,4,29.38,0.1,Debit Card,Texas,105.77
+ORD-10699,CUST-1520,2023-11-21 13:56:00,Electronics,Smart Fitness Watch,1,128.69,0.05,Credit Card,Florida,122.26
+ORD-10247,CUST-1312,2023-02-24 08:11:00,Home & Kitchen,Robotic Vacuum Cleaner,1,218.16,0.0,Credit Card,Washington,218.16
+ORD-10277,CUST-1351,2023-09-29 15:13:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,2,32.67,0.05,PayPal,California,62.07
+ORD-10664,CUST-1201,2023-11-20 13:57:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,3,33.86,0.05,Credit Card,Texas,96.5
+ORD-10009,CUST-1269,2023-08-01 16:35:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,2,25.23,0.05,Credit Card,Colorado,47.94
+ORD-10771,CUST-1367,2023-01-19 15:34:00,Electronics,USB-C Fast Charging Hub,2,32.5,0.0,PayPal,Texas,65.0
+ORD-10789,CUST-1306,2023-08-05 11:07:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,30.76,0.05,Credit Card,Colorado,29.22
+ORD-10749,CUST-1187,2023-09-07 11:17:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,27.45,0.05,Credit Card,California,26.08
+ORD-10065,CUST-1442,2023-10-30 13:08:00,Electronics,Ultra-Wide 4K Gaming Monitor,3,528.4,0.0,Credit Card,Georgia,1585.2
+ORD-10401,CUST-1283,2023-08-25 21:28:00,Sports & Outdoors,Thermal Insulated Stainless Water Bottle,1,30.07,0.0,Credit Card,Illinois,30.07
+ORD-10803,CUST-1057,2023-07-28 11:09:00,Electronics,Ultra-Wide 4K Gaming Monitor,5,345.0,0.15,Credit Card,Florida,1466.25
+ORD-10028,CUST-1355,2023-10-31 09:21:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,2,58.21,0.0,PayPal,California,116.42
+ORD-10839,CUST-1598,2023-12-08 08:30:00,Electronics,USB-C Fast Charging Hub,1,24.96,0.15,Debit Card,Texas,21.22
+ORD-10249,CUST-1364,2023-05-05 18:15:00,Clothing & Apparel,Insulated Winter Puffer Jacket,3,86.65,0.0,UPI,California,259.95
+ORD-10544,CUST-1162,2023-11-23 14:07:00,Electronics,Wireless Noise-Canceling Headphones,6,212.25,0.05,PayPal,Florida,1209.83
+ORD-10380,CUST-1607,2023-02-03 17:56:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,99.08,0.05,Debit Card,Washington,94.13
+ORD-10900,CUST-1391,2023-07-20 12:05:00,Electronics,Bluetooth Portable Speaker,1,69.78,0.05,Credit Card,Texas,66.29
+ORD-10332,CUST-1498,2023-08-15 10:24:00,Electronics,Smart Fitness Watch,1,154.13,0.0,Cash on Delivery,Florida,154.13
+ORD-10160,CUST-1523,2023-10-27 17:12:00,Books & Media,Data Science and Machine Learning Handbook,2,43.42,0.05,Credit Card,Colorado,82.5
+ORD-10369,CUST-1357,2023-10-10 16:22:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,1,32.55,0.0,Debit Card,Texas,32.55
+ORD-10607,CUST-1034,2023-07-06 22:54:00,Home & Kitchen,Programmable Drip Coffee Maker,1,73.79,0.0,Credit Card,California,73.79
+ORD-10084,CUST-1409,2023-03-19 18:37:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,27.93,0.1,Credit Card,New York,25.14
+ORD-10155,CUST-1059,2023-03-07 10:14:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,2,20.09,0.15,UPI,California,34.15
+ORD-10565,CUST-1178,2023-08-12 21:38:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,1,74.17,0.1,Credit Card,California,66.75
+ORD-10857,CUST-1103,2023-08-20 20:24:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,1,27.94,0.0,Credit Card,New York,27.94
+ORD-10125,CUST-1487,2023-03-16 20:49:00,Sports & Outdoors,Speed Jump Rope with Ball Bearings,1,22.85,0.05,PayPal,Illinois,21.71
+ORD-11028,CUST-1339,2023-12-03 22:59:00,Books & Media,Psychology of Money,1,23.16,0.05,Credit Card,New York,22.0
+ORD-11023,CUST-1159,2023-06-30 18:04:00,Home & Kitchen,Programmable Drip Coffee Maker,3,114.02,0.05,Credit Card,Florida,324.96
+ORD-10436,CUST-1340,2023-11-30 11:53:00,Electronics,Bluetooth Portable Speaker,2,43.32,0.2,Credit Card,New York,69.31
+ORD-10576,CUST-1289,2023-07-29 18:12:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,23.01,0.0,Debit Card,Texas,23.01
+ORD-10577,CUST-1552,2023-12-15 23:37:00,Beauty & Personal Care,Sonic Electric Toothbrush,2,46.98,0.1,Credit Card,California,84.56
+ORD-10045,CUST-1425,2023-06-07 15:26:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,147.37,0.05,PayPal,Washington,140.0
+ORD-10440,CUST-1138,2023-09-19 23:16:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,32.6,0.2,Credit Card,Florida,26.08
+ORD-10433,CUST-1429,2023-03-27 14:20:00,Beauty & Personal Care,Sonic Electric Toothbrush,1,57.57,0.0,Debit Card,Texas,57.57
+ORD-10748,CUST-1603,2023-07-31 14:05:00,Books & Media,Atomic Habits Hardcover Edition,3,24.49,0.05,Debit Card,Florida,69.8
+ORD-10320,CUST-1045,2023-09-10 13:34:00,Clothing & Apparel,Insulated Winter Puffer Jacket,8,103.5,0.0,Debit Card,Illinois,828.0
+ORD-10411,CUST-1150,2023-04-10 16:22:00,Home & Kitchen,Robotic Vacuum Cleaner,2,347.62,0.1,Credit Card,California,625.72
+ORD-10819,CUST-1261,2023-08-20 10:38:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,21.2,0.1,Credit Card,Florida,19.08
+ORD-10529,CUST-1043,2023-10-11 14:18:00,Electronics,USB-C Fast Charging Hub,1,26.48,0.0,Credit Card,Florida,26.48
+ORD-10865,CUST-1475,2023-06-03 18:52:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,2,35.32,0.15,Credit Card,Illinois,60.04
+ORD-11135,CUST-1221,2023-06-25 19:06:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,2,115.71,0.05,Credit Card,California,219.85
+ORD-10422,CUST-1458,2023-03-14 14:02:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,3,19.0,0.2,Credit Card,Colorado,45.6
+ORD-11025,CUST-1052,2023-07-17 22:10:00,Electronics,Bluetooth Portable Speaker,1,54.47,0.0,Credit Card,California,54.47
+ORD-10062,CUST-1197,2023-07-11 18:50:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,3,19.3,0.0,UPI,Texas,57.9
+ORD-10516,CUST-1127,2023-11-30 09:09:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,1,200.34,0.2,PayPal,New York,160.27
+ORD-10293,CUST-1162,2023-08-26 11:17:00,Electronics,Ultra-Wide 4K Gaming Monitor,2,392.41,0.1,PayPal,Florida,706.34
+ORD-10708,CUST-1299,2023-06-04 17:37:00,Home & Kitchen,Robotic Vacuum Cleaner,1,220.21,0.05,Cash on Delivery,Illinois,209.2
+ORD-10285,CUST-1221,2023-04-12 11:04:00,Books & Media,Data Science and Machine Learning Handbook,1,40.92,0.05,Credit Card,California,38.87
+ORD-10384,CUST-1196,2023-09-24 22:14:00,Electronics,Smart Fitness Watch,1,183.72,0.0,Credit Card,Texas,183.72
+ORD-10041,CUST-1103,2023-09-28 22:12:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,2,24.06,0.15,PayPal,New York,40.9
+ORD-10034,CUST-1565,2023-04-10 18:13:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,37.66,0.15,Debit Card,California,32.01
+ORD-10593,CUST-1065,2023-03-13 23:05:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,48.75,0.1,UPI,California,43.88
+ORD-11055,CUST-1066,2023-07-30 21:53:00,Electronics,Bluetooth Portable Speaker,1,83.49,0.0,Credit Card,New York,83.49
+ORD-10039,CUST-1535,2023-07-16 17:26:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,1,23.51,0.0,UPI,New York,23.51
+ORD-10197,CUST-1585,2023-12-12 08:28:00,Electronics,Smart Fitness Watch,2,169.69,0.0,UPI,Florida,339.38
+ORD-10271,CUST-1527,2023-10-16 12:18:00,Electronics,USB-C Fast Charging Hub,2,31.2,0.0,Credit Card,New York,62.4
+ORD-10059,CUST-1181,2023-06-05 23:36:00,Electronics,USB-C Fast Charging Hub,2,45.12,0.05,Debit Card,Georgia,85.73
+ORD-10982,CUST-1536,2023-07-24 10:17:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,549.51,0.05,UPI,Texas,522.03
+ORD-11154,CUST-1189,2023-10-07 19:26:00,Beauty & Personal Care,Organic Argan Hair Care Set,3,35.63,0.05,Credit Card,California,101.55
+ORD-10180,CUST-1132,2023-07-23 20:16:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,5,33.61,0.0,Debit Card,Florida,168.05
+ORD-10700,CUST-1636,2023-11-28 18:24:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,1,27.61,0.0,Debit Card,Texas,27.61
+ORD-10686,CUST-1058,2023-04-25 20:19:00,Books & Media,Deep Work: Focused Success in a Distracted World,1,18.85,0.0,Credit Card,Washington,18.85
+ORD-10892,CUST-1464,2023-05-07 15:14:00,Books & Media,Deep Work: Focused Success in a Distracted World,3,16.64,0.15,Credit Card,California,42.43
+ORD-10966,CUST-1194,2023-05-01 17:25:00,Electronics,Bluetooth Portable Speaker,1,44.7,0.0,PayPal,Texas,44.7
+ORD-10366,CUST-1489,2023-03-17 12:03:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,2,23.4,0.0,Credit Card,New York,46.8
+ORD-10502,CUST-1024,2023-12-01 12:33:00,Beauty & Personal Care,Organic Argan Hair Care Set,2,32.92,0.05,Credit Card,Illinois,62.55
+ORD-10807,CUST-1305,2023-09-07 21:11:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,2,137.61,0.05,PayPal,New York,261.46
+ORD-10081,CUST-1448,2023-08-05 11:50:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,43.7,0.05,UPI,California,41.52
+ORD-10243,CUST-1108,2023-06-12 14:08:00,Home & Kitchen,Programmable Drip Coffee Maker,1,99.0,0.0,Debit Card,Texas,99.0
+ORD-10225,CUST-1250,2023-04-01 15:50:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,1,52.05,0.05,Credit Card,New York,49.45
+ORD-10981,CUST-1129,2023-05-18 20:49:00,Electronics,Mechanical Gaming Keyboard,1,111.39,0.15,Credit Card,New York,94.68
+ORD-10956,CUST-1481,2023-07-02 18:21:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,1,61.54,0.05,Debit Card,Washington,58.46
+ORD-10864,CUST-1482,2023-08-25 17:47:00,Electronics,Bluetooth Portable Speaker,2,38.59,0.05,Credit Card,California,73.32
+ORD-10925,CUST-1102,2023-12-03 22:46:00,Clothing & Apparel,Merino Wool Knit Sweater,1,74.62,0.2,PayPal,Texas,59.7
+ORD-10478,CUST-1484,2023-02-24 21:01:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,1,25.18,0.05,Debit Card,Georgia,23.92
+ORD-11002,CUST-1222,2023-08-22 17:36:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,2,50.69,0.15,Debit Card,California,86.17
+ORD-10481,CUST-1453,2023-06-29 18:00:00,Home & Kitchen,Ergonomic Memory Foam Pillow,3,61.58,0.25,Debit Card,Illinois,138.56
+ORD-11172,CUST-1208,2023-05-07 08:50:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,118.93,0.05,UPI,California,112.98
+ORD-11171,CUST-1546,2023-06-02 18:03:00,Electronics,Smart Fitness Watch,2,125.87,0.15,UPI,Illinois,213.98
+ORD-10622,CUST-1342,2023-10-14 19:33:00,Books & Media,Psychology of Money,2,16.01,0.0,Credit Card,California,32.02
+ORD-10726,CUST-1112,2023-07-04 21:44:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,2,72.8,0.15,Debit Card,New York,123.76
+ORD-10893,CUST-1427,2023-10-08 10:30:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,30.94,0.1,Credit Card,New York,27.85
+ORD-10645,CUST-1246,2023-11-08 21:15:00,Electronics,Bluetooth Portable Speaker,2,83.62,0.05,Debit Card,California,158.88
+ORD-10788,CUST-1313,2023-09-19 10:27:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,1,33.78,0.1,Credit Card,California,30.4
+ORD-10745,CUST-1389,2023-07-04 18:01:00,Electronics,Ultra-Wide 4K Gaming Monitor,2,506.69,0.2,Debit Card,Illinois,810.7
+ORD-10151,CUST-1530,2023-04-06 17:53:00,Home & Kitchen,Robotic Vacuum Cleaner,2,215.5,0.15,Debit Card,Illinois,366.35
+ORD-11020,CUST-1195,2023-08-15 14:08:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,132.02,0.05,Credit Card,Illinois,125.42
+ORD-10479,CUST-1541,2023-06-19 17:13:00,Electronics,USB-C Fast Charging Hub,1,43.69,0.25,PayPal,Washington,32.77
+ORD-10375,CUST-1376,2023-06-27 21:50:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,1,77.36,0.05,PayPal,Florida,73.49
+ORD-10626,CUST-1321,2023-04-25 10:18:00,Electronics,Mechanical Gaming Keyboard,3,97.39,0.0,Debit Card,California,292.17
+ORD-11159,CUST-1220,2023-03-19 18:38:00,Clothing & Apparel,Insulated Winter Puffer Jacket,2,136.88,0.25,Credit Card,California,205.32
+ORD-11195,CUST-1210,2023-08-29 18:31:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,1,30.03,0.2,PayPal,Texas,24.02
+ORD-10307,CUST-1002,2023-10-13 13:42:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,168.43,0.1,Credit Card,Illinois,151.59
+ORD-10834,CUST-1001,2023-08-17 08:32:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,2,104.3,0.05,Credit Card,Texas,198.17
+ORD-10313,CUST-1510,2023-11-02 11:46:00,Clothing & Apparel,Breathable Athletic Running Shorts,1,38.66,0.0,UPI,California,38.66
+ORD-10338,CUST-1250,2023-11-21 23:12:00,Clothing & Apparel,Merino Wool Knit Sweater,1,111.58,0.15,PayPal,New York,94.84
+ORD-10188,CUST-1514,2023-11-29 12:15:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,3,27.43,0.0,Debit Card,California,82.29
+ORD-10102,CUST-1597,2023-02-10 18:27:00,Books & Media,Deep Work: Focused Success in a Distracted World,1,21.74,0.05,Credit Card,California,20.65
+ORD-10003,CUST-1159,2023-10-05 16:46:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,5,27.55,0.0,Credit Card,Florida,137.75
+ORD-10778,CUST-1139,2023-10-29 21:29:00,Sports & Outdoors,Thermal Insulated Stainless Water Bottle,3,33.31,0.05,Credit Card,California,94.93
+ORD-10513,CUST-1555,2023-07-15 14:26:00,Clothing & Apparel,Breathable Athletic Running Shorts,4,25.34,0.15,UPI,Florida,86.16
+ORD-10657,CUST-1109,2023-12-16 10:18:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,1,26.18,0.1,Debit Card,Illinois,23.56
+ORD-10668,CUST-1181,2023-09-04 22:48:00,Books & Media,Deep Work: Focused Success in a Distracted World,1,18.7,0.05,Debit Card,Georgia,17.76
+ORD-10461,CUST-1414,2023-06-30 17:15:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,3,35.3,0.05,UPI,New York,100.6
+ORD-10296,CUST-1570,2023-07-29 13:40:00,Electronics,Mechanical Gaming Keyboard,1,126.67,0.15,Cash on Delivery,New York,107.67
+ORD-10189,CUST-1547,2023-09-21 12:16:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,44.07,0.0,Cash on Delivery,Colorado,44.07
+ORD-10688,CUST-1163,2023-11-10 12:07:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,1,48.44,0.1,Credit Card,Florida,43.6
+ORD-10691,CUST-1173,2023-02-03 13:12:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,1,21.15,0.05,PayPal,Florida,20.09
+ORD-10621,CUST-1236,2023-06-18 19:44:00,Clothing & Apparel,Merino Wool Knit Sweater,1,115.82,0.1,UPI,Texas,104.24
+ORD-10794,CUST-1512,2023-04-23 14:16:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,140.81,0.0,PayPal,California,140.81
+ORD-10383,CUST-1305,2023-07-25 17:32:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,1,51.81,0.1,UPI,New York,46.63
+ORD-10953,CUST-1549,2023-11-14 15:03:00,Beauty & Personal Care,Sonic Electric Toothbrush,1,39.06,0.0,Credit Card,Washington,39.06
+ORD-10400,CUST-1118,2023-11-20 09:46:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,1,128.25,0.05,Credit Card,California,121.84
+ORD-10910,CUST-1031,2023-11-19 17:30:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,82.97,0.0,UPI,California,82.97
+ORD-10957,CUST-1309,2023-04-14 17:04:00,Electronics,Mechanical Gaming Keyboard,2,63.21,0.0,PayPal,California,126.42
+ORD-10519,CUST-1080,2023-12-22 09:53:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,169.96,0.15,PayPal,Texas,144.47
+ORD-10722,CUST-1243,2023-09-08 21:55:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,67.74,0.15,Credit Card,Colorado,57.58
+ORD-10110,CUST-1519,2023-07-18 18:31:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,46.17,0.15,PayPal,Washington,39.24
+ORD-11166,CUST-1327,2023-07-07 18:15:00,Electronics,Ultra-Wide 4K Gaming Monitor,2,292.84,0.05,Credit Card,Texas,556.4
+ORD-10353,CUST-1447,2023-06-30 18:34:00,Books & Media,Atomic Habits Hardcover Edition,1,17.14,0.05,Credit Card,California,16.28
+ORD-10877,CUST-1504,2023-06-08 23:46:00,Sports & Outdoors,Adjustable Quick-Select Dumbbell Pair,2,112.3,0.1,Debit Card,California,202.14
+ORD-10408,CUST-1409,2023-06-24 15:22:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,1,33.96,0.0,Credit Card,New York,33.96
+ORD-10855,CUST-1222,2023-06-23 18:26:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,161.88,0.25,PayPal,California,121.41
+ORD-10346,CUST-1211,2023-05-21 14:59:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,25.51,0.05,PayPal,Texas,24.23
+ORD-11104,CUST-1016,2023-08-18 11:03:00,Books & Media,Deep Work: Focused Success in a Distracted World,1,24.87,0.0,Cash on Delivery,Colorado,24.87
+ORD-10833,CUST-1441,2023-07-01 14:55:00,Electronics,Mechanical Gaming Keyboard,3,137.59,0.0,PayPal,Colorado,412.77
+ORD-10629,CUST-1035,2023-07-20 20:38:00,Home & Kitchen,Ergonomic Memory Foam Pillow,8,34.94,0.0,Credit Card,California,279.52
+ORD-10901,CUST-1117,2023-02-15 20:34:00,Books & Media,Deep Work: Focused Success in a Distracted World,1,26.38,0.0,Credit Card,Georgia,26.38
+ORD-10656,CUST-1404,2023-06-18 22:50:00,Electronics,Ultra-Wide 4K Gaming Monitor,2,543.92,0.0,Credit Card,Texas,1087.84
+ORD-10972,CUST-1243,2023-09-13 10:22:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,1,30.74,0.1,Cash on Delivery,Colorado,27.67
+ORD-10181,CUST-1084,2023-12-18 19:08:00,Books & Media,Data Science and Machine Learning Handbook,2,47.68,0.05,Credit Card,California,90.59
+ORD-10475,CUST-1636,2023-07-17 11:18:00,Books & Media,Deep Work: Focused Success in a Distracted World,2,24.94,0.05,Credit Card,Texas,47.39
+ORD-10396,CUST-1080,2023-03-25 15:19:00,Books & Media,Atomic Habits Hardcover Edition,1,22.97,0.1,Credit Card,Texas,20.67
+ORD-10325,CUST-1233,2023-10-21 19:15:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,39.98,0.0,Debit Card,New York,39.98
+ORD-10638,CUST-1253,2023-10-28 09:06:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,43.69,0.05,Credit Card,Colorado,41.51
+ORD-11076,CUST-1533,2023-08-02 08:03:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,22.7,0.0,Credit Card,Florida,22.7
+ORD-10527,CUST-1133,2023-06-02 10:03:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,32.98,0.05,PayPal,Florida,31.33
+ORD-10574,CUST-1426,2023-05-28 20:20:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,97.68,0.15,UPI,California,83.03
+ORD-10274,CUST-1329,2023-12-18 11:52:00,Electronics,Ultra-Wide 4K Gaming Monitor,2,302.66,0.0,Debit Card,Washington,605.32
+ORD-10196,CUST-1619,2023-03-29 09:04:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,1,49.85,0.0,UPI,Colorado,49.85
+ORD-11026,CUST-1491,2023-10-11 17:45:00,Beauty & Personal Care,Sonic Electric Toothbrush,1,58.57,0.15,Debit Card,New York,49.78
+ORD-10942,CUST-1395,2023-07-19 12:30:00,Home & Kitchen,Robotic Vacuum Cleaner,1,257.25,0.15,Debit Card,Florida,218.66
+ORD-10178,CUST-1329,2023-04-11 10:30:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,4,25.72,0.05,Credit Card,Washington,97.74
+ORD-11152,CUST-1491,2023-11-25 14:18:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,2,50.81,0.0,PayPal,New York,101.62
+ORD-10697,CUST-1639,2023-04-06 20:19:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,26.79,0.0,Debit Card,Florida,26.79
+ORD-10154,CUST-1564,2023-12-16 15:39:00,Books & Media,Atomic Habits Hardcover Edition,2,21.62,0.05,Debit Card,California,41.08
+ORD-11090,CUST-1094,2023-11-06 08:06:00,Beauty & Personal Care,Sonic Electric Toothbrush,3,86.32,0.0,Credit Card,California,258.96
+ORD-10964,CUST-1241,2023-01-16 20:15:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,83.05,0.0,Debit Card,Florida,83.05
+ORD-10113,CUST-1168,2023-01-18 13:17:00,Home & Kitchen,Ergonomic Memory Foam Pillow,2,28.38,0.0,PayPal,Florida,56.76
+ORD-10193,CUST-1594,2023-02-07 09:08:00,Clothing & Apparel,Breathable Athletic Running Shorts,4,41.04,0.0,Credit Card,Texas,164.16
+ORD-10790,CUST-1505,2023-09-24 08:42:00,Electronics,USB-C Fast Charging Hub,2,30.12,0.1,Debit Card,Georgia,54.22
+ORD-10661,CUST-1090,2023-10-08 09:37:00,Beauty & Personal Care,Sonic Electric Toothbrush,1,47.28,0.0,Credit Card,Florida,47.28
+ORD-11007,CUST-1425,2023-07-21 08:44:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,60.1,0.0,Credit Card,Washington,60.1
+ORD-10459,CUST-1333,2023-05-06 22:25:00,Electronics,Smart Fitness Watch,1,217.82,0.05,Debit Card,Colorado,206.93
+ORD-11109,CUST-1139,2023-06-21 20:49:00,Beauty & Personal Care,Organic Argan Hair Care Set,3,30.87,0.0,Credit Card,California,92.61
+ORD-11080,CUST-1145,2023-07-22 13:05:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,3,32.68,0.1,UPI,California,88.24
+ORD-10216,CUST-1589,2023-08-23 19:50:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,25.2,0.1,Credit Card,New York,22.68
+ORD-10263,CUST-1056,2023-12-03 10:43:00,Home & Kitchen,Programmable Drip Coffee Maker,1,52.8,0.05,Debit Card,New York,50.16
+ORD-10438,CUST-1216,2023-08-26 13:30:00,Clothing & Apparel,Breathable Athletic Running Shorts,6,32.04,0.2,PayPal,Colorado,153.79
+ORD-10694,CUST-1534,2023-11-18 23:59:00,Electronics,Smart Fitness Watch,3,143.45,0.05,Debit Card,Georgia,408.83
+ORD-10424,CUST-1647,2023-08-23 15:43:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,53.99,0.05,Credit Card,New York,51.29
+ORD-10635,CUST-1139,2023-03-24 11:02:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,114.57,0.2,PayPal,California,91.66
+ORD-10407,CUST-1192,2023-03-11 10:52:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,1,35.72,0.0,UPI,Washington,35.72
+ORD-10853,CUST-1581,2023-09-11 13:51:00,Clothing & Apparel,Insulated Winter Puffer Jacket,2,101.94,0.05,Credit Card,New York,193.69
+ORD-10767,CUST-1444,2023-06-20 15:02:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,1,41.33,0.1,Debit Card,Florida,37.2
+ORD-10428,CUST-1176,2023-10-21 08:09:00,Clothing & Apparel,Merino Wool Knit Sweater,1,94.62,0.1,UPI,Florida,85.16
+ORD-10844,CUST-1217,2023-10-22 20:42:00,Beauty & Personal Care,Sonic Electric Toothbrush,1,75.93,0.05,Cash on Delivery,New York,72.13
+ORD-10452,CUST-1174,2023-06-30 15:41:00,Books & Media,Atomic Habits Hardcover Edition,1,22.28,0.0,Debit Card,New York,22.28
+ORD-10949,CUST-1618,2023-09-29 11:05:00,Beauty & Personal Care,Sonic Electric Toothbrush,3,86.98,0.0,Credit Card,Illinois,260.94
+ORD-10882,CUST-1198,2023-01-04 12:55:00,Clothing & Apparel,Merino Wool Knit Sweater,4,118.71,0.05,UPI,New York,451.1
+ORD-11036,CUST-1074,2023-09-06 22:45:00,Books & Media,Deep Work: Focused Success in a Distracted World,2,23.08,0.1,PayPal,Washington,41.54
+ORD-11037,CUST-1084,2023-10-17 13:08:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,3,17.84,0.0,Debit Card,California,53.52
+ORD-10572,CUST-1051,2023-10-13 19:20:00,Electronics,Mechanical Gaming Keyboard,1,136.37,0.05,PayPal,New York,129.55
+ORD-10841,CUST-1612,2023-08-21 22:26:00,Electronics,Bluetooth Portable Speaker,4,61.33,0.0,Debit Card,Texas,245.32
+ORD-10797,CUST-1033,2023-11-01 20:22:00,Home & Kitchen,Ergonomic Memory Foam Pillow,3,56.76,0.2,Debit Card,California,136.22
+ORD-10365,CUST-1451,2023-08-14 23:32:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,1,36.91,0.05,PayPal,Texas,35.06
+ORD-10128,CUST-1466,2023-10-08 09:14:00,Clothing & Apparel,Insulated Winter Puffer Jacket,2,115.98,0.0,PayPal,New York,231.96
+ORD-10815,CUST-1207,2023-06-16 12:20:00,Electronics,USB-C Fast Charging Hub,3,47.87,0.25,Credit Card,Georgia,107.71
+ORD-10537,CUST-1245,2023-05-19 23:15:00,Electronics,USB-C Fast Charging Hub,1,27.74,0.05,Credit Card,New York,26.35
+ORD-10617,CUST-1212,2023-01-08 18:59:00,Electronics,Bluetooth Portable Speaker,2,55.78,0.0,Credit Card,Florida,111.56
+ORD-10335,CUST-1107,2023-08-21 10:53:00,Books & Media,Atomic Habits Hardcover Edition,2,23.63,0.0,Debit Card,California,47.26
+ORD-10030,CUST-1166,2023-06-23 19:34:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,21.08,0.05,PayPal,Texas,20.03
+ORD-10649,CUST-1048,2023-06-28 19:36:00,Electronics,Smart Fitness Watch,1,217.89,0.0,Credit Card,Texas,217.89
+ORD-10829,CUST-1234,2023-02-04 16:05:00,Electronics,Bluetooth Portable Speaker,2,62.95,0.1,PayPal,Washington,113.31
+ORD-10704,CUST-1485,2023-04-05 18:41:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,79.19,0.0,Cash on Delivery,Georgia,79.19
+ORD-10115,CUST-1137,2023-04-14 19:24:00,Beauty & Personal Care,Organic Argan Hair Care Set,4,47.99,0.05,Debit Card,Colorado,182.36
+ORD-10918,CUST-1145,2023-10-27 18:23:00,Sports & Outdoors,Speed Jump Rope with Ball Bearings,1,21.74,0.05,Credit Card,California,20.65
+ORD-10598,CUST-1429,2023-05-13 12:36:00,Sports & Outdoors,Adjustable Quick-Select Dumbbell Pair,1,203.18,0.0,Debit Card,Texas,203.18
+ORD-10118,CUST-1420,2023-10-28 10:53:00,Electronics,Mechanical Gaming Keyboard,2,56.54,0.05,PayPal,New York,107.43
+ORD-10487,CUST-1612,2023-05-16 12:50:00,Electronics,Wireless Noise-Canceling Headphones,1,243.36,0.0,UPI,Texas,243.36
+ORD-10989,CUST-1293,2023-09-26 18:12:00,Electronics,Smart Fitness Watch,1,118.94,0.05,Debit Card,California,112.99
+ORD-10682,CUST-1438,2023-05-22 20:00:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,2,27.25,0.0,UPI,Texas,54.5
+ORD-10114,CUST-1309,2023-02-03 17:12:00,Clothing & Apparel,Insulated Winter Puffer Jacket,8,95.84,0.2,Credit Card,California,613.38
+ORD-10352,CUST-1636,2023-10-31 20:57:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,42.44,0.0,UPI,Texas,42.44
+ORD-10226,CUST-1074,2023-08-27 15:45:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,1,88.17,0.05,PayPal,Washington,83.76
+ORD-10983,CUST-1467,2023-09-23 17:17:00,Sports & Outdoors,Adjustable Quick-Select Dumbbell Pair,1,138.32,0.0,Credit Card,Texas,138.32
+ORD-10056,CUST-1504,2023-10-19 20:26:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,537.67,0.1,Credit Card,California,483.9
+ORD-10861,CUST-1089,2023-09-05 19:20:00,Books & Media,Atomic Habits Hardcover Edition,1,16.87,0.05,Credit Card,Texas,16.03
+ORD-10303,CUST-1153,2023-07-24 11:56:00,Books & Media,Deep Work: Focused Success in a Distracted World,3,16.82,0.0,Debit Card,Colorado,50.46
+ORD-10002,CUST-1574,2023-03-28 15:15:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,50.08,0.05,Credit Card,New York,47.58
+ORD-10168,CUST-1277,2023-04-27 15:54:00,Electronics,Smart Fitness Watch,2,193.35,0.0,PayPal,New York,386.7
+ORD-11162,CUST-1225,2023-05-10 22:48:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,8,152.67,0.0,Credit Card,New York,1221.36
+ORD-11070,CUST-1243,2023-04-02 11:28:00,Electronics,Bluetooth Portable Speaker,1,67.56,0.1,Credit Card,Colorado,60.8
+ORD-10449,CUST-1314,2023-11-20 08:56:00,Beauty & Personal Care,Sonic Electric Toothbrush,1,39.94,0.0,UPI,New York,39.94
+ORD-11182,CUST-1194,2023-03-23 21:48:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,2,34.45,0.15,Debit Card,Texas,58.57
+ORD-10248,CUST-1401,2023-02-21 19:53:00,Books & Media,Atomic Habits Hardcover Edition,1,18.81,0.0,UPI,Texas,18.81
+ORD-11146,CUST-1454,2023-06-29 15:44:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,471.96,0.0,Credit Card,New York,471.96
+ORD-10116,CUST-1042,2023-03-01 16:12:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,1,79.74,0.15,Credit Card,Texas,67.78
+ORD-10507,CUST-1039,2023-03-13 11:13:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,2,81.07,0.05,Debit Card,Georgia,154.03
+ORD-11082,CUST-1375,2023-10-21 10:50:00,Electronics,Smart Fitness Watch,1,91.98,0.0,PayPal,New York,91.98
+ORD-10827,CUST-1446,2023-05-18 23:45:00,Beauty & Personal Care,Organic Argan Hair Care Set,2,45.64,0.15,Credit Card,New York,77.59
+ORD-11147,CUST-1417,2023-10-14 08:58:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,2,61.57,0.05,PayPal,California,116.98
+ORD-10975,CUST-1237,2023-06-30 09:18:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,6,53.13,0.0,Credit Card,Texas,318.78
+ORD-10111,CUST-1151,2023-12-21 08:02:00,Clothing & Apparel,Breathable Athletic Running Shorts,1,25.31,0.0,Cash on Delivery,California,25.31
+ORD-10931,CUST-1402,2023-09-10 17:42:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,136.8,0.15,Credit Card,Illinois,116.28
+ORD-10229,CUST-1641,2023-10-02 16:28:00,Electronics,Bluetooth Portable Speaker,1,65.34,0.0,PayPal,California,65.34
+ORD-10772,CUST-1332,2023-11-05 23:50:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,1,27.3,0.1,Debit Card,New York,24.57
+ORD-10444,CUST-1285,2023-10-15 08:03:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,1,24.78,0.1,Credit Card,Illinois,22.3
+ORD-10050,CUST-1120,2023-05-01 17:12:00,Books & Media,Data Science and Machine Learning Handbook,2,74.98,0.0,Credit Card,Washington,149.96
+ORD-10297,CUST-1071,2023-03-10 16:05:00,Beauty & Personal Care,Organic Argan Hair Care Set,2,31.89,0.05,Debit Card,California,60.59
+ORD-10946,CUST-1533,2023-07-29 16:40:00,Home & Kitchen,Ergonomic Memory Foam Pillow,2,40.04,0.1,UPI,Florida,72.07
+ORD-10541,CUST-1283,2023-07-12 23:32:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,4,167.37,0.0,Credit Card,Illinois,669.48
+ORD-10036,CUST-1327,2023-04-16 21:58:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,30.58,0.15,Credit Card,Texas,25.99
+ORD-10414,CUST-1055,2023-07-07 21:55:00,Clothing & Apparel,Insulated Winter Puffer Jacket,4,126.76,0.0,Credit Card,Illinois,507.04
+ORD-10928,CUST-1215,2023-07-08 12:13:00,Sports & Outdoors,Speed Jump Rope with Ball Bearings,2,19.63,0.0,Credit Card,New York,39.26
+ORD-10011,CUST-1465,2023-09-16 14:38:00,Electronics,Mechanical Gaming Keyboard,3,138.02,0.2,Credit Card,New York,331.25
+ORD-10394,CUST-1154,2023-11-05 22:55:00,Books & Media,Data Science and Machine Learning Handbook,1,38.03,0.1,Credit Card,Illinois,34.23
+ORD-10584,CUST-1144,2023-04-09 14:06:00,Electronics,Smart Fitness Watch,4,144.03,0.15,Credit Card,Georgia,489.7
+ORD-10740,CUST-1199,2023-05-24 17:43:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,353.58,0.15,Credit Card,New York,300.54
+ORD-11114,CUST-1403,2023-12-24 11:49:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,532.71,0.0,UPI,Illinois,532.71
+ORD-10536,CUST-1145,2023-09-27 11:52:00,Books & Media,Data Science and Machine Learning Handbook,5,55.12,0.0,Credit Card,California,275.6
+ORD-10814,CUST-1578,2023-08-23 15:10:00,Electronics,Wireless Noise-Canceling Headphones,1,249.55,0.1,Credit Card,California,224.6
+ORD-10051,CUST-1087,2023-03-20 17:04:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,6,20.7,0.0,Debit Card,New York,124.2
+ORD-10677,CUST-1202,2023-09-13 18:32:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,23.87,0.15,Credit Card,Illinois,20.29
+ORD-10763,CUST-1470,2023-07-15 22:07:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,3,41.97,0.0,Credit Card,Texas,125.91
+ORD-11197,CUST-1402,2023-07-10 19:12:00,Books & Media,Psychology of Money,2,22.05,0.0,Credit Card,Illinois,44.1
+ORD-10117,CUST-1582,2023-11-11 08:22:00,Electronics,Smart Fitness Watch,1,98.9,0.0,PayPal,California,98.9
+ORD-10753,CUST-1200,2023-06-09 13:37:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,3,107.65,0.05,Debit Card,New York,306.8
+ORD-10078,CUST-1398,2023-06-06 21:12:00,Books & Media,Atomic Habits Hardcover Edition,1,16.98,0.1,Cash on Delivery,California,15.28
+ORD-10220,CUST-1531,2023-04-16 09:32:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,1,122.15,0.1,Credit Card,California,109.94
+ORD-11102,CUST-1132,2023-10-23 11:38:00,Electronics,Wireless Noise-Canceling Headphones,4,212.22,0.0,Credit Card,Florida,848.88
+ORD-11113,CUST-1500,2023-08-17 17:08:00,Electronics,Ultra-Wide 4K Gaming Monitor,2,525.09,0.1,Debit Card,Texas,945.16
+ORD-11198,CUST-1044,2023-08-24 20:40:00,Home & Kitchen,Robotic Vacuum Cleaner,2,187.87,0.0,Credit Card,Illinois,375.74
+ORD-10747,CUST-1552,2023-05-22 09:12:00,Home & Kitchen,Ergonomic Memory Foam Pillow,3,54.91,0.15,Cash on Delivery,California,140.02
+ORD-10342,CUST-1257,2023-01-18 16:56:00,Electronics,Bluetooth Portable Speaker,2,76.66,0.05,Credit Card,Florida,145.65
+ORD-10990,CUST-1009,2023-10-04 16:34:00,Electronics,USB-C Fast Charging Hub,2,36.27,0.1,UPI,California,65.29
+ORD-11083,CUST-1387,2023-02-27 13:28:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,1,23.03,0.15,PayPal,California,19.58
+ORD-11138,CUST-1358,2023-04-11 12:41:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,36.39,0.0,Credit Card,Texas,36.39
+ORD-10140,CUST-1200,2023-03-06 14:27:00,Books & Media,Psychology of Money,1,19.79,0.2,Credit Card,New York,15.83
+ORD-11151,CUST-1335,2023-05-13 18:58:00,Electronics,USB-C Fast Charging Hub,1,44.6,0.05,Credit Card,New York,42.37
+ORD-10214,CUST-1533,2023-08-31 15:19:00,Home & Kitchen,Ergonomic Memory Foam Pillow,2,39.91,0.05,Credit Card,Florida,75.83
+ORD-10509,CUST-1576,2023-11-19 08:19:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,54.14,0.05,Debit Card,California,51.43
+ORD-10387,CUST-1463,2023-04-03 23:44:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,56.78,0.0,Credit Card,Washington,56.78
+ORD-11045,CUST-1461,2023-12-18 21:34:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,2,32.64,0.0,Credit Card,Texas,65.28
+ORD-10811,CUST-1562,2023-12-02 20:59:00,Sports & Outdoors,Speed Jump Rope with Ball Bearings,1,18.74,0.05,Credit Card,Florida,17.8
+ORD-10490,CUST-1364,2023-07-08 08:35:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,38.13,0.0,Credit Card,California,38.13
+ORD-11032,CUST-1166,2023-05-16 19:28:00,Electronics,USB-C Fast Charging Hub,2,27.89,0.0,UPI,Texas,55.78
+ORD-10872,CUST-1520,2023-10-22 15:37:00,Books & Media,Psychology of Money,1,19.32,0.1,Credit Card,Florida,17.39
+ORD-10862,CUST-1059,2023-05-21 21:45:00,Home & Kitchen,Robotic Vacuum Cleaner,3,339.3,0.0,Credit Card,California,1017.9
+ORD-10447,CUST-1548,2023-08-14 11:27:00,Home & Kitchen,Robotic Vacuum Cleaner,1,206.85,0.0,Debit Card,California,206.85
+ORD-10929,CUST-1318,2023-05-28 12:22:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,1,35.23,0.0,Credit Card,New York,35.23
+ORD-10390,CUST-1165,2023-04-12 09:04:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,56.81,0.0,PayPal,California,56.81
+ORD-10241,CUST-1029,2023-07-23 12:56:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,5,33.86,0.0,Credit Card,California,169.3
+ORD-10190,CUST-1101,2023-03-21 20:05:00,Books & Media,Atomic Habits Hardcover Edition,1,15.32,0.15,PayPal,Illinois,13.02
+ORD-11164,CUST-1596,2023-07-12 10:27:00,Sports & Outdoors,Thermal Insulated Stainless Water Bottle,1,19.84,0.0,Debit Card,California,19.84
+ORD-10223,CUST-1495,2023-05-31 21:34:00,Home & Kitchen,Ergonomic Memory Foam Pillow,2,40.15,0.0,Debit Card,Colorado,80.3
+ORD-10131,CUST-1071,2023-01-11 08:38:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,30.87,0.15,UPI,California,26.24
+ORD-10912,CUST-1503,2023-02-06 22:44:00,Books & Media,Deep Work: Focused Success in a Distracted World,2,24.05,0.2,Debit Card,New York,38.48
+ORD-10792,CUST-1235,2023-05-04 23:33:00,Clothing & Apparel,Breathable Athletic Running Shorts,1,37.45,0.0,Debit Card,Georgia,37.45
+ORD-10255,CUST-1586,2023-04-10 23:41:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,1,76.24,0.1,Credit Card,California,68.62
+ORD-10566,CUST-1069,2023-11-06 22:33:00,Clothing & Apparel,Merino Wool Knit Sweater,3,100.84,0.15,Debit Card,Florida,257.14
+ORD-11127,CUST-1593,2023-05-30 22:22:00,Electronics,Smart Fitness Watch,5,206.77,0.15,Credit Card,California,878.77
+ORD-10769,CUST-1347,2023-07-22 14:19:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,1,19.75,0.25,Credit Card,Florida,14.81
+ORD-10675,CUST-1164,2023-09-04 18:06:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,5,15.16,0.05,Credit Card,California,72.01
+ORD-10253,CUST-1649,2023-06-02 19:21:00,Electronics,Smart Fitness Watch,1,178.77,0.05,Credit Card,New York,169.83
+ORD-10985,CUST-1133,2023-10-05 14:12:00,Home & Kitchen,Ergonomic Memory Foam Pillow,2,61.04,0.15,Credit Card,Florida,103.77
+ORD-10240,CUST-1477,2023-10-28 18:53:00,Books & Media,Data Science and Machine Learning Handbook,1,64.98,0.05,Debit Card,California,61.73
+ORD-10550,CUST-1647,2023-04-19 11:41:00,Home & Kitchen,Programmable Drip Coffee Maker,2,72.78,0.25,Debit Card,New York,109.17
+ORD-10209,CUST-1547,2023-08-18 16:11:00,Electronics,Ultra-Wide 4K Gaming Monitor,2,348.6,0.1,PayPal,Colorado,627.48
+ORD-10427,CUST-1127,2023-05-02 14:35:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,4,70.26,0.1,Debit Card,New York,252.94
+ORD-10472,CUST-1013,2023-10-30 14:07:00,Electronics,Smart Fitness Watch,2,120.33,0.05,Credit Card,Texas,228.63
+ORD-10184,CUST-1572,2023-08-07 17:59:00,Beauty & Personal Care,Sonic Electric Toothbrush,1,58.8,0.0,Debit Card,New York,58.8
+ORD-10073,CUST-1168,2023-04-09 11:46:00,Electronics,Smart Fitness Watch,1,195.34,0.05,PayPal,Florida,185.57
+ORD-10557,CUST-1359,2023-07-11 22:00:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,40.49,0.0,Credit Card,Texas,40.49
+ORD-10830,CUST-1629,2023-08-01 21:02:00,Electronics,Mechanical Gaming Keyboard,3,129.63,0.1,Credit Card,New York,350.0
+ORD-10185,CUST-1580,2023-06-23 12:08:00,Electronics,USB-C Fast Charging Hub,2,45.06,0.2,Credit Card,California,72.1
+ORD-10202,CUST-1373,2023-08-17 08:49:00,Electronics,USB-C Fast Charging Hub,3,43.22,0.2,Credit Card,Florida,103.73
+ORD-10571,CUST-1031,2023-09-04 21:15:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,1,26.17,0.25,PayPal,California,19.63
+ORD-10330,CUST-1335,2023-04-11 22:53:00,Sports & Outdoors,Thermal Insulated Stainless Water Bottle,1,33.54,0.2,Credit Card,New York,26.83
+ORD-10812,CUST-1497,2023-03-28 11:37:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,514.16,0.0,Debit Card,Colorado,514.16
+ORD-10213,CUST-1159,2023-08-08 15:11:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,2,108.29,0.05,Debit Card,Florida,205.75
+ORD-10842,CUST-1387,2023-11-24 14:40:00,Electronics,Mechanical Gaming Keyboard,2,106.84,0.0,UPI,California,213.68
+ORD-11065,CUST-1199,2023-02-28 18:27:00,Clothing & Apparel,Merino Wool Knit Sweater,2,112.11,0.05,Credit Card,New York,213.01
+ORD-10473,CUST-1561,2023-05-27 21:33:00,Clothing & Apparel,Merino Wool Knit Sweater,1,104.64,0.0,Debit Card,California,104.64
+ORD-10947,CUST-1506,2023-10-06 21:38:00,Electronics,Smart Fitness Watch,2,114.94,0.2,PayPal,Texas,183.9
+ORD-11141,CUST-1259,2023-08-25 21:10:00,Clothing & Apparel,Insulated Winter Puffer Jacket,2,169.28,0.05,Cash on Delivery,Washington,321.63
+ORD-11139,CUST-1141,2023-04-08 11:38:00,Electronics,Bluetooth Portable Speaker,1,53.13,0.1,Credit Card,Washington,47.82
+ORD-10632,CUST-1259,2023-09-03 21:10:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,1,33.73,0.05,Credit Card,Washington,32.04
+ORD-10358,CUST-1305,2023-04-02 17:29:00,Electronics,Wireless Noise-Canceling Headphones,2,272.67,0.0,Credit Card,New York,545.34
+ORD-10695,CUST-1309,2023-07-21 11:02:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,1,14.84,0.1,Credit Card,California,13.36
+ORD-10941,CUST-1523,2023-09-22 11:17:00,Books & Media,Atomic Habits Hardcover Edition,2,16.27,0.0,Credit Card,Colorado,32.54
+ORD-10322,CUST-1594,2023-06-09 11:38:00,Clothing & Apparel,Breathable Athletic Running Shorts,6,30.4,0.05,Debit Card,Texas,173.28
+ORD-11111,CUST-1188,2023-05-04 16:58:00,Clothing & Apparel,Merino Wool Knit Sweater,2,66.16,0.0,Credit Card,Georgia,132.32
+ORD-10133,CUST-1326,2023-12-14 22:27:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,46.86,0.1,Credit Card,California,42.17
+ORD-11189,CUST-1237,2023-10-10 16:25:00,Home & Kitchen,Ergonomic Memory Foam Pillow,6,30.44,0.0,Credit Card,Texas,182.64
+ORD-10183,CUST-1105,2023-11-05 18:37:00,Electronics,Smart Fitness Watch,2,162.7,0.05,UPI,California,309.13
+ORD-10824,CUST-1425,2023-09-20 19:57:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,2,20.6,0.0,Credit Card,Washington,41.2
+ORD-10986,CUST-1634,2023-12-08 10:27:00,Beauty & Personal Care,Sonic Electric Toothbrush,3,83.31,0.05,Credit Card,Washington,237.43
+ORD-10779,CUST-1267,2023-11-02 16:31:00,Electronics,Wireless Noise-Canceling Headphones,1,190.91,0.15,Debit Card,California,162.27
+ORD-10087,CUST-1377,2023-07-11 17:18:00,Books & Media,Data Science and Machine Learning Handbook,1,56.22,0.05,PayPal,Florida,53.41
+ORD-10651,CUST-1397,2023-12-02 13:40:00,Electronics,Bluetooth Portable Speaker,1,68.52,0.0,Debit Card,California,68.52
+ORD-10804,CUST-1566,2023-06-25 11:16:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,1,77.04,0.1,Debit Card,Georgia,69.34
+ORD-10618,CUST-1606,2023-08-27 11:48:00,Books & Media,Deep Work: Focused Success in a Distracted World,3,25.1,0.05,Credit Card,Florida,71.54
+ORD-10551,CUST-1233,2023-07-03 23:18:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,1,25.29,0.15,PayPal,New York,21.5
+ORD-10742,CUST-1533,2023-06-12 13:28:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,86.77,0.05,Credit Card,Florida,82.43
+ORD-10636,CUST-1394,2023-02-03 16:57:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,3,21.73,0.15,Credit Card,California,55.41
+ORD-10235,CUST-1432,2023-12-14 22:43:00,Clothing & Apparel,Merino Wool Knit Sweater,3,91.67,0.2,UPI,Illinois,220.01
+ORD-10301,CUST-1332,2023-07-31 22:34:00,Sports & Outdoors,Thermal Insulated Stainless Water Bottle,1,33.88,0.0,Debit Card,New York,33.88
+ORD-10010,CUST-1454,2023-11-11 19:59:00,Clothing & Apparel,Merino Wool Knit Sweater,1,65.25,0.15,Credit Card,New York,55.46
+ORD-10107,CUST-1136,2023-09-18 10:15:00,Electronics,Smart Fitness Watch,1,152.95,0.05,Credit Card,New York,145.3
+ORD-10948,CUST-1102,2023-02-06 21:58:00,Books & Media,Deep Work: Focused Success in a Distracted World,1,19.57,0.1,PayPal,Texas,17.61
+ORD-10500,CUST-1144,2023-04-26 12:20:00,Beauty & Personal Care,Sonic Electric Toothbrush,8,69.21,0.05,Credit Card,Georgia,526.0
+ORD-10974,CUST-1484,2023-10-10 20:59:00,Sports & Outdoors,Thermal Insulated Stainless Water Bottle,3,18.46,0.0,Debit Card,Georgia,55.38
+ORD-11112,CUST-1249,2023-06-23 08:19:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,3,187.13,0.05,Debit Card,California,533.32
+ORD-10105,CUST-1407,2023-04-17 14:57:00,Electronics,Smart Fitness Watch,2,97.98,0.05,UPI,Florida,186.16
+ORD-10936,CUST-1224,2023-08-26 20:41:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,3,154.36,0.15,PayPal,California,393.62
+ORD-10543,CUST-1002,2023-01-13 14:22:00,Electronics,Mechanical Gaming Keyboard,1,91.72,0.15,UPI,Illinois,77.96
+ORD-10068,CUST-1597,2023-12-19 22:03:00,Clothing & Apparel,Breathable Athletic Running Shorts,2,28.82,0.05,PayPal,California,54.76
+ORD-10858,CUST-1120,2023-09-13 10:02:00,Electronics,Smart Fitness Watch,4,182.25,0.05,Credit Card,Washington,692.55
+ORD-10054,CUST-1031,2023-07-26 20:25:00,Home & Kitchen,Programmable Drip Coffee Maker,3,63.54,0.2,Debit Card,California,152.5
+ORD-10606,CUST-1595,2023-08-27 08:53:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,1,189.16,0.05,UPI,Washington,179.7
+ORD-10806,CUST-1469,2023-05-17 23:46:00,Electronics,Smart Fitness Watch,1,213.71,0.25,Credit Card,Texas,160.28
+ORD-10525,CUST-1353,2023-08-06 11:15:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,26.18,0.2,Credit Card,New York,20.94
+ORD-11158,CUST-1242,2023-11-27 11:48:00,Books & Media,Deep Work: Focused Success in a Distracted World,1,27.96,0.05,Debit Card,Texas,26.56
+ORD-10968,CUST-1185,2023-02-03 16:05:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,50.54,0.05,Debit Card,California,48.01
+ORD-11199,CUST-1289,2023-05-15 21:37:00,Home & Kitchen,Robotic Vacuum Cleaner,4,251.3,0.1,PayPal,Texas,904.68
+ORD-10198,CUST-1077,2023-03-31 22:31:00,Electronics,USB-C Fast Charging Hub,1,40.67,0.15,Credit Card,Georgia,34.57
+ORD-10420,CUST-1047,2023-03-02 22:38:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,1,22.17,0.05,UPI,Colorado,21.06
+ORD-10793,CUST-1130,2023-02-11 10:06:00,Electronics,Ultra-Wide 4K Gaming Monitor,2,295.68,0.15,Debit Card,Florida,502.66
+ORD-10412,CUST-1124,2023-07-20 15:46:00,Home & Kitchen,Robotic Vacuum Cleaner,1,313.66,0.1,PayPal,Illinois,282.29
+ORD-10846,CUST-1316,2023-09-11 08:58:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,5,56.79,0.2,Credit Card,Florida,227.16
+ORD-10090,CUST-1625,2023-11-20 09:24:00,Sports & Outdoors,Thermal Insulated Stainless Water Bottle,4,28.37,0.2,Debit Card,Florida,90.78
+ORD-10402,CUST-1537,2023-06-19 14:34:00,Electronics,Smart Fitness Watch,2,188.71,0.2,Debit Card,New York,301.94
+ORD-11133,CUST-1625,2023-09-01 20:15:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,52.69,0.0,Debit Card,Florida,52.69
+ORD-10850,CUST-1569,2023-04-15 11:57:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,1,24.77,0.0,Credit Card,California,24.77
+ORD-10547,CUST-1017,2023-07-10 19:48:00,Electronics,Bluetooth Portable Speaker,1,74.3,0.05,PayPal,Texas,70.58
+ORD-10526,CUST-1033,2023-08-24 13:37:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,51.77,0.0,PayPal,California,51.77
+ORD-11029,CUST-1080,2023-09-27 09:44:00,Electronics,Wireless Noise-Canceling Headphones,1,170.92,0.0,PayPal,Texas,170.92
+ORD-10290,CUST-1440,2023-07-31 17:42:00,Beauty & Personal Care,Sonic Electric Toothbrush,2,68.54,0.05,PayPal,New York,130.23
+ORD-10736,CUST-1125,2023-06-08 11:15:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,4,130.38,0.15,UPI,Texas,443.29
+ORD-10569,CUST-1474,2023-09-03 18:59:00,Beauty & Personal Care,Sonic Electric Toothbrush,2,85.63,0.05,PayPal,New York,162.7
+ORD-10786,CUST-1366,2023-10-29 11:08:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,2,61.54,0.0,Credit Card,New York,123.08
+ORD-11081,CUST-1390,2023-08-11 20:22:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,1,24.95,0.1,Credit Card,California,22.45
+ORD-10963,CUST-1391,2023-03-23 18:42:00,Home & Kitchen,Programmable Drip Coffee Maker,5,96.06,0.05,Credit Card,Texas,456.28
+ORD-10962,CUST-1354,2023-09-03 23:21:00,Electronics,Mechanical Gaming Keyboard,1,85.88,0.05,UPI,California,81.59
+ORD-10556,CUST-1427,2023-07-06 09:31:00,Home & Kitchen,Ergonomic Memory Foam Pillow,2,42.87,0.0,Credit Card,New York,85.74
+ORD-10831,CUST-1594,2023-06-12 22:13:00,Clothing & Apparel,Breathable Athletic Running Shorts,1,29.26,0.0,Cash on Delivery,Texas,29.26
+ORD-11124,CUST-1642,2023-04-23 16:46:00,Home & Kitchen,Ergonomic Memory Foam Pillow,3,53.41,0.0,Credit Card,Florida,160.23
+ORD-10997,CUST-1359,2023-05-26 10:44:00,Sports & Outdoors,Thermal Insulated Stainless Water Bottle,3,31.46,0.1,UPI,Texas,84.94
+ORD-10734,CUST-1203,2023-10-11 23:44:00,Clothing & Apparel,Merino Wool Knit Sweater,1,93.14,0.1,PayPal,Florida,83.83
+ORD-10799,CUST-1308,2023-04-10 16:34:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,1,57.61,0.15,Credit Card,Florida,48.97
+ORD-11027,CUST-1164,2023-09-27 08:26:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,368.13,0.15,Credit Card,California,312.91
+ORD-10426,CUST-1620,2023-03-02 11:29:00,Home & Kitchen,Programmable Drip Coffee Maker,4,106.89,0.2,Cash on Delivery,California,342.05
+ORD-10234,CUST-1585,2023-08-29 12:30:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,8,114.45,0.0,Debit Card,Florida,915.6
+ORD-11077,CUST-1534,2023-07-17 20:59:00,Books & Media,Atomic Habits Hardcover Edition,6,23.77,0.05,Debit Card,Georgia,135.49
+ORD-10743,CUST-1642,2023-08-20 08:32:00,Clothing & Apparel,Breathable Athletic Running Shorts,2,43.43,0.05,Credit Card,Florida,82.52
+ORD-11087,CUST-1170,2023-07-26 16:47:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,1,167.63,0.05,PayPal,California,159.25
+ORD-11181,CUST-1091,2023-06-25 23:17:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,6,27.75,0.05,Credit Card,New York,158.17
+ORD-10156,CUST-1238,2023-08-01 12:36:00,Books & Media,Data Science and Machine Learning Handbook,1,50.5,0.0,PayPal,Georgia,50.5
+ORD-10139,CUST-1277,2023-06-16 10:40:00,Electronics,Smart Fitness Watch,1,200.61,0.1,Cash on Delivery,New York,180.55
+ORD-10254,CUST-1136,2023-10-09 23:21:00,Beauty & Personal Care,Sonic Electric Toothbrush,2,78.15,0.0,Debit Card,New York,156.3
+ORD-10684,CUST-1274,2023-11-10 17:46:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,1,155.01,0.1,Debit Card,California,139.51
+ORD-10935,CUST-1054,2023-07-23 13:25:00,Clothing & Apparel,Insulated Winter Puffer Jacket,2,150.28,0.0,PayPal,Georgia,300.56
+ORD-11003,CUST-1252,2023-10-07 08:13:00,Home & Kitchen,Programmable Drip Coffee Maker,8,61.78,0.05,UPI,Colorado,469.53
+ORD-10336,CUST-1553,2023-08-20 12:14:00,Clothing & Apparel,Merino Wool Knit Sweater,1,120.36,0.05,Credit Card,Texas,114.34
+ORD-11145,CUST-1153,2023-12-09 20:26:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,3,105.19,0.05,Debit Card,Colorado,299.79
+ORD-10077,CUST-1247,2023-08-19 13:21:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,2,51.79,0.2,Credit Card,New York,82.86
+ORD-11038,CUST-1298,2023-05-24 14:52:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,2,21.48,0.05,Credit Card,New York,40.81
+ORD-10805,CUST-1249,2023-08-09 23:23:00,Books & Media,Psychology of Money,1,14.62,0.0,Debit Card,California,14.62
+ORD-10025,CUST-1036,2023-05-16 18:49:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,3,142.83,0.0,Debit Card,Washington,428.49
+ORD-10508,CUST-1405,2023-09-09 18:01:00,Clothing & Apparel,Breathable Athletic Running Shorts,4,41.38,0.0,PayPal,California,165.52
+ORD-10024,CUST-1609,2023-11-14 13:26:00,Electronics,Smart Fitness Watch,1,209.3,0.1,Debit Card,California,188.37
+ORD-10721,CUST-1247,2023-12-08 10:52:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,1,42.76,0.0,Cash on Delivery,New York,42.76
+ORD-10654,CUST-1283,2023-11-04 22:50:00,Books & Media,Data Science and Machine Learning Handbook,1,70.9,0.0,PayPal,Illinois,70.9
+ORD-10273,CUST-1605,2023-07-10 09:15:00,Beauty & Personal Care,Sonic Electric Toothbrush,4,60.01,0.15,Debit Card,Texas,204.03
+ORD-10907,CUST-1122,2023-11-13 11:48:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,282.19,0.1,UPI,Texas,253.97
+ORD-10162,CUST-1368,2023-03-18 14:05:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,1,15.56,0.0,Credit Card,Colorado,15.56
+ORD-10014,CUST-1536,2023-03-02 13:32:00,Books & Media,Deep Work: Focused Success in a Distracted World,1,16.44,0.0,PayPal,Texas,16.44
+ORD-10873,CUST-1378,2023-09-23 16:18:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,2,67.86,0.05,Credit Card,Washington,128.93
+ORD-10096,CUST-1205,2023-07-29 08:36:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,2,32.24,0.0,Debit Card,Georgia,64.48
+ORD-10367,CUST-1504,2023-12-20 15:52:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,33.38,0.1,UPI,California,30.04
+ORD-10642,CUST-1419,2023-06-09 20:11:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,36.54,0.05,Credit Card,Florida,34.71
+ORD-10641,CUST-1555,2023-11-12 20:42:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,2,42.21,0.0,Debit Card,Florida,84.42
+ORD-10324,CUST-1385,2023-07-23 23:00:00,Clothing & Apparel,Merino Wool Knit Sweater,5,65.45,0.15,PayPal,Texas,278.16
+ORD-11017,CUST-1431,2023-07-23 19:21:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,2,35.82,0.0,PayPal,California,71.64
+ORD-10608,CUST-1473,2023-05-03 22:41:00,Electronics,Wireless Noise-Canceling Headphones,1,131.31,0.05,Credit Card,New York,124.74
+ORD-10678,CUST-1389,2023-08-29 22:20:00,Electronics,USB-C Fast Charging Hub,1,40.91,0.0,UPI,Illinois,40.91
+ORD-10446,CUST-1126,2023-11-10 11:34:00,Books & Media,Deep Work: Focused Success in a Distracted World,4,21.28,0.0,Debit Card,Florida,85.12
+ORD-10770,CUST-1152,2023-05-04 16:22:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,2,32.99,0.0,Debit Card,Illinois,65.98
+ORD-10434,CUST-1271,2023-08-09 10:36:00,Clothing & Apparel,Breathable Athletic Running Shorts,1,37.53,0.15,Credit Card,New York,31.9
+ORD-10035,CUST-1543,2023-05-24 22:48:00,Books & Media,Data Science and Machine Learning Handbook,2,70.65,0.0,UPI,New York,141.3
+ORD-10046,CUST-1637,2023-04-17 08:07:00,Books & Media,Psychology of Money,1,19.32,0.15,PayPal,Texas,16.42
+ORD-10889,CUST-1055,2023-08-20 23:46:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,2,112.27,0.05,Credit Card,Illinois,213.31
+ORD-10538,CUST-1376,2023-01-15 19:12:00,Home & Kitchen,Programmable Drip Coffee Maker,3,83.21,0.1,Debit Card,Florida,224.67
+ORD-10995,CUST-1616,2023-02-27 18:41:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,6,46.58,0.15,PayPal,New York,237.56
+ORD-10730,CUST-1373,2023-11-13 08:29:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,3,147.4,0.0,PayPal,Florida,442.2
+ORD-10717,CUST-1089,2023-10-07 09:55:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,2,52.24,0.15,Credit Card,Texas,88.81
+ORD-10822,CUST-1185,2023-02-20 11:22:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,4,21.67,0.1,UPI,California,78.01
+ORD-10329,CUST-1315,2023-11-26 09:19:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,37.63,0.1,UPI,Texas,33.87
+ORD-11100,CUST-1101,2023-05-26 12:09:00,Beauty & Personal Care,Organic Argan Hair Care Set,4,54.87,0.15,PayPal,Illinois,186.56
+ORD-10766,CUST-1433,2023-03-15 09:04:00,Electronics,Smart Fitness Watch,2,178.3,0.1,Credit Card,Illinois,320.94
+ORD-10033,CUST-1066,2023-03-25 15:41:00,Clothing & Apparel,Insulated Winter Puffer Jacket,2,95.05,0.15,Debit Card,New York,161.58
+ORD-10758,CUST-1122,2023-11-13 09:20:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,43.31,0.1,Debit Card,Texas,38.98
+ORD-10634,CUST-1420,2023-10-24 09:46:00,Home & Kitchen,Programmable Drip Coffee Maker,1,106.36,0.15,PayPal,New York,90.41
+ORD-10294,CUST-1511,2023-10-27 14:07:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,2,20.78,0.0,UPI,Georgia,41.56
+ORD-10289,CUST-1105,2023-07-02 22:20:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,1,33.7,0.15,Debit Card,California,28.65
+ORD-10896,CUST-1226,2023-07-21 19:56:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,1,33.95,0.25,Debit Card,Washington,25.46
+ORD-10385,CUST-1500,2023-08-26 19:43:00,Books & Media,Data Science and Machine Learning Handbook,1,50.05,0.0,Credit Card,Texas,50.05
+ORD-11107,CUST-1116,2023-05-07 15:34:00,Books & Media,Atomic Habits Hardcover Edition,2,23.85,0.2,UPI,Florida,38.16
+ORD-10665,CUST-1518,2023-09-06 22:08:00,Electronics,Mechanical Gaming Keyboard,2,103.67,0.05,Credit Card,Florida,196.97
+ORD-10082,CUST-1305,2023-06-18 10:56:00,Electronics,Smart Fitness Watch,4,202.44,0.0,PayPal,New York,809.76
+ORD-10218,CUST-1189,2023-11-11 23:40:00,Beauty & Personal Care,Sonic Electric Toothbrush,1,75.31,0.0,Credit Card,California,75.31
+ORD-10609,CUST-1355,2023-12-05 11:04:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,2,28.75,0.05,Credit Card,California,54.62
+ORD-10723,CUST-1308,2023-03-28 20:46:00,Books & Media,Atomic Habits Hardcover Edition,1,25.45,0.05,UPI,Florida,24.18
+ORD-10746,CUST-1567,2023-03-14 20:52:00,Books & Media,Deep Work: Focused Success in a Distracted World,2,25.27,0.0,Debit Card,California,50.54
+ORD-10339,CUST-1047,2023-08-20 18:37:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,1,34.15,0.1,Credit Card,Colorado,30.73
+ORD-11200,CUST-1001,2023-05-05 14:09:00,Clothing & Apparel,Insulated Winter Puffer Jacket,2,168.28,0.25,PayPal,Texas,252.42
+ORD-11129,CUST-1094,2023-06-01 14:33:00,Clothing & Apparel,Insulated Winter Puffer Jacket,2,110.97,0.1,Credit Card,California,199.75
+ORD-11173,CUST-1093,2023-09-01 19:55:00,Electronics,USB-C Fast Charging Hub,1,39.03,0.2,Debit Card,New York,31.22
+ORD-10099,CUST-1281,2023-05-13 21:09:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,2,52.78,0.0,Debit Card,Colorado,105.56
+ORD-10878,CUST-1618,2023-07-11 13:21:00,Clothing & Apparel,Insulated Winter Puffer Jacket,2,168.22,0.15,Credit Card,Illinois,285.97
+ORD-10596,CUST-1311,2023-04-02 23:35:00,Beauty & Personal Care,Sonic Electric Toothbrush,3,54.73,0.05,Credit Card,California,155.98
+ORD-10613,CUST-1537,2023-09-16 09:03:00,Clothing & Apparel,Merino Wool Knit Sweater,1,78.48,0.05,Credit Card,New York,74.56
+ORD-10783,CUST-1133,2023-09-19 20:25:00,Home & Kitchen,Programmable Drip Coffee Maker,1,59.98,0.05,Credit Card,Florida,56.98
+ORD-10211,CUST-1616,2023-02-20 16:38:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,45.74,0.1,Credit Card,New York,41.17
+ORD-10016,CUST-1613,2023-09-09 21:05:00,Home & Kitchen,Robotic Vacuum Cleaner,1,299.04,0.15,Credit Card,New York,254.18
+ORD-10676,CUST-1264,2023-07-14 17:53:00,Clothing & Apparel,Breathable Athletic Running Shorts,1,25.95,0.15,Debit Card,Florida,22.06
+ORD-10281,CUST-1218,2023-12-03 18:29:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,3,46.32,0.05,Credit Card,New York,132.01
+ORD-10887,CUST-1151,2023-10-28 23:10:00,Home & Kitchen,Robotic Vacuum Cleaner,1,182.71,0.0,Credit Card,California,182.71
+ORD-10095,CUST-1216,2023-09-14 13:53:00,Sports & Outdoors,Speed Jump Rope with Ball Bearings,1,13.13,0.15,UPI,Colorado,11.16
+ORD-11128,CUST-1577,2023-09-18 16:54:00,Electronics,Mechanical Gaming Keyboard,2,89.94,0.05,PayPal,Texas,170.89
+ORD-10378,CUST-1465,2023-10-01 12:48:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,3,31.76,0.25,PayPal,New York,71.46
+ORD-10425,CUST-1453,2023-02-13 18:37:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,2,50.4,0.2,PayPal,Illinois,80.64
+ORD-10832,CUST-1374,2023-11-30 13:30:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,4,42.35,0.0,Credit Card,New York,169.4
+ORD-10902,CUST-1325,2023-05-31 23:17:00,Sports & Outdoors,Adjustable Quick-Select Dumbbell Pair,2,153.68,0.1,Credit Card,New York,276.62
+ORD-10485,CUST-1334,2023-12-27 21:23:00,Sports & Outdoors,Speed Jump Rope with Ball Bearings,1,17.0,0.05,PayPal,Illinois,16.15
+ORD-10707,CUST-1180,2023-04-28 18:20:00,Clothing & Apparel,Breathable Athletic Running Shorts,2,42.56,0.2,Credit Card,New York,68.1
+ORD-10616,CUST-1155,2023-09-23 10:14:00,Clothing & Apparel,Breathable Athletic Running Shorts,8,35.17,0.1,Credit Card,Illinois,253.22
+ORD-10047,CUST-1320,2023-11-17 08:33:00,Electronics,Bluetooth Portable Speaker,1,91.99,0.05,Debit Card,California,87.39
+ORD-10431,CUST-1347,2023-04-23 16:07:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,1,28.41,0.15,Credit Card,Florida,24.15
+ORD-10283,CUST-1528,2023-06-06 16:55:00,Electronics,Mechanical Gaming Keyboard,1,56.26,0.05,Debit Card,California,53.45
+ORD-10731,CUST-1603,2023-07-31 09:13:00,Books & Media,Atomic Habits Hardcover Edition,2,23.21,0.2,PayPal,Florida,37.14
+ORD-11167,CUST-1595,2023-10-28 08:41:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,34.13,0.05,UPI,Washington,32.42
+ORD-10652,CUST-1638,2023-11-15 14:18:00,Electronics,Wireless Noise-Canceling Headphones,6,237.36,0.0,UPI,California,1424.16
+ORD-10361,CUST-1117,2023-07-20 14:42:00,Sports & Outdoors,Thermal Insulated Stainless Water Bottle,1,27.72,0.0,Debit Card,Georgia,27.72
+ORD-10482,CUST-1489,2023-03-22 14:16:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,3,53.54,0.05,Credit Card,New York,152.59
+ORD-10801,CUST-1449,2023-04-24 13:44:00,Electronics,Smart Fitness Watch,2,142.21,0.2,Debit Card,Texas,227.54
+ORD-11101,CUST-1314,2023-10-17 16:05:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,2,41.65,0.0,UPI,New York,83.3
+ORD-11168,CUST-1524,2023-11-29 14:05:00,Electronics,USB-C Fast Charging Hub,1,40.35,0.05,Credit Card,Texas,38.33
+ORD-10579,CUST-1453,2023-04-12 11:24:00,Home & Kitchen,Robotic Vacuum Cleaner,1,339.6,0.05,Credit Card,Illinois,322.62
+ORD-10341,CUST-1146,2023-06-25 15:09:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,3,26.35,0.1,Debit Card,California,71.15
+ORD-10523,CUST-1372,2023-11-10 12:44:00,Electronics,USB-C Fast Charging Hub,3,46.69,0.0,Credit Card,Florida,140.07
+ORD-10150,CUST-1207,2023-07-22 17:38:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,5,54.79,0.05,Credit Card,Georgia,260.25
+ORD-10542,CUST-1119,2023-05-22 11:36:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,48.63,0.0,Credit Card,California,48.63
+ORD-10871,CUST-1372,2023-06-23 13:03:00,Sports & Outdoors,Speed Jump Rope with Ball Bearings,2,12.27,0.0,Credit Card,Florida,24.54
+ORD-10780,CUST-1642,2023-05-03 09:28:00,Clothing & Apparel,Breathable Athletic Running Shorts,2,24.63,0.15,Credit Card,Florida,41.87
+ORD-11091,CUST-1145,2023-11-20 12:47:00,Electronics,USB-C Fast Charging Hub,2,36.87,0.05,Credit Card,California,70.05
+ORD-11093,CUST-1053,2023-11-19 13:12:00,Clothing & Apparel,Breathable Athletic Running Shorts,2,36.74,0.05,Cash on Delivery,Georgia,69.81
+ORD-10489,CUST-1283,2023-10-22 15:42:00,Electronics,Bluetooth Portable Speaker,2,90.77,0.0,Credit Card,Illinois,181.54
+ORD-10512,CUST-1133,2023-10-30 19:39:00,Clothing & Apparel,Breathable Athletic Running Shorts,1,32.22,0.2,Credit Card,Florida,25.78
+ORD-10545,CUST-1597,2023-10-09 19:05:00,Books & Media,Atomic Habits Hardcover Edition,1,24.08,0.25,Credit Card,California,18.06
+ORD-10145,CUST-1043,2023-06-27 13:48:00,Home & Kitchen,Robotic Vacuum Cleaner,4,244.95,0.1,Credit Card,Florida,881.82
+ORD-10029,CUST-1507,2023-06-07 18:52:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,1,107.8,0.05,Credit Card,California,102.41
+ORD-10311,CUST-1348,2023-11-03 13:21:00,Beauty & Personal Care,Sonic Electric Toothbrush,2,72.34,0.1,Debit Card,Texas,130.21
+ORD-10267,CUST-1566,2023-07-14 18:12:00,Electronics,Mechanical Gaming Keyboard,1,77.83,0.15,Credit Card,Georgia,66.16
+ORD-10266,CUST-1609,2023-05-12 20:10:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,1,194.28,0.05,Credit Card,California,184.57
+ORD-10244,CUST-1217,2023-07-06 16:01:00,Electronics,Bluetooth Portable Speaker,1,77.32,0.0,UPI,New York,77.32
+ORD-10991,CUST-1570,2023-11-11 19:18:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,1,35.64,0.05,Credit Card,New York,33.86
+ORD-10876,CUST-1045,2023-12-01 08:09:00,Clothing & Apparel,Merino Wool Knit Sweater,1,116.06,0.2,Debit Card,Illinois,92.85
+ORD-11144,CUST-1091,2023-10-19 14:46:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,3,30.82,0.15,Credit Card,New York,78.59
+ORD-10269,CUST-1379,2023-02-20 08:42:00,Electronics,Wireless Noise-Canceling Headphones,1,147.79,0.05,Credit Card,Colorado,140.4
+ORD-10979,CUST-1039,2023-01-24 14:55:00,Beauty & Personal Care,Sonic Electric Toothbrush,1,47.29,0.0,PayPal,Georgia,47.29
+ORD-10031,CUST-1423,2023-10-05 09:59:00,Home & Kitchen,Ergonomic Memory Foam Pillow,3,54.7,0.1,Debit Card,Colorado,147.69
+ORD-10759,CUST-1183,2023-05-21 09:44:00,Electronics,USB-C Fast Charging Hub,1,32.67,0.1,UPI,New York,29.4
+ORD-10499,CUST-1154,2023-04-26 10:08:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,8,19.12,0.15,Debit Card,Illinois,130.02
+ORD-10323,CUST-1583,2023-03-17 20:49:00,Clothing & Apparel,Merino Wool Knit Sweater,8,117.02,0.0,Credit Card,Colorado,936.16
+ORD-10592,CUST-1593,2023-06-12 16:58:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,3,41.81,0.0,PayPal,California,125.43
+ORD-10784,CUST-1039,2023-10-23 16:54:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,2,44.53,0.0,Credit Card,Georgia,89.06
+ORD-10109,CUST-1431,2023-10-17 15:16:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,157.88,0.0,Cash on Delivery,California,157.88
+ORD-10971,CUST-1388,2023-12-01 15:25:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,4,20.1,0.0,Credit Card,Illinois,80.4
+ORD-10809,CUST-1277,2023-03-24 09:38:00,Home & Kitchen,Ergonomic Memory Foam Pillow,2,57.16,0.05,PayPal,New York,108.6
+ORD-10199,CUST-1465,2023-11-01 14:46:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,5,162.46,0.0,UPI,New York,812.3
+ORD-10940,CUST-1440,2023-08-16 21:47:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,1,167.81,0.15,Debit Card,New York,142.64
+ORD-10843,CUST-1394,2023-11-08 11:26:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,1,45.66,0.15,Credit Card,California,38.81
+ORD-11084,CUST-1242,2023-11-02 18:11:00,Electronics,Smart Fitness Watch,1,195.4,0.15,Credit Card,Texas,166.09
+ORD-10933,CUST-1623,2023-03-07 10:15:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,2,34.62,0.15,Credit Card,California,58.85
+ORD-10215,CUST-1203,2023-08-31 19:25:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,54.18,0.0,Debit Card,Florida,54.18
+ORD-10371,CUST-1011,2023-11-28 17:06:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,414.9,0.15,PayPal,Illinois,352.66
+ORD-11030,CUST-1585,2023-06-25 23:18:00,Electronics,USB-C Fast Charging Hub,2,29.51,0.1,Credit Card,Florida,53.12
+ORD-11053,CUST-1045,2023-09-02 12:09:00,Clothing & Apparel,Merino Wool Knit Sweater,1,88.08,0.05,Debit Card,Illinois,83.68
+ORD-10448,CUST-1520,2023-09-04 12:42:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,1,48.64,0.0,UPI,Florida,48.64
+ORD-10563,CUST-1211,2023-01-29 12:28:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,2,31.67,0.25,Debit Card,Texas,47.51
+ORD-11005,CUST-1364,2023-09-16 16:50:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,3,157.97,0.0,Credit Card,California,473.91
+ORD-10720,CUST-1305,2023-08-14 15:21:00,Electronics,Mechanical Gaming Keyboard,1,84.17,0.15,Debit Card,New York,71.54
+ORD-10835,CUST-1315,2023-09-24 09:33:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,3,35.01,0.0,Credit Card,Texas,105.03
+ORD-10300,CUST-1431,2023-07-16 16:33:00,Home & Kitchen,Robotic Vacuum Cleaner,4,188.58,0.05,Credit Card,California,716.6
+ORD-10477,CUST-1045,2023-11-21 23:59:00,Clothing & Apparel,Merino Wool Knit Sweater,1,118.91,0.1,PayPal,Illinois,107.02
+ORD-10587,CUST-1109,2023-02-26 13:18:00,Home & Kitchen,Programmable Drip Coffee Maker,3,107.15,0.0,Credit Card,Illinois,321.45
+ORD-10906,CUST-1485,2023-10-17 22:11:00,Beauty & Personal Care,Sonic Electric Toothbrush,2,51.09,0.05,Credit Card,Georgia,97.07
+ORD-10445,CUST-1311,2023-10-03 17:38:00,Clothing & Apparel,Insulated Winter Puffer Jacket,3,147.53,0.0,UPI,California,442.59
+ORD-10496,CUST-1343,2023-12-16 08:47:00,Clothing & Apparel,Breathable Athletic Running Shorts,2,33.39,0.0,Credit Card,Florida,66.78
+ORD-10825,CUST-1611,2023-10-07 16:49:00,Electronics,Bluetooth Portable Speaker,1,66.17,0.0,Credit Card,New York,66.17
+ORD-10219,CUST-1378,2023-10-04 13:20:00,Clothing & Apparel,Merino Wool Knit Sweater,1,69.17,0.05,Credit Card,Washington,65.71
+ORD-10132,CUST-1031,2023-08-01 20:07:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,1,31.32,0.05,Debit Card,California,29.75
+ORD-10787,CUST-1468,2023-06-06 16:37:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,2,22.69,0.05,Debit Card,Washington,43.11
+ORD-10923,CUST-1410,2023-02-23 20:14:00,Electronics,Bluetooth Portable Speaker,4,61.29,0.25,Debit Card,Texas,183.87
+ORD-10880,CUST-1228,2023-06-08 12:40:00,Electronics,Ultra-Wide 4K Gaming Monitor,6,411.1,0.0,Credit Card,California,2466.6
+ORD-10106,CUST-1009,2023-10-18 15:11:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,100.95,0.1,Credit Card,California,90.86
+ORD-10917,CUST-1589,2023-06-14 15:52:00,Electronics,Smart Fitness Watch,5,119.98,0.05,Credit Card,New York,569.9
+ORD-10724,CUST-1162,2023-05-07 11:45:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,1,130.0,0.1,Credit Card,Florida,117.0
+ORD-11126,CUST-1644,2023-09-12 11:15:00,Clothing & Apparel,Merino Wool Knit Sweater,3,73.14,0.05,Debit Card,Texas,208.45
+ORD-10246,CUST-1228,2023-08-25 15:38:00,Home & Kitchen,Programmable Drip Coffee Maker,3,59.94,0.1,Credit Card,California,161.84
+ORD-10204,CUST-1623,2023-03-09 20:54:00,Beauty & Personal Care,Sonic Electric Toothbrush,2,85.85,0.2,PayPal,California,137.36
+ORD-10129,CUST-1079,2023-08-05 11:17:00,Clothing & Apparel,Insulated Winter Puffer Jacket,2,144.03,0.0,PayPal,Texas,288.06
+ORD-11125,CUST-1146,2023-11-20 08:48:00,Home & Kitchen,Robotic Vacuum Cleaner,1,346.1,0.05,Credit Card,California,328.8
+ORD-10737,CUST-1402,2023-11-26 20:36:00,Sports & Outdoors,Adjustable Quick-Select Dumbbell Pair,1,134.26,0.2,UPI,Illinois,107.41
+ORD-10238,CUST-1161,2023-04-22 22:12:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,2,33.4,0.1,Credit Card,Florida,60.12
+ORD-10205,CUST-1449,2023-03-21 23:48:00,Beauty & Personal Care,Organic Argan Hair Care Set,6,34.38,0.1,Credit Card,Texas,185.65
+ORD-10932,CUST-1583,2023-03-17 14:15:00,Home & Kitchen,Ergonomic Memory Foam Pillow,2,40.8,0.0,Credit Card,Colorado,81.6
+ORD-10286,CUST-1423,2023-11-26 16:51:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,56.83,0.1,Credit Card,Colorado,51.15
+ORD-10992,CUST-1181,2023-08-04 14:21:00,Electronics,Bluetooth Portable Speaker,4,62.38,0.0,Credit Card,Georgia,249.52
+ORD-10852,CUST-1551,2023-12-23 17:59:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,167.08,0.0,PayPal,Washington,167.08
+ORD-10856,CUST-1503,2023-06-30 09:33:00,Books & Media,Data Science and Machine Learning Handbook,3,59.65,0.0,Debit Card,New York,178.95
+ORD-10549,CUST-1326,2023-07-06 14:37:00,Books & Media,Atomic Habits Hardcover Edition,6,17.58,0.0,Credit Card,California,105.48
+ORD-10854,CUST-1454,2023-12-05 12:47:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,1,30.15,0.2,Debit Card,New York,24.12
+ORD-10768,CUST-1347,2023-03-01 19:28:00,Electronics,Bluetooth Portable Speaker,1,61.52,0.2,Credit Card,Florida,49.22
+ORD-11191,CUST-1607,2023-04-11 10:46:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,82.02,0.05,UPI,Washington,77.92
+ORD-11121,CUST-1126,2023-07-07 16:20:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,65.25,0.0,UPI,Florida,65.25
+ORD-10163,CUST-1136,2023-03-30 08:53:00,Electronics,Smart Fitness Watch,1,120.99,0.0,Credit Card,New York,120.99
+ORD-10231,CUST-1492,2023-08-31 21:38:00,Electronics,USB-C Fast Charging Hub,1,33.3,0.05,PayPal,California,31.63
+ORD-10646,CUST-1593,2023-02-13 14:58:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,2,90.14,0.15,Credit Card,California,153.24
+ORD-10245,CUST-1276,2023-06-13 09:02:00,Electronics,Smart Fitness Watch,8,84.5,0.1,Debit Card,California,608.4
+ORD-11086,CUST-1515,2023-04-20 18:56:00,Home & Kitchen,Robotic Vacuum Cleaner,2,319.05,0.05,Credit Card,Florida,606.2
+ORD-10849,CUST-1049,2023-07-30 08:30:00,Beauty & Personal Care,Sonic Electric Toothbrush,2,82.01,0.0,UPI,New York,164.02
+ORD-10182,CUST-1245,2023-11-04 11:58:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,3,133.49,0.0,Credit Card,New York,400.47
+ORD-11148,CUST-1461,2023-03-04 11:28:00,Electronics,Bluetooth Portable Speaker,1,42.76,0.0,Credit Card,Texas,42.76
+ORD-10417,CUST-1018,2023-09-21 09:18:00,Clothing & Apparel,Breathable Athletic Running Shorts,3,38.14,0.0,Credit Card,California,114.42
+ORD-10624,CUST-1012,2023-07-05 10:44:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,3,77.89,0.0,Debit Card,New York,233.67
+ORD-10965,CUST-1483,2023-05-20 22:24:00,Electronics,Bluetooth Portable Speaker,1,42.59,0.15,Debit Card,Georgia,36.2
+ORD-10052,CUST-1057,2023-11-21 09:26:00,Electronics,Bluetooth Portable Speaker,1,57.15,0.0,Credit Card,Florida,57.15
+ORD-10891,CUST-1252,2023-03-04 11:59:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,42.97,0.1,UPI,Colorado,38.67
+ORD-10698,CUST-1170,2023-06-21 11:55:00,Electronics,Bluetooth Portable Speaker,6,48.68,0.05,UPI,California,277.48
+ORD-10159,CUST-1621,2023-05-08 08:12:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,1,48.3,0.0,UPI,Texas,48.3
+ORD-11067,CUST-1106,2023-08-30 16:01:00,Books & Media,Atomic Habits Hardcover Edition,1,16.41,0.2,Debit Card,New York,13.13
+ORD-10063,CUST-1190,2023-12-03 08:36:00,Sports & Outdoors,Speed Jump Rope with Ball Bearings,8,15.3,0.15,Debit Card,California,104.04
+ORD-10659,CUST-1321,2023-10-09 22:49:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,5,23.28,0.0,UPI,California,116.4
+ORD-10089,CUST-1241,2023-07-30 18:54:00,Beauty & Personal Care,Sonic Electric Toothbrush,2,71.86,0.1,PayPal,Florida,129.35
+ORD-10939,CUST-1086,2023-10-31 12:13:00,Home & Kitchen,Ergonomic Memory Foam Pillow,2,60.14,0.0,Debit Card,Florida,120.28
+ORD-10141,CUST-1045,2023-06-11 08:07:00,Books & Media,Atomic Habits Hardcover Edition,1,17.4,0.1,Credit Card,Illinois,15.66
+ORD-10066,CUST-1596,2023-06-21 20:02:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,5,23.82,0.0,Debit Card,California,119.1
+ORD-10955,CUST-1418,2023-11-22 09:49:00,Home & Kitchen,Programmable Drip Coffee Maker,1,106.0,0.05,PayPal,California,100.7
+ORD-10643,CUST-1572,2023-11-11 11:49:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,1,198.02,0.1,Debit Card,New York,178.22
+ORD-10988,CUST-1621,2023-04-24 15:26:00,Electronics,USB-C Fast Charging Hub,1,26.46,0.0,Credit Card,Texas,26.46
+ORD-10554,CUST-1627,2023-04-19 16:37:00,Electronics,Smart Fitness Watch,1,203.31,0.05,Credit Card,Washington,193.14
+ORD-10020,CUST-1223,2023-09-25 20:52:00,Home & Kitchen,Programmable Drip Coffee Maker,8,69.77,0.0,Credit Card,Colorado,558.16
+ORD-10122,CUST-1585,2023-09-26 16:48:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,2,167.05,0.0,PayPal,Florida,334.1
+ORD-10310,CUST-1124,2023-07-20 23:22:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,3,25.92,0.0,PayPal,Illinois,77.76
+ORD-10666,CUST-1498,2023-07-19 10:49:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,44.32,0.2,Debit Card,Florida,35.46
+ORD-10233,CUST-1035,2023-04-24 12:30:00,Books & Media,Psychology of Money,1,17.74,0.1,UPI,California,15.97
+ORD-10450,CUST-1361,2023-08-31 10:03:00,Clothing & Apparel,Breathable Athletic Running Shorts,2,27.67,0.0,UPI,Colorado,55.34
+ORD-10321,CUST-1238,2023-10-24 08:50:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,5,15.44,0.1,Credit Card,Georgia,69.48
+ORD-10006,CUST-1029,2023-04-10 14:09:00,Electronics,Mechanical Gaming Keyboard,2,111.15,0.05,Credit Card,California,211.19
+ORD-10053,CUST-1355,2023-10-08 17:12:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,5,34.86,0.05,UPI,California,165.59
+ORD-10282,CUST-1155,2023-11-30 09:11:00,Books & Media,Data Science and Machine Learning Handbook,3,74.6,0.1,Debit Card,Illinois,201.42
+ORD-10605,CUST-1528,2023-10-29 08:35:00,Sports & Outdoors,Adjustable Quick-Select Dumbbell Pair,1,100.9,0.05,Credit Card,California,95.86
+ORD-10453,CUST-1118,2023-11-11 16:55:00,Clothing & Apparel,Merino Wool Knit Sweater,2,67.85,0.1,Credit Card,California,122.13
+ORD-10327,CUST-1348,2023-04-21 15:45:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,61.17,0.1,Credit Card,Texas,55.05
+ORD-10714,CUST-1033,2023-02-20 08:39:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,1,20.27,0.0,Credit Card,California,20.27
+ORD-11122,CUST-1348,2023-12-09 14:57:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,52.35,0.05,Cash on Delivery,Texas,49.73
+ORD-10739,CUST-1010,2023-10-17 17:21:00,Home & Kitchen,Programmable Drip Coffee Maker,1,54.51,0.2,Debit Card,Illinois,43.61
+ORD-10042,CUST-1268,2023-05-31 14:22:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,29.34,0.0,Credit Card,California,29.34
+ORD-10615,CUST-1604,2023-03-03 12:13:00,Beauty & Personal Care,Hydrating Hyaluronic Facial Serum,1,39.94,0.0,Debit Card,Illinois,39.94
+ORD-10994,CUST-1217,2023-12-19 20:56:00,Books & Media,Deep Work: Focused Success in a Distracted World,1,27.43,0.05,Debit Card,New York,26.06
+ORD-10130,CUST-1121,2023-12-24 15:13:00,Electronics,Mechanical Gaming Keyboard,2,111.54,0.0,Credit Card,Florida,223.08
+ORD-10823,CUST-1253,2023-10-26 13:16:00,Books & Media,Atomic Habits Hardcover Edition,1,21.82,0.0,Credit Card,Colorado,21.82
+ORD-11085,CUST-1391,2023-08-15 10:36:00,Electronics,Ultra-Wide 4K Gaming Monitor,5,472.67,0.05,Credit Card,Texas,2245.18
+ORD-11150,CUST-1300,2023-05-31 19:27:00,Electronics,Wireless Noise-Canceling Headphones,1,180.86,0.05,Credit Card,New York,171.82
+ORD-10048,CUST-1589,2023-07-06 13:32:00,Electronics,Mechanical Gaming Keyboard,2,134.31,0.05,Credit Card,New York,255.19
+ORD-11096,CUST-1455,2023-05-15 11:06:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,1,129.91,0.25,Credit Card,New York,97.43
+ORD-10610,CUST-1050,2023-09-25 16:17:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,8,31.94,0.05,Cash on Delivery,Texas,242.74
+ORD-10648,CUST-1416,2023-06-17 17:52:00,Books & Media,Deep Work: Focused Success in a Distracted World,1,23.44,0.0,PayPal,California,23.44
+ORD-10072,CUST-1084,2023-02-02 19:41:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,1,15.14,0.15,PayPal,California,12.87
+ORD-10465,CUST-1610,2023-09-05 17:18:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,2,74.91,0.0,Debit Card,Illinois,149.82
+ORD-11115,CUST-1424,2023-05-25 14:22:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,1,32.56,0.15,Credit Card,Florida,27.68
+ORD-10776,CUST-1117,2023-05-06 08:13:00,Clothing & Apparel,Breathable Athletic Running Shorts,1,24.74,0.0,UPI,Georgia,24.74
+ORD-10413,CUST-1388,2023-12-29 12:23:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,44.11,0.0,Debit Card,Illinois,44.11
+ORD-10187,CUST-1491,2023-10-21 08:35:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,424.46,0.0,Credit Card,New York,424.46
+ORD-10326,CUST-1379,2023-03-21 08:41:00,Electronics,Wireless Noise-Canceling Headphones,6,261.44,0.2,Credit Card,Colorado,1254.91
+ORD-10674,CUST-1024,2023-09-27 08:59:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,3,22.37,0.15,PayPal,Illinois,57.04
+ORD-10165,CUST-1605,2023-11-06 16:30:00,Clothing & Apparel,Merino Wool Knit Sweater,2,100.08,0.05,PayPal,Texas,190.15
+ORD-10774,CUST-1607,2023-10-09 14:50:00,Electronics,USB-C Fast Charging Hub,2,29.74,0.1,Debit Card,Washington,53.53
+ORD-10810,CUST-1618,2023-08-27 23:17:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,1,21.64,0.05,Debit Card,Illinois,20.56
+ORD-11108,CUST-1414,2023-04-28 14:17:00,Sports & Outdoors,Thermal Insulated Stainless Water Bottle,2,32.29,0.0,Debit Card,New York,64.58
+ORD-10702,CUST-1409,2023-05-02 18:56:00,Books & Media,Atomic Habits Hardcover Edition,6,15.23,0.05,Credit Card,New York,86.81
+ORD-11011,CUST-1520,2023-06-26 17:10:00,Home & Kitchen,Programmable Drip Coffee Maker,1,57.18,0.0,Credit Card,Florida,57.18
+ORD-10597,CUST-1363,2023-02-05 12:41:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,1,29.74,0.0,Credit Card,California,29.74
+ORD-10581,CUST-1417,2023-01-28 12:29:00,Clothing & Apparel,Merino Wool Knit Sweater,1,109.56,0.2,Credit Card,California,87.65
+ORD-11143,CUST-1288,2023-08-23 11:40:00,Sports & Outdoors,Speed Jump Rope with Ball Bearings,1,23.88,0.0,Debit Card,Illinois,23.88
+ORD-10377,CUST-1531,2023-07-13 10:22:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,3,35.63,0.0,PayPal,California,106.89
+ORD-10539,CUST-1225,2023-05-30 08:18:00,Electronics,Ultra-Wide 4K Gaming Monitor,5,340.89,0.0,Debit Card,New York,1704.45
+ORD-11000,CUST-1261,2023-05-08 12:59:00,Electronics,Mechanical Gaming Keyboard,1,67.27,0.05,Debit Card,Florida,63.91
+ORD-11071,CUST-1636,2023-11-20 10:08:00,Sports & Outdoors,Thermal Insulated Stainless Water Bottle,2,21.59,0.0,Credit Card,Texas,43.18
+ORD-10121,CUST-1556,2023-09-24 13:13:00,Books & Media,Deep Work: Focused Success in a Distracted World,1,20.12,0.15,Credit Card,Texas,17.1
+ORD-10951,CUST-1225,2023-10-16 09:11:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,42.41,0.05,Credit Card,New York,40.29
+ORD-10370,CUST-1367,2023-03-15 20:28:00,Sports & Outdoors,Speed Jump Rope with Ball Bearings,2,22.32,0.05,Credit Card,Texas,42.41
+ORD-11177,CUST-1397,2023-11-23 08:04:00,Clothing & Apparel,Insulated Winter Puffer Jacket,2,94.02,0.05,Credit Card,California,178.64
+ORD-11116,CUST-1063,2023-06-18 20:42:00,Books & Media,Psychology of Money,3,19.89,0.1,Debit Card,Florida,53.7
+ORD-10580,CUST-1200,2023-10-24 13:43:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,3,26.41,0.0,Debit Card,New York,79.23
+ORD-11024,CUST-1568,2023-03-25 23:18:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,1,32.72,0.0,Credit Card,New York,32.72
+ORD-10474,CUST-1426,2023-11-18 15:22:00,Electronics,Mechanical Gaming Keyboard,1,126.28,0.25,Credit Card,California,94.71
+ORD-10754,CUST-1527,2023-04-07 17:45:00,Sports & Outdoors,Thermal Insulated Stainless Water Bottle,4,24.65,0.0,Credit Card,New York,98.6
+ORD-11175,CUST-1488,2023-07-28 12:21:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,2,33.13,0.05,UPI,Illinois,62.95
+ORD-10800,CUST-1117,2023-09-04 23:49:00,Electronics,Wireless Noise-Canceling Headphones,3,138.98,0.05,Cash on Delivery,Georgia,396.09
+ORD-10591,CUST-1245,2023-11-17 11:13:00,Electronics,Mechanical Gaming Keyboard,1,89.57,0.0,Debit Card,New York,89.57
+ORD-10194,CUST-1202,2023-04-21 10:59:00,Electronics,Bluetooth Portable Speaker,1,68.69,0.15,Debit Card,Illinois,58.39
+ORD-10173,CUST-1493,2023-10-06 10:34:00,Beauty & Personal Care,Sonic Electric Toothbrush,3,86.71,0.25,Debit Card,Illinois,195.1
+ORD-10305,CUST-1311,2023-08-03 12:33:00,Clothing & Apparel,Merino Wool Knit Sweater,2,87.25,0.1,Credit Card,California,157.05
+ORD-11131,CUST-1282,2023-08-11 17:33:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,1,48.04,0.15,Debit Card,Texas,40.83
+ORD-10888,CUST-1451,2023-07-08 21:57:00,Electronics,Bluetooth Portable Speaker,1,56.44,0.05,Debit Card,Texas,53.62
+ORD-10186,CUST-1358,2023-10-15 12:18:00,Electronics,USB-C Fast Charging Hub,1,39.2,0.2,Credit Card,Texas,31.36
+ORD-11004,CUST-1587,2023-03-27 10:41:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,1,32.35,0.2,Credit Card,New York,25.88
+ORD-11098,CUST-1098,2023-10-05 20:25:00,Electronics,Wireless Noise-Canceling Headphones,2,149.96,0.0,Credit Card,Illinois,299.92
+ORD-10382,CUST-1017,2023-07-17 10:39:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,2,27.39,0.0,Credit Card,Texas,54.78
+ORD-11176,CUST-1411,2023-04-20 18:42:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,2,39.13,0.0,Credit Card,Texas,78.26
+ORD-10391,CUST-1523,2023-01-18 22:33:00,Home & Kitchen,Programmable Drip Coffee Maker,1,107.18,0.1,UPI,Colorado,96.46
+ORD-10032,CUST-1045,2023-07-04 20:49:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,2,94.57,0.1,Credit Card,Illinois,170.23
+ORD-10859,CUST-1634,2023-12-07 15:34:00,Home & Kitchen,Programmable Drip Coffee Maker,4,60.71,0.1,Credit Card,Washington,218.56
+ORD-10388,CUST-1051,2023-10-16 16:56:00,Home & Kitchen,Robotic Vacuum Cleaner,5,349.81,0.05,Credit Card,New York,1661.6
+ORD-10355,CUST-1414,2023-09-12 22:23:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,2,25.03,0.0,Debit Card,New York,50.06
+ORD-10004,CUST-1052,2023-05-30 10:39:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,1,53.98,0.05,Cash on Delivery,California,51.28
+ORD-11192,CUST-1346,2023-11-15 17:16:00,Clothing & Apparel,Insulated Winter Puffer Jacket,3,148.31,0.1,UPI,Florida,400.44
+ORD-10441,CUST-1441,2023-05-24 12:31:00,Books & Media,Atomic Habits Hardcover Edition,1,16.86,0.15,Debit Card,Colorado,14.33
+ORD-10092,CUST-1003,2023-08-19 17:47:00,Home & Kitchen,Robotic Vacuum Cleaner,2,252.2,0.0,Credit Card,California,504.4
+ORD-11184,CUST-1418,2023-04-06 11:37:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,5,34.76,0.1,Credit Card,California,156.42
+ORD-10134,CUST-1583,2023-09-20 15:38:00,Sports & Outdoors,Speed Jump Rope with Ball Bearings,1,23.07,0.1,Credit Card,Colorado,20.76
+ORD-10945,CUST-1250,2023-12-01 23:35:00,Clothing & Apparel,Breathable Athletic Running Shorts,2,35.19,0.1,PayPal,New York,63.34
+ORD-10845,CUST-1237,2023-10-31 22:39:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,1,90.9,0.15,PayPal,Texas,77.27
+ORD-11187,CUST-1285,2023-04-07 13:31:00,Electronics,Mechanical Gaming Keyboard,1,84.33,0.05,Credit Card,Illinois,80.11
+ORD-10276,CUST-1450,2023-10-19 18:31:00,Clothing & Apparel,Breathable Athletic Running Shorts,1,31.56,0.15,UPI,Colorado,26.83
+ORD-11088,CUST-1337,2023-05-05 17:13:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,1,23.92,0.05,Cash on Delivery,New York,22.72
+ORD-10442,CUST-1629,2023-10-08 22:34:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,1,20.11,0.1,Credit Card,New York,18.1
+ORD-10719,CUST-1320,2023-03-28 22:55:00,Electronics,Mechanical Gaming Keyboard,5,72.39,0.0,Credit Card,California,361.95
+ORD-10149,CUST-1260,2023-05-28 16:30:00,Sports & Outdoors,Ultralight 2-Person Camping Tent,1,85.92,0.0,PayPal,New York,85.92
+ORD-11064,CUST-1215,2023-05-08 22:19:00,Home & Kitchen,Robotic Vacuum Cleaner,1,326.16,0.1,Credit Card,New York,293.54
+ORD-10718,CUST-1550,2023-07-16 18:36:00,Books & Media,Psychology of Money,1,16.02,0.05,PayPal,California,15.22
+ORD-11180,CUST-1320,2023-04-17 18:16:00,Beauty & Personal Care,Organic Argan Hair Care Set,1,56.25,0.2,UPI,California,45.0
+ORD-11103,CUST-1270,2023-02-06 19:14:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,104.78,0.15,Credit Card,Washington,89.06
+ORD-10291,CUST-1266,2023-10-03 14:42:00,Beauty & Personal Care,Organic Argan Hair Care Set,2,26.47,0.0,Cash on Delivery,California,52.94
+ORD-11094,CUST-1070,2023-09-02 10:01:00,Clothing & Apparel,Merino Wool Knit Sweater,1,91.51,0.05,Credit Card,Colorado,86.93
+ORD-11089,CUST-1476,2023-12-15 09:13:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,4,25.83,0.05,Credit Card,New York,98.15
+ORD-11118,CUST-1496,2023-06-26 23:16:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,3,40.28,0.05,PayPal,Texas,114.8
+ORD-10153,CUST-1363,2023-05-29 12:12:00,Beauty & Personal Care,Sonic Electric Toothbrush,1,64.03,0.0,Debit Card,California,64.03
+ORD-11054,CUST-1034,2023-12-16 19:36:00,Home & Kitchen,Robotic Vacuum Cleaner,1,218.38,0.05,UPI,California,207.46
+ORD-10212,CUST-1185,2023-12-24 13:49:00,Sports & Outdoors,Eco-Friendly Non-Slip Yoga Mat,1,46.07,0.25,Credit Card,California,34.55
+ORD-10960,CUST-1331,2023-03-08 22:57:00,Electronics,Mechanical Gaming Keyboard,1,98.52,0.05,Credit Card,New York,93.59
+ORD-10317,CUST-1053,2023-02-01 16:01:00,Home & Kitchen,Ergonomic Memory Foam Pillow,4,28.53,0.05,PayPal,Georgia,108.41
+ORD-11140,CUST-1200,2023-04-05 11:20:00,Home & Kitchen,Non-Stick Stainless Steel Cookware Set,1,170.58,0.0,Debit Card,New York,170.58
+ORD-10135,CUST-1254,2023-08-04 11:58:00,Sports & Outdoors,Thermal Insulated Stainless Water Bottle,1,24.77,0.15,Cash on Delivery,California,21.05
+ORD-11034,CUST-1395,2023-08-08 10:17:00,Clothing & Apparel,Merino Wool Knit Sweater,3,61.68,0.2,Credit Card,Florida,148.03
+ORD-11092,CUST-1066,2023-03-06 17:55:00,Home & Kitchen,Programmable Drip Coffee Maker,1,65.06,0.25,Credit Card,New York,48.8
+ORD-10732,CUST-1486,2023-02-15 09:24:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,327.12,0.0,Debit Card,Washington,327.12
+ORD-10897,CUST-1225,2023-08-13 17:19:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,3,26.64,0.0,Credit Card,New York,79.92
+ORD-10760,CUST-1435,2023-11-26 22:00:00,Electronics,Bluetooth Portable Speaker,5,65.64,0.1,Credit Card,New York,295.38
+ORD-10080,CUST-1514,2023-07-07 08:14:00,Home & Kitchen,Robotic Vacuum Cleaner,1,361.7,0.15,Debit Card,California,307.44
+ORD-10750,CUST-1486,2023-05-16 18:52:00,Home & Kitchen,Programmable Drip Coffee Maker,2,104.68,0.05,Cash on Delivery,Washington,198.89
+ORD-10582,CUST-1415,2023-06-06 17:45:00,Home & Kitchen,Aromatherapy Essential Oil Diffuser,1,31.71,0.05,Credit Card,Florida,30.12
+ORD-10469,CUST-1029,2023-06-20 08:08:00,Clothing & Apparel,Merino Wool Knit Sweater,1,70.04,0.0,PayPal,California,70.04
+ORD-10973,CUST-1014,2023-12-18 19:48:00,Electronics,Wireless Noise-Canceling Headphones,1,154.25,0.05,Debit Card,Georgia,146.54
+ORD-10316,CUST-1559,2023-06-26 17:48:00,Electronics,Wireless Noise-Canceling Headphones,1,213.4,0.0,PayPal,Illinois,213.4
+ORD-10021,CUST-1240,2023-08-14 23:59:00,Books & Media,Data Science and Machine Learning Handbook,1,42.84,0.05,PayPal,Washington,40.7
+ORD-10288,CUST-1398,2023-09-08 21:11:00,Clothing & Apparel,Breathable Athletic Running Shorts,3,28.11,0.0,PayPal,California,84.33
+ORD-10161,CUST-1299,2023-08-05 16:45:00,Electronics,Bluetooth Portable Speaker,1,45.39,0.05,Debit Card,Illinois,43.12
+ORD-11161,CUST-1127,2023-11-28 11:40:00,Clothing & Apparel,Breathable Athletic Running Shorts,1,30.47,0.05,Debit Card,New York,28.95
+ORD-10333,CUST-1507,2023-11-26 12:13:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,1,19.98,0.15,Credit Card,California,16.98
+ORD-10552,CUST-1251,2023-04-29 17:31:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,124.61,0.0,UPI,New York,124.61
+ORD-10826,CUST-1584,2023-10-16 18:22:00,Books & Media,Psychology of Money,3,23.17,0.0,Debit Card,California,69.51
+ORD-10386,CUST-1347,2023-12-07 16:56:00,Home & Kitchen,Robotic Vacuum Cleaner,2,175.71,0.25,Debit Card,Florida,263.56
+ORD-10416,CUST-1509,2023-11-29 16:11:00,Books & Media,Atomic Habits Hardcover Edition,2,16.06,0.1,Debit Card,New York,28.91
+ORD-10312,CUST-1539,2023-01-18 14:42:00,Electronics,Bluetooth Portable Speaker,1,51.68,0.1,PayPal,Texas,46.51
+ORD-10040,CUST-1213,2023-03-11 20:43:00,Clothing & Apparel,Merino Wool Knit Sweater,1,116.08,0.05,Credit Card,Colorado,110.28
+ORD-10595,CUST-1364,2023-09-25 17:46:00,Books & Media,Psychology of Money,1,17.27,0.0,PayPal,California,17.27
+ORD-10123,CUST-1386,2023-05-29 21:07:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,1,48.64,0.0,Debit Card,Texas,48.64
+ORD-10399,CUST-1473,2023-12-30 21:11:00,Electronics,Smart Fitness Watch,3,85.8,0.0,Credit Card,New York,257.4
+ORD-11157,CUST-1562,2023-09-06 22:10:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,28.77,0.05,Debit Card,Florida,27.33
+ORD-10359,CUST-1018,2023-09-11 09:30:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,6,48.74,0.05,UPI,California,277.82
+ORD-11021,CUST-1398,2023-07-16 15:08:00,Books & Media,Psychology of Money,1,17.37,0.0,Debit Card,California,17.37
+ORD-11106,CUST-1074,2023-10-03 11:39:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,3,25.68,0.05,UPI,Washington,73.19
+ORD-10548,CUST-1355,2023-03-30 08:10:00,Electronics,Smart Fitness Watch,1,86.57,0.1,Debit Card,California,77.91
+ORD-10660,CUST-1382,2023-04-19 22:12:00,Clothing & Apparel,Breathable Athletic Running Shorts,2,28.96,0.15,PayPal,New York,49.23
+ORD-11040,CUST-1511,2023-12-23 17:07:00,Books & Media,Sci-Fi Masterpiece Space Odyssey Boxset,1,76.08,0.2,Debit Card,Georgia,60.86
+ORD-10138,CUST-1593,2023-02-22 10:44:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,18.81,0.1,Credit Card,California,16.93
+ORD-10713,CUST-1125,2023-11-21 23:30:00,Electronics,Smart Fitness Watch,3,100.78,0.1,Credit Card,Texas,272.11
+ORD-10503,CUST-1500,2023-09-05 09:17:00,Clothing & Apparel,Breathable Athletic Running Shorts,2,36.6,0.15,Credit Card,Texas,62.22
+ORD-10669,CUST-1618,2023-09-02 19:34:00,Electronics,Ultra-Wide 4K Gaming Monitor,1,327.99,0.2,Cash on Delivery,Illinois,262.39
+ORD-10710,CUST-1107,2023-08-31 15:14:00,Books & Media,Data Science and Machine Learning Handbook,3,59.7,0.15,Debit Card,California,152.24
+ORD-10524,CUST-1251,2023-09-22 09:54:00,Home & Kitchen,Ergonomic Memory Foam Pillow,2,46.15,0.05,Credit Card,New York,87.68
+ORD-10764,CUST-1480,2023-02-08 09:51:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,3,26.12,0.15,Debit Card,California,66.61
+ORD-10466,CUST-1544,2023-09-05 10:06:00,Home & Kitchen,Programmable Drip Coffee Maker,2,93.42,0.05,PayPal,New York,177.5
+ORD-10157,CUST-1405,2023-07-28 20:37:00,Books & Media,Data Science and Machine Learning Handbook,2,38.39,0.1,PayPal,California,69.1
+ORD-10934,CUST-1192,2023-09-15 16:42:00,Home & Kitchen,Ergonomic Memory Foam Pillow,1,42.44,0.0,Debit Card,Washington,42.44
+ORD-10061,CUST-1354,2023-11-21 15:29:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,1,14.22,0.05,Credit Card,California,13.51
+ORD-11073,CUST-1213,2023-07-09 15:57:00,Books & Media,Data Science and Machine Learning Handbook,2,72.56,0.25,Credit Card,Colorado,108.84
+ORD-10360,CUST-1477,2023-11-12 17:58:00,Beauty & Personal Care,Matte Finish Mineral Sunscreen SPF 50,3,23.91,0.0,Credit Card,California,71.73
+ORD-10993,CUST-1172,2023-08-11 21:06:00,Clothing & Apparel,Insulated Winter Puffer Jacket,1,91.9,0.0,Debit Card,Texas,91.9
+ORD-10250,CUST-1102,2023-04-08 22:06:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,5,67.01,0.1,Credit Card,Texas,301.55
+ORD-10517,CUST-1249,2023-04-21 18:53:00,Electronics,Smart Fitness Watch,2,135.92,0.05,Cash on Delivery,California,258.25
+ORD-11097,CUST-1163,2023-02-14 22:16:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,5,19.47,0.15,UPI,Florida,82.75
+ORD-10590,CUST-1474,2023-04-02 11:58:00,Books & Media,Deep Work: Focused Success in a Distracted World,4,20.64,0.0,Credit Card,New York,82.56
+ORD-10589,CUST-1348,2023-06-27 16:15:00,Electronics,Wireless Noise-Canceling Headphones,3,192.01,0.15,Debit Card,Texas,489.63
+ORD-10808,CUST-1228,2023-02-13 14:38:00,Clothing & Apparel,Slim-Fit Stretch Denim Jeans,3,48.25,0.05,Debit Card,California,137.51
+ORD-10348,CUST-1202,2023-10-14 10:15:00,Books & Media,Psychology of Money,1,20.48,0.0,Debit Card,Illinois,20.48
+ORD-10867,CUST-1256,2023-12-26 17:14:00,Beauty & Personal Care,Lavender Exfoliating Body Scrub,1,19.21,0.05,Debit Card,Illinois,18.25
+ORD-10298,CUST-1450,2023-11-16 08:43:00,Sports & Outdoors,Speed Jump Rope with Ball Bearings,4,17.29,0.15,Credit Card,Colorado,58.79
+ORD-10356,CUST-1273,2023-08-09 13:59:00,Clothing & Apparel,Classic Cotton Crewneck T-Shirt,1,19.25,0.0,Debit Card,California,19.25

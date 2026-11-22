@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Online Shopping Behaviour & Purchase Trend Analysis</title>
+  
+  <!-- Inter Font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Core Stylesheet -->
+  <link rel="stylesheet" href="style.css">
+
+  <!-- External CDNs: Plotly.js, PapaParse, SheetJS -->
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+
+  <!-- Offline & Local file:// Embedded Fallback Dataset -->
+  <script src="assets/data/default_dataset.js"></script>
+</head>
+<body>
+
+<div id="app-container">
+  
+  <!-- SIDEBAR NAVIGATION -->
+  <aside class="sidebar">
+    <div class="sidebar-header">
+      <div class="brand-icon">🛒</div>
+      <div>
+        <div class="brand-title">E-Commerce EDA</div>
+        <div class="brand-tagline">Shopping Trend Engine</div>
+      </div>
+    </div>
+
+    <nav class="sidebar-nav">
+      <div class="nav-section-label">Executive Intelligence</div>
+      <a class="nav-item active" data-view="view-overview">
+        <span class="nav-icon">📊</span>
+        <span>Executive Overview</span>
+      </a>
+      <a class="nav-item" data-view="view-upload">
+        <span class="nav-icon">📁</span>
+        <span>Dataset Ingestion</span>
+      </a>
+      <a class="nav-item" data-view="view-preview">
+        <span class="nav-icon">🔍</span>
+        <span>Data Preview & Quality</span>
+      </a>
+
+      <div class="nav-section-label">Business Analytics</div>
+      <a class="nav-item" data-view="view-category">
+        <span class="nav-icon">🏷️</span>
+        <span>Category & Product</span>
+      </a>
+      <a class="nav-item" data-view="view-customer">
+        <span class="nav-icon">👥</span>
+        <span>Customer Behaviour</span>
+      </a>
+      <a class="nav-item" data-view="view-payment">
+        <span class="nav-icon">💳</span>
+        <span>Payment Analysis</span>
+      </a>
+
+      <div class="nav-section-label">Syllabus Advanced EDA</div>
+      <a class="nav-item" data-view="view-bivariate">
+        <span class="nav-icon">🔄</span>
+        <span>Unit 4: Bivariate & Resistant</span>
+      </a>
+      <a class="nav-item" data-view="view-multivariate">
+        <span class="nav-icon">🌐</span>
+        <span>Unit 5: Multivariate & Corr</span>
+      </a>
+      <a class="nav-item" data-view="view-timeseries">
+        <span class="nav-icon">📅</span>
+        <span>Unit 5: Time Series</span>
+      </a>
+
+      <div class="nav-section-label">Governance & Exports</div>
+      <a class="nav-item" data-view="view-exports">
+        <span class="nav-icon">💾</span>
+        <span>Download & Reports</span>
+      </a>
+    </nav>
+
+    <div class="sidebar-footer">
+      <div>Active Records: <strong id="filtered-records-count">0 / 0</strong></div>
+      <div style="margin-top:4px;">Deployable on <strong>GitHub Pages</strong></div>
+    </div>
+  </aside>
+
+  <!-- MAIN VIEWPORT -->
+  <main class="main-content">
+    
+    <!-- TOP HEADER BAR -->
+    <header class="top-header">
+      <div class="header-left">
+        <button class="menu-toggle" id="menu-toggle">☰</button>
+        <div class="page-heading">
+          <h1>Online Shopping Behaviour & Purchase Trend Analysis</h1>
+          <p>Explore customer behaviour, discover sales patterns and understand purchasing trends.</p>
+        </div>
+      </div>
+      <div class="header-right">
+        <div class="status-pill">
+          <span class="status-dot" id="status-dot"></span>
+          <span id="status-text">Ready</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- CONTENT BODY -->
+    <div class="content-body">
+      
+      <!-- GLOBAL FILTERS BAR -->
+      <section class="filter-bar" id="global-filter-bar">
+        <div class="filter-group">
+          <label>📅 Date Range:</label>
+          <input type="date" class="form-input" id="filter-date-start" style="width:145px; padding:6px 8px;">
+          <span>to</span>
+          <input type="date" class="form-input" id="filter-date-end" style="width:145px; padding:6px 8px;">
+        </div>
+
+        <div class="filter-group">
+          <label>🏷️ Category:</label>
+          <div class="filter-chips" id="category-filter-chips"></div>
+        </div>
+
+        <div class="filter-group">
+          <label>💳 Payment:</label>
+          <div class="filter-chips" id="payment-filter-chips"></div>
+        </div>
+
+        <div class="filter-group">
+          <label>📍 Location:</label>
+          <select class="form-select" id="filter-location-select" style="width:140px; padding:6px 8px;">
+            <option value="All">All Locations</option>
+          </select>
+        </div>
+
+        <button class="btn btn-secondary btn-sm" id="btn-reset-filters">Reset Filters</button>
+      </section>
+
+      <!-- ===================================================================
+           VIEW 1: EXECUTIVE OVERVIEW
+           =================================================================== -->
+      <section class="view-section active" id="view-overview">
+        <div class="kpi-grid">
+          <div class="kpi-card">
+            <div class="kpi-label">Total Gross Revenue</div>
+            <div class="kpi-value" id="kpi-total-revenue">$0.00</div>
+            <div class="kpi-subtext">Sum of filtered orders</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label">Transaction Volume</div>
+            <div class="kpi-value" id="kpi-total-orders">0</div>
+            <div class="kpi-subtext">Total purchases</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label">Average Order Value (AOV)</div>
+            <div class="kpi-value" id="kpi-aov">$0.00</div>
+            <div class="kpi-subtext">Revenue per order</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label">Total Units Sold</div>
+            <div class="kpi-value" id="kpi-total-units">0</div>
+            <div class="kpi-subtext">Quantity transacted</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label">Unique Customers</div>
+            <div class="kpi-value" id="kpi-unique-customers">0</div>
+            <div class="kpi-subtext">Active consumer base</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label">Average Discount</div>
+            <div class="kpi-value" id="kpi-avg-discount">0.0%</div>
+            <div class="kpi-subtext">Promotional rate</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label">Top Revenue Department</div>
+            <div class="kpi-value" id="kpi-top-category" style="font-size:1.3rem;">-</div>
+            <div class="kpi-subtext">Highest gross sales</div>
+          </div>
+        </div>
+
+        <div class="grid-2">
+          <div class="card">
+            <div class="card-header">
+              <div class="card-title">🏷️ Category Revenue Distribution</div>
+            </div>
+            <div id="chart-overview-donut" class="chart-wrapper"></div>
+          </div>
+          <div class="card">
+            <div class="card-header">
+              <div class="card-title">📈 Monthly Revenue Trajectory</div>
+            </div>
+            <div id="chart-overview-monthly" class="chart-wrapper"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ===================================================================
+           VIEW 2: DATASET INGESTION & COLUMN MAPPING
+           =================================================================== -->
+      <section class="view-section" id="view-upload">
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title">📁 Universal Dataset Ingestion (CSV & Excel XLSX)</div>
+            <span class="status-pill" id="current-dataset-label">online_shopping_data.csv</span>
+          </div>
+
+          <div class="grid-2">
+            <div>
+              <div class="dropzone-container" id="dropzone-container">
+                <div class="dropzone-icon">☁️</div>
+                <div class="dropzone-title">Drag & Drop Your Dataset Here</div>
+                <div class="dropzone-desc">Supports CSV, TSV, and Excel XLSX files</div>
+                <input type="file" id="file-upload-input" accept=".csv,.xlsx,.xls,.txt" style="display:none;">
+                <button class="btn btn-primary btn-sm" style="margin-top:14px;" onclick="document.getElementById('file-upload-input').click()">Browse Local Files</button>
+              </div>
+
+              <div style="margin-top:20px;">
+                <label class="form-label">Or Switch to Bundled Samples:</label>
+                <select class="form-select" id="sample-dataset-select">
+                  <option value="primary">Primary E-Commerce Dataset (online_shopping_data.csv - 3,212 rows)</option>
+                  <option value="alternative">Alternative Schema Dataset (alternative_retail_transactions.xlsx)</option>
+                </select>
+              </div>
+            </div>
+
+            <div>
+              <div class="callout-box">
+                <strong>Dynamic Zero-Backend Architecture:</strong><br>
+                All file parsing (via PapaParse and SheetJS), data cleaning, statistical regressions, and Plotly charting run 100% inside your web browser. No Python server or external API required!
+              </div>
+
+              <div class="card" style="margin-bottom:0;">
+                <div class="card-title" style="font-size:0.95rem; margin-bottom:12px;">🧹 Automated Cleaning Toggles</div>
+                <label style="display:flex; align-items:center; gap:8px; margin-bottom:10px; cursor:pointer;">
+                  <input type="checkbox" id="clean-dups-toggle" checked>
+                  <span>Purge Identical Duplicate Rows</span>
+                </label>
+                <label style="display:flex; align-items:center; gap:8px; cursor:pointer;">
+                  <input type="checkbox" id="clean-impute-toggle" checked>
+                  <span>Impute Missing Values (Median for Numeric, Mode for Categorical)</span>
+                </label>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title">⚙️ Flexible Dynamic Column Mapping</div>
+            <span class="card-subtitle">Adapt the analytics engine to match arbitrary column names</span>
+          </div>
+          <div id="column-mapping-container"></div>
+        </div>
+      </section>
+
+      <!-- ===================================================================
+           VIEW 3: DATA PREVIEW & QUALITY
+           =================================================================== -->
+      <section class="view-section" id="view-preview">
+        <div class="kpi-grid">
+          <div class="kpi-card">
+            <div class="kpi-label">Raw Rows Ingested</div>
+            <div class="kpi-value" id="qual-raw-rows">0</div>
+            <div class="kpi-subtext">Before de-duplication</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label">Cleaned Rows</div>
+            <div class="kpi-value" id="qual-clean-rows">0</div>
+            <div class="kpi-subtext">Valid active records</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label">Duplicates Detected</div>
+            <div class="kpi-value" id="qual-duplicates">0</div>
+            <div class="kpi-subtext">Purged redundancy</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label">Total Missing Cells</div>
+            <div class="kpi-value" id="qual-missing-cells">0</div>
+            <div class="kpi-subtext">Imputed robustly</div>
+          </div>
+        </div>
+
+        <div class="grid-1-2">
+          <div class="card">
+            <div class="card-header">
+              <div class="card-title">🔎 Missingness Audit</div>
+            </div>
+            <div class="table-responsive">
+              <table class="data-table">
+                <thead>
+                  <tr>
+                    <th>Column</th>
+                    <th>Type</th>
+                    <th>Missing</th>
+                    <th>Rate</th>
+                  </tr>
+                </thead>
+                <tbody id="missing-table-body"></tbody>
+              </table>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header">
+              <div class="card-title">📋 Active Dataset Records (First 50 Rows)</div>
+            </div>
+            <div class="table-responsive" style="max-height:420px; overflow-y:auto;">
+              <table class="data-table">
+                <thead id="preview-table-head"></thead>
+                <tbody id="preview-table-body"></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ===================================================================
+           VIEW 4: CATEGORY & PRODUCT ANALYTICS
+           =================================================================== -->
+      <section class="view-section" id="view-category">
+        <div class="callout-box" id="category-warning" style="display:none; border-left-color:var(--danger); color:var(--danger);">
+          ⚠️ Product Category or Total Amount column is unmapped. Please configure column mappings to unlock departmental analytics.
+        </div>
+
+        <div class="grid-2">
+          <div class="card">
+            <div class="card-header"><div class="card-title">📊 Gross Revenue by Category</div></div>
+            <div id="chart-category-bar" class="chart-wrapper"></div>
+          </div>
+          <div class="card">
+            <div class="card-header"><div class="card-title">💰 Average Order Value (AOV) by Category</div></div>
+            <div id="chart-category-aov" class="chart-wrapper"></div>
+          </div>
+        </div>
+
+        <div class="grid-2">
+          <div class="card">
+            <div class="card-header"><div class="card-title">🏆 Top 10 Best-Selling Products</div></div>
+            <div id="chart-top-products" class="chart-wrapper"></div>
+          </div>
+          <div class="card">
+            <div class="card-header"><div class="card-title">📑 Category Performance Matrix</div></div>
+            <div class="table-responsive">
+              <table class="data-table">
+                <thead>
+                  <tr>
+                    <th>Category</th>
+                    <th>Revenue</th>
+                    <th>Orders</th>
+                    <th>AOV</th>
+                    <th>Units</th>
+                    <th>Share</th>
+                  </tr>
+                </thead>
+                <tbody id="category-summary-tbody"></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ===================================================================
+           VIEW 5: CUSTOMER BEHAVIOUR
+           =================================================================== -->
+      <section class="view-section" id="view-customer">
+        <div class="callout-box" id="customer-warning" style="display:none; border-left-color:var(--danger); color:var(--danger);">
+          ⚠️ Customer ID is not mapped. Please map Customer ID to evaluate lifetime value and retention.
+        </div>
+
+        <div class="kpi-grid">
+          <div class="kpi-card">
+            <div class="kpi-label">Unique Customers</div>
+            <div class="kpi-value" id="cust-total-count">0</div>
+            <div class="kpi-subtext">Active purchasers</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label">Repeat Customer Rate</div>
+            <div class="kpi-value" id="cust-repeat-rate">0.0%</div>
+            <div class="kpi-subtext">>1 Transaction</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label">Mean Lifetime Spend</div>
+            <div class="kpi-value" id="cust-mean-spend">$0.00</div>
+            <div class="kpi-subtext">Average spend</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label">Median Lifetime Spend</div>
+            <div class="kpi-value" id="cust-median-spend">$0.00</div>
+            <div class="kpi-subtext">Skew-resistant middle</div>
+          </div>
+        </div>
+
+        <div class="grid-2">
+          <div class="card">
+            <div class="card-header"><div class="card-title">📊 Customer Lifetime Spend Distribution</div></div>
+            <div id="chart-customer-histogram" class="chart-wrapper"></div>
+          </div>
+          <div class="card">
+            <div class="card-header"><div class="card-title">🎯 Customer Quartiles Segmentation</div></div>
+            <div id="chart-customer-tiers" class="chart-wrapper"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ===================================================================
+           VIEW 6: PAYMENT ANALYSIS
+           =================================================================== -->
+      <section class="view-section" id="view-payment">
+        <div class="callout-box" id="payment-warning" style="display:none; border-left-color:var(--danger); color:var(--danger);">
+          ⚠️ Payment Method is not mapped. Please map Payment Method to inspect settlement adoption.
+        </div>
+
+        <div class="grid-2">
+          <div class="card">
+            <div class="card-header"><div class="card-title">💳 Payment Channel Volume & Revenue</div></div>
+            <div class="table-responsive">
+              <table class="data-table">
+                <thead>
+                  <tr>
+                    <th>Payment Method</th>
+                    <th>Revenue</th>
+                    <th>Transactions</th>
+                    <th>AOV</th>
+                    <th>Share</th>
+                  </tr>
+                </thead>
+                <tbody id="payment-summary-tbody"></tbody>
+              </table>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-header"><div class="card-title">🍩 Payment Channel Share</div></div>
+            <div id="chart-payment-donut" class="chart-wrapper"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title">📊 Contingency Table: Category vs Payment Method</div>
+            <span class="badge-unit badge-unit-4">UNIT 4 TOPIC</span>
+          </div>
+          <div class="table-responsive">
+            <table class="data-table">
+              <thead id="contingency-thead"></thead>
+              <tbody id="contingency-tbody"></tbody>
+            </table>
+          </div>
+          <div class="callout-box" id="chi-square-report" style="margin-top:16px; margin-bottom:0;"></div>
+        </div>
+      </section>
+
+      <!-- ===================================================================
+           VIEW 7: UNIT 4 - BIVARIATE & RESISTANT LINE
+           =================================================================== -->
+      <section class="view-section" id="view-bivariate">
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title">
+              <span class="badge-unit badge-unit-4">UNIT 4</span>
+              Tukey's Resistant Line vs Ordinary Least Squares (OLS)
+            </div>
+            <div style="display:flex; gap:12px;">
+              <select class="form-select form-select-sm" id="bivariate-x-select" style="width:160px;"></select>
+              <select class="form-select form-select-sm" id="bivariate-y-select" style="width:160px;"></select>
+            </div>
+          </div>
+
+          <div class="kpi-grid" style="margin-bottom:16px;">
+            <div class="kpi-card">
+              <div class="kpi-label">Tukey's Resistant Line</div>
+              <div class="kpi-value" id="resistant-equation" style="font-size:1.2rem;">y = a + bx</div>
+              <div class="kpi-subtext">3-Group Robust Partition</div>
+            </div>
+            <div class="kpi-card">
+              <div class="kpi-label">OLS Linear Regression</div>
+              <div class="kpi-value" id="ols-equation" style="font-size:1.2rem;">y = c + mx</div>
+              <div class="kpi-subtext">Least Squares Best Fit</div>
+            </div>
+            <div class="kpi-card" style="grid-column: span 2;">
+              <div class="kpi-label">Tukey 3-Group Medians (Left, Middle, Right)</div>
+              <div class="kpi-value" id="tukey-medians-text" style="font-size:1.1rem;">-</div>
+              <div class="kpi-subtext">Outer slope b = (y_R - y_L) / (x_R - x_L)</div>
+            </div>
+          </div>
+
+          <div id="chart-resistant-scatter" class="chart-wrapper tall"></div>
+
+          <div class="callout-box" style="margin-top:20px; margin-bottom:0;">
+            <strong>Theoretical Syllabus Proof:</strong><br>
+            Standard Ordinary Least Squares (OLS) minimizes squared vertical residuals ($\sum e_i^2$), making it vulnerable to leverage points and extreme ticket outliers. <strong>Tukey's Resistant Line</strong> partitions the ordered data into three equal batches (Left, Middle, Right) and derives the slope strictly from partition medians $(x_L, y_L)$ and $(x_R, y_R)$, providing robustness against heavy-tailed e-commerce purchases.
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title">📦 Handling Several Batches: Departmental Spend Distributions</div>
+          </div>
+          <div id="chart-batch-boxplot" class="chart-wrapper"></div>
+        </div>
+      </section>
+
+      <!-- ===================================================================
+           VIEW 8: UNIT 5 - MULTIVARIATE ANALYSIS
+           =================================================================== -->
+      <section class="view-section" id="view-multivariate">
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title">
+              <span class="badge-unit badge-unit-5">UNIT 5</span>
+              Multivariate Correlation Matrix & Interaction Mapping
+            </div>
+          </div>
+          
+          <div class="grid-2">
+            <div>
+              <h5 style="margin-bottom:12px; font-weight:700;">🔥 Pearson Correlation Heatmap</h5>
+              <div id="chart-correlation-heatmap" class="chart-wrapper"></div>
+            </div>
+            <div>
+              <h5 style="margin-bottom:12px; font-weight:700;">🎯 Multivariate Bubble Interaction</h5>
+              <div id="chart-multivariate-bubble" class="chart-wrapper"></div>
+            </div>
+          </div>
+
+          <div class="callout-box" style="margin-top:20px; margin-bottom:0;">
+            <strong>Multivariate & Causal Conditioning:</strong><br>
+            Introducing third variables (such as consumer loyalty tiers or regional locations) prevents Simpson's Paradox and resolves confounding effects in price sensitivity and basket size.
+          </div>
+        </div>
+      </section>
+
+      <!-- ===================================================================
+           VIEW 9: UNIT 5 - TIME SERIES ANALYSIS
+           =================================================================== -->
+      <section class="view-section" id="view-timeseries">
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title">
+              <span class="badge-unit badge-unit-5">UNIT 5</span>
+              Time Series Dynamics & Resampling
+            </div>
+            <div style="display:flex; align-items:center; gap:16px;">
+              <span style="font-size:0.85rem; font-weight:600;">Resample By:</span>
+              <label style="display:flex; align-items:center; gap:4px; font-size:0.85rem; cursor:pointer;">
+                <input type="radio" name="ts-freq" value="D"> Daily
+              </label>
+              <label style="display:flex; align-items:center; gap:4px; font-size:0.85rem; cursor:pointer;">
+                <input type="radio" name="ts-freq" value="W"> Weekly
+              </label>
+              <label style="display:flex; align-items:center; gap:4px; font-size:0.85rem; cursor:pointer;">
+                <input type="radio" name="ts-freq" value="M" checked> Monthly
+              </label>
+              <label style="display:flex; align-items:center; gap:4px; font-size:0.85rem; cursor:pointer;">
+                <input type="radio" name="ts-freq" value="Q"> Quarterly
+              </label>
+            </div>
+          </div>
+
+          <div id="chart-timeseries-main" class="chart-wrapper tall"></div>
+        </div>
+
+        <div class="grid-3">
+          <div class="card">
+            <div class="card-header"><div class="card-title">📈 Cumulative Revenue</div></div>
+            <div id="chart-cumulative-area" class="chart-wrapper"></div>
+          </div>
+          <div class="card">
+            <div class="card-header"><div class="card-title">📦 Order Volume by Period</div></div>
+            <div id="chart-orders-count-bar" class="chart-wrapper"></div>
+          </div>
+          <div class="card">
+            <div class="card-header"><div class="card-title">📅 Intra-Week Seasonality</div></div>
+            <div id="chart-seasonality-days" class="chart-wrapper"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ===================================================================
+           VIEW 10: DOWNLOAD & REPORTS
+           =================================================================== -->
+      <section class="view-section" id="view-exports">
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title">💾 Export Cleaned Datasets & Intelligence Briefs</div>
+          </div>
+          <div class="grid-3">
+            <div class="card" style="margin-bottom:0;">
+              <div class="card-title" style="font-size:0.95rem;">📥 Cleaned Data (CSV)</div>
+              <p style="font-size:0.82rem; color:var(--text-muted); margin:8px 0 16px;">Download dataset with duplicates purged and nulls imputed.</p>
+              <button class="btn btn-primary btn-sm" onclick="exportCleanedData()">Download Cleaned CSV</button>
+            </div>
+
+            <div class="card" style="margin-bottom:0;">
+              <div class="card-title" style="font-size:0.95rem;">📊 Category Summary (CSV)</div>
+              <p style="font-size:0.82rem; color:var(--text-muted); margin:8px 0 16px;">Download revenue, orders, AOV, and volume shares.</p>
+              <button class="btn btn-primary btn-sm" onclick="exportCategorySummary()">Download Category CSV</button>
+            </div>
+
+            <div class="card" style="margin-bottom:0;">
+              <div class="card-title" style="font-size:0.95rem;">📈 Monthly Revenue (CSV)</div>
+              <p style="font-size:0.82rem; color:var(--text-muted); margin:8px 0 16px;">Download resampled monthly revenue and growth trends.</p>
+              <button class="btn btn-primary btn-sm" onclick="exportMonthlyRevenue()">Download Monthly CSV</button>
+            </div>
+          </div>
+
+          <div style="margin-top:24px; padding-top:20px; border-top:1px solid var(--border-color); display:flex; justify-content:space-between; align-items:center;">
+            <div>
+              <strong>Printable PDF Report:</strong>
+              <p style="font-size:0.82rem; color:var(--text-muted);">Use browser printing to generate a clean, print-optimized PDF summary.</p>
+            </div>
+            <button class="btn btn-secondary" onclick="printExecutiveReport()">🖨️ Print / Save as PDF</button>
+          </div>
+        </div>
+
+        <!-- Academic Syllabus Mapping Card -->
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title">🎓 Academic Syllabus Mapping & Methodological Rigor</div>
+          </div>
+          <div class="grid-2">
+            <div class="card" style="margin-bottom:0; background:var(--primary-subtle); border-color:#bfdbfe;">
+              <span class="badge-unit badge-unit-4">UNIT 4 SYLLABUS TOPICS</span>
+              <h4 style="margin:10px 0 6px;">Bivariate Relationships & Robust Fitting</h4>
+              <ul style="font-size:0.85rem; padding-left:20px; line-height:1.7;">
+                <li><strong>Two-Variable Relationships:</strong> Price vs Volume, Spend vs Quantity.</li>
+                <li><strong>Percentage Tables:</strong> Row-wise conditional probabilities ($P(\text{Payment} \mid \text{Category})$) and column-wise distributions.</li>
+                <li><strong>Contingency Tables & $\chi^2$:</strong> Cross-tabulation with Pearson's Chi-Square Test of Independence.</li>
+                <li><strong>Handling Several Batches:</strong> Comparative boxplots across product departments.</li>
+                <li><strong>Tukey's Resistant Line:</strong> Partitioning ordered data into 3 equal batches to compute median slope $b = \frac{y_R - y_L}{x_R - x_L}$.</li>
+              </ul>
+            </div>
+
+            <div class="card" style="margin-bottom:0; background:var(--warning-bg); border-color:#fde68a;">
+              <span class="badge-unit badge-unit-5">UNIT 5 SYLLABUS TOPICS</span>
+              <h4 style="margin:10px 0 6px;">Multivariate Analysis & Time Series</h4>
+              <ul style="font-size:0.85rem; padding-left:20px; line-height:1.7;">
+                <li><strong>Third Conditioning Variable:</strong> Controlling for Customer Lifetime Spend Tiers.</li>
+                <li><strong>Three-Variable Contingency:</strong> Category $\times$ Payment Method stratified by Spend Tier.</li>
+                <li><strong>Correlation Matrix:</strong> Pearson pairwise correlation heatmap.</li>
+                <li><strong>Time Series Fundamentals:</strong> Secular Trend, Seasonality, Cyclicality, and Noise decomposition.</li>
+                <li><strong>Frequency Resampling:</strong> Converting timestamps to Daily (`D`), Weekly (`W`), Monthly (`M`), and Quarterly (`Q`) intervals.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </main>
+</div>
+
+<!-- Main Application Engine -->
+<script src="script.js"></script>
+</body>
+</html>
