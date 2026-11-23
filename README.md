@@ -1,4 +1,5 @@
 # ONLINE SHOPPING BEHAVIOUR AND PURCHASE TREND ANALYSIS
+https://edaprojects.github.io/Online_Shopping_Behaviour_Analysis/
 
 ## College-Level Comprehensive Exploratory Data Analysis & Business Intelligence System
 
@@ -216,7 +217,7 @@ This project includes a **100% serverless, zero-backend, pure client-side web pl
    * Click **Save**.
 3. Within 1–2 minutes, your website is live at:
    ```
-   https://<your-username>.github.io/<your-repo-name>/
+  [ https://<your-username>.github.io/<your-repo-name>/](https://edaprojects.github.io/Online_Shopping_Behaviour_Analysis/)
    ```
 
 ### Running Locally (Without Server or Offline):
